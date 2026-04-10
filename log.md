@@ -3,3 +3,4 @@
 - [] 
 - [PersonalTracking] test auto daily log
 - [] 
+- [PersonalTracking] test hook again
