@@ -2,3 +2,4 @@
 - [] 
 - [] 
 - [PersonalTracking] test auto daily log
+- [] 
