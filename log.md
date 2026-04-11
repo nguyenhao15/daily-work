@@ -99,3 +99,8 @@
   - **Project**: Mobile
   - **Message**: chore(obsidian): update vault - 2026-04-11 10:49:57
 
+---
+### Date: 2026-04-11 11:42:54
+  - **Project**: mindx
+  - **Message**: feat: Implement maintenance workflow for proposal management and soft delete functionality
+
