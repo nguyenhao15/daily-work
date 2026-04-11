@@ -111,3 +111,7 @@
   - **Project**: mindx
   - **Message**: Rebase modules 
 
+  - **Time**: 16:46:42
+  - **Project**: mindx
+  - **Message**: feat: Implement maintenance workflow for proposal management and soft delete functionality Add maintenance proposal workflow and soft delete support Introduces a workflow controller for managing maintenance proposals, enabling batch proposal creation and soft deletion of proposals. Enhances proposal update logic and aligns service interfaces for clearer separation of workflow and proposal management concerns. Facilitates better maintainability and data integrity by allowing proposals to be soft deleted instead of permanently removed. 
+
