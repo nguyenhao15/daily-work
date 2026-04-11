@@ -69,3 +69,8 @@
   - **Project**: mindx
   - **Message**: test hook again
 
+---
+### Date: 2026-04-11 10:18:53
+  - **Project**: mindx
+  - **Message**: feat: Add endpoint to update maintenance details in MaintenanceController
+
