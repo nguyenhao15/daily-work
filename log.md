@@ -130,3 +130,7 @@
   - **Project**: mindx
   - **Message**: Modularizes auth and department features Refactors authentication and department-related code into dedicated module directories to improve project structure and maintainability. Updates imports across the codebase to match new paths and enhances type safety in forms. No functional changes to business logic. 
 
+  - **Time**: 09:13:06
+  - **Project**: mindx
+  - **Message**: Refactors department schema import structure Moves department schema and related types to a more appropriate module directory to improve code organization and modularity. Updates all relevant imports to reflect the new path, reducing coupling between validation and feature modules. 
+
