@@ -170,3 +170,7 @@
   - **Project**: mindx
   - **Message**: Refactors constants structure and adds Home page Moves shared constants to a module-specific location to improve organization and maintainability. Introduces a new Home page listing available modules and updates imports to reflect the new constants paths. Enhances onboarding experience by providing a central landing page for navigation. 
 
+  - **Time**: 22:01:19
+  - **Project**: mindx
+  - **Message**: Unifies API endpoint constants and enhances homepage UI Centralizes and refactors API endpoint constants for consistency and easier maintenance across modules. Updates backend and frontend routes to introduce an asset namespace for maintenance-related APIs. Redesigns the homepage UI for better user experience with personalized info and module descriptions. Improves code organization and loading states with React Suspense and lazy loading. 
+
