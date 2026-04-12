@@ -158,3 +158,7 @@
   - **Project**: mindx
   - **Message**: Refactors document-related code into modular structure Organizes all document and process flow logic, components, hooks, and queries under a dedicated feature module to improve maintainability and clarity. Updates imports throughout the codebase to reflect the new locations. Enhances project structure for scalability and future development. 
 
+  - **Time**: 18:51:06
+  - **Project**: mindx
+  - **Message**: Refactors tag management and restructures routing Modularizes tag-related logic and components by relocating them under a unified documentation module, improving maintainability and separation of concerns. Introduces dedicated route components for admin and documentation flows, streamlining navigation and access control. Cleans up imports, removes unused components, and updates menu paths for consistency with the new structure. Enhances scalability and clarity of project architecture by grouping related functionalities, making future development and onboarding easier. 
+
