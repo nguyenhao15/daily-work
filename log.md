@@ -142,3 +142,7 @@
   - **Project**: mindx
   - **Message**: Refactors position and working field modules for better structure Moves position and working field related logic, components, and hooks into dedicated module directories under a core structure, improving maintainability and code organization. Updates imports throughout to match the new structure. Refactors working field form logic to use strongly typed boolean values for the active field, aligning with updated schema validation and improving type safety. 
 
+  - **Time**: 16:30:55
+  - **Project**: mindx
+  - **Message**: Moves profile components under auth module structure Improves project organization by relocating profile-related components into the authentication module and updating import paths for consistency. Enhances maintainability and clarifies module boundaries. 
+
