@@ -119,3 +119,10 @@
   - **Project**: mindx
   - **Message**: Revert "Rebase modules" This reverts commit 4c2eb12b8c8d7f1373937d97bfb73ce83d45b8f3. 
 
+---
+### Date: 2026-04-12
+
+  - **Time**: 08:33:20
+  - **Project**: mindx
+  - **Message**: Refactors auth logic into core module and updates imports Modularizes authentication by moving related logic, schemas, and API calls under a core auth directory, improving project structure and maintainability. Updates all affected imports and adds new path aliases for cleaner code referencing. Also removes an unused session component and cleans up minor formatting. 
+
