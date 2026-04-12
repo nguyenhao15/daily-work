@@ -146,3 +146,7 @@
   - **Project**: mindx
   - **Message**: Moves profile components under auth module structure Improves project organization by relocating profile-related components into the authentication module and updating import paths for consistency. Enhances maintainability and clarifies module boundaries. 
 
+  - **Time**: 17:07:10
+  - **Project**: mindx
+  - **Message**: Refactors admin and basement modules into feature folders Improves codebase structure by moving admin and basement logic, hooks, APIs, and schemas into dedicated feature-based directories. Updates imports across the codebase to reflect the new locations, enhancing maintainability and modularity. Removes a redundant auth index file and introduces dedicated route definitions for authentication pages to clarify routing. 
+
