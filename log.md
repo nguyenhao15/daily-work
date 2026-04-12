@@ -154,3 +154,7 @@
   - **Project**: mindx
   - **Message**: Refactors attachment feature into modular structure Moves attachment-related components, hooks, and actions into a dedicated module to improve project organization and maintainability. Updates imports throughout the codebase to reflect the new structure, enabling better separation of concerns and easier future development. 
 
+  - **Time**: 18:15:11
+  - **Project**: mindx
+  - **Message**: Refactors document-related code into modular structure Organizes all document and process flow logic, components, hooks, and queries under a dedicated feature module to improve maintainability and clarity. Updates imports throughout the codebase to reflect the new locations. Enhances project structure for scalability and future development. 
+
