@@ -166,3 +166,7 @@
   - **Project**: mindx
   - **Message**: Moves user form components to admin module and cleans up Relocates user form and related components to a more appropriate admin directory for improved project structure and maintainability. Removes an unused internal working system component to reduce clutter. 
 
+  - **Time**: 19:46:55
+  - **Project**: mindx
+  - **Message**: Refactors constants structure and adds Home page Moves shared constants to a module-specific location to improve organization and maintainability. Introduces a new Home page listing available modules and updates imports to reflect the new constants paths. Enhances onboarding experience by providing a central landing page for navigation. 
+
