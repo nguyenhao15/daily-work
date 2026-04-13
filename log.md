@@ -1,5 +1,8 @@
 ### 2026-04-13
 
+- 08:20:37 | mindx
+  → Adds active/deleted fields and API for maintenance categories Introduces isDeleted and active properties to maintenance category data structures and entities for better status tracking. Implements an endpoint to fetch active maintenance categories, updates mapping and service logic accordingly, and enhances the maintenance form UI with a dynamic combobox for selecting maintenance categories. These changes improve maintainability and set the stage for advanced filtering and validation in asset management workflows. 
+
 - 07:48:07 | mindx
   → Refactors maintenance request creation form and schema Improves the maintenance request creation page by updating form validation, default values, and UI text for clarity and correctness. Refines schema validation rules and types to better reflect required fields and user input, enhancing reliability and user experience. 
 
