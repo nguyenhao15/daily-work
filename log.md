@@ -1,5 +1,8 @@
 ### 2026-04-13
 
+- 17:14:12 | mindx
+  → Adds date picker and improves form validation UX Introduces a reusable date picker component and integrates it into the maintenance form for selecting issue dates. Enhances input component flexibility by supporting variable label sizes and propagating error states for better accessibility. Refines form validation rules and data schema to use appropriate types (e.g., Date, number), improving data integrity and user feedback. 
+
 - 16:04:43 | mindx
   → Replace manual combobox with reusable component Introduces a new reusable and customizable combobox component for both single and multiple selection, replacing the previous manual implementation. Simplifies form integration and improves maintainability by standardizing UI logic. Enhances flexibility for future input needs and ensures consistent styling and validation across the app. 
 
