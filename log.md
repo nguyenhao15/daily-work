@@ -1,5 +1,8 @@
 ### 2026-04-13
 
+- 10:29:12 | mindx
+  → Refactors maintenance category provider API integration Standardizes the maintenance category provider endpoint path and cleans up unused debug output. Updates frontend to use the new endpoint and integrates a dedicated maintenance category component for improved maintainability and reusability in the maintenance form UI. 
+
 - 08:20:37 | mindx
   → Adds active/deleted fields and API for maintenance categories Introduces isDeleted and active properties to maintenance category data structures and entities for better status tracking. Implements an endpoint to fetch active maintenance categories, updates mapping and service logic accordingly, and enhances the maintenance form UI with a dynamic combobox for selecting maintenance categories. These changes improve maintainability and set the stage for advanced filtering and validation in asset management workflows. 
 
