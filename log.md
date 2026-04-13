@@ -1,5 +1,8 @@
 ### 2026-04-13
 
+- 16:04:43 | mindx
+  → Replace manual combobox with reusable component Introduces a new reusable and customizable combobox component for both single and multiple selection, replacing the previous manual implementation. Simplifies form integration and improves maintainability by standardizing UI logic. Enhances flexibility for future input needs and ensures consistent styling and validation across the app. 
+
 - 10:29:12 | mindx
   → Refactors maintenance category provider API integration Standardizes the maintenance category provider endpoint path and cleans up unused debug output. Updates frontend to use the new endpoint and integrates a dedicated maintenance category component for improved maintainability and reusability in the maintenance form UI. 
 
