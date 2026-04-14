@@ -1,5 +1,8 @@
 ### 2026-04-14
 
+- 09:20:11 | mindx
+  → Adds attachment support and enhances combobox UI Introduces file attachment functionality to the maintenance form with validation, requiring at least one file and supporting multiple file types. Improves combobox components by adding icon support for better usability. Updates validation and visual feedback for file inputs to provide clearer user guidance. 
+
 - 07:38:40 | mindx
   → Refactors maintenance form and adds UI/UX design samples Refactors the maintenance request form to support category-dependent item selection and facility options, improving usability and extensibility. Introduces new modular components for category, item, and facility dropdowns. Sets default dates, updates button variants, and enhances form layout for clarity. Adds detailed UI/UX design documentation and React+Tailwind sample screens for dashboard, request creation, and ticket detail, aligning implementation with minimalist design standards and future development guidelines. 
 
