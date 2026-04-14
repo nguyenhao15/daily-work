@@ -1,5 +1,8 @@
 ### 2026-04-14
 
+- 11:56:34 | mindx
+  → Enhances UI consistency and adds maintenance info panel Unifies input backgrounds across form components for a more consistent interface. Introduces an information panel with maintenance submission tips to guide users. Refactors layout to display both the form and info side-by-side, improving usability and clarity. 
+
 - 10:05:20 | mindx
   → Enables file attachments in maintenance request creation Supports uploading multiple files with maintenance requests by updating backend endpoints to accept multipart form data and integrating file handling in the service layer. Updates frontend form handling and API interactions to send attachments, improving user workflow for submitting relevant documents with requests. 
 
