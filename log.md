@@ -1,5 +1,8 @@
 ### 2026-04-14
 
+- 10:05:20 | mindx
+  → Enables file attachments in maintenance request creation Supports uploading multiple files with maintenance requests by updating backend endpoints to accept multipart form data and integrating file handling in the service layer. Updates frontend form handling and API interactions to send attachments, improving user workflow for submitting relevant documents with requests. 
+
 - 09:20:11 | mindx
   → Adds attachment support and enhances combobox UI Introduces file attachment functionality to the maintenance form with validation, requiring at least one file and supporting multiple file types. Improves combobox components by adding icon support for better usability. Updates validation and visual feedback for file inputs to provide clearer user guidance. 
 
