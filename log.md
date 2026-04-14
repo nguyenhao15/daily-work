@@ -1,5 +1,8 @@
 ### 2026-04-14
 
+- 19:50:26 | mindx
+  → Refactors maintenances list UI and schema handling Introduces reusable gallery and card components to display maintenance requests, improving separation of concerns and code readability. Refines data fetching and schema validation logic for better type safety and API compatibility, and updates status handling to match backend conventions. 
+
 - 16:58:48 | mindx
   → Adds maintenance item schemas and paginated maintenance fetching Introduces schema and type definitions for maintenance items and updates maintenance category typing for improved data consistency. Implements filterable, paginated fetching of maintenance requests with validation, enhancing scalability and UI responsiveness. Refines existing UI to better indicate loading states and aligns with updated design guidance. 
 
