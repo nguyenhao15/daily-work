@@ -1,5 +1,8 @@
 ### 2026-04-14
 
+- 21:07:14 | mindx
+  → Refactors maintenance menu and splits request list page Updates the maintenance menu to add a dashboard overview and separates the maintenance request list into its own page for improved navigation and clarity. Moves request list logic from the previous home page to a new component, streamlines form handling, and fixes various import paths for consistency. Improves the not found page layout for better display within the app. 
+
 - 20:49:24 | mindx
   → Refactors maintenance schema and improves data validation Aligns maintenance category and item schemas with consistent naming and structure, adds stricter Zod validation for API responses, and standardizes type usage. Replaces card-based maintenance gallery with a paginated data table for better readability and scalability. Improves status styling and handles API data mismatch warnings for more robust frontend error handling. 
 
