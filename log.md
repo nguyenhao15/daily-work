@@ -1,5 +1,8 @@
 ### 2026-04-14
 
+- 20:49:24 | mindx
+  → Refactors maintenance schema and improves data validation Aligns maintenance category and item schemas with consistent naming and structure, adds stricter Zod validation for API responses, and standardizes type usage. Replaces card-based maintenance gallery with a paginated data table for better readability and scalability. Improves status styling and handles API data mismatch warnings for more robust frontend error handling. 
+
 - 19:50:26 | mindx
   → Refactors maintenances list UI and schema handling Introduces reusable gallery and card components to display maintenance requests, improving separation of concerns and code readability. Refines data fetching and schema validation logic for better type safety and API compatibility, and updates status handling to match backend conventions. 
 
