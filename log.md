@@ -1,5 +1,8 @@
 ### 2026-04-15
 
+- 21:20:53 | mindx
+  → Add module tracking and asset maintenance detail UI Introduces module type support for attachments in the backend to enable better organization and context-aware file handling. Updates service interfaces and implementations to handle module information. Enhances the asset maintenance frontend with a new, detailed maintenance ticket page, including header, timeline, progress stepper, before/after media, and technical solution components. Improves layout and input card usability for a richer user experience. Facilitates future expansion and easier maintenance tracking across modules. 
+
 - 11:56:57 | Nguyenhao15
   → chore(obsidian): update vault - 2026-04-15 11:56:57 
 
