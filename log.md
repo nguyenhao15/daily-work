@@ -1,5 +1,8 @@
 ### 2026-04-15
 
+- 09:58:00 | mindx
+  → Improves form input reactivity and fixes default value handling Refactors combobox, date picker, and attachment components to better sync with external value changes and form states. Ensures default values are correctly normalized and updates internal state accordingly, especially when options or values change. Cleans up unused state and improves loading and disabling logic for greater reliability in dynamic forms. 
+
 - 08:54:21 | mindx
   → Adds loading and disabled states to form components Improves user experience by introducing isLoading and disabled props to input elements and form controls, preventing user interaction during async operations. Refactors routing for maintainability by moving maintenance module routes to a dedicated file. 
 
