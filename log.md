@@ -1,5 +1,8 @@
 ### 2026-04-16
 
+- 15:20:42 | mindx
+  → Integrates attachment retrieval with pre-signed URLs in maintenance details Enhances maintenance detail responses by providing file attachments with pre-signed URLs, improving file access and download experience. Updates attachment handling to use a unified identifier format and switches data transfer objects for better consistency. 
+
 - 14:34:30 | mindx
   → Adds detailed maintenance info with audit history support Introduces a response DTO for detailed maintenance information, including update history and attached files. Extends service and mapper layers to fetch and return audit updates tied to maintenance records. Refines audit service to query by module type and entity ID for better traceability. Improves attachment file endpoint to use HTTP 302 redirects for file access. 
 
