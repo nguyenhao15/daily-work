@@ -1,3 +1,10 @@
+### 2026-04-16
+
+- 11:03:06 | mindx
+  → Adds audit update tracking and integrates JaVers auditing Introduces new audit update DTO, entity, and repository to support recording and querying updates for better traceability. Integrates JaVers for entity change auditing, configuring it for PostgreSQL and applying auditing to maintenance update operations. Removes DOCX from supported file types in file upload UI to restrict file formats. 
+
+---
+
 ### 2026-04-15
 
 - 21:20:53 | mindx
