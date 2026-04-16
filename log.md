@@ -1,5 +1,8 @@
 ### 2026-04-16
 
+- 11:20:33 | mindx
+  → Introduce audit update service and mapping interfaces Adds interfaces and initial service implementation to support audit update operations, enabling mapping between DTOs, request objects, and entities. Lays groundwork for handling audit-related updates in the system. 
+
 - 11:03:06 | mindx
   → Adds audit update tracking and integrates JaVers auditing Introduces new audit update DTO, entity, and repository to support recording and querying updates for better traceability. Integrates JaVers for entity change auditing, configuring it for PostgreSQL and applying auditing to maintenance update operations. Removes DOCX from supported file types in file upload UI to restrict file formats. 
 
