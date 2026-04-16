@@ -1,5 +1,8 @@
 ### 2026-04-16
 
+- 20:48:15 | mindx
+  → Refactors maintenance detail handling and attachment previews Refactors maintenance detail page to load dynamic data, improve status management, and display richer incident information. Splits attachment handling into media and document sections, enhances preview for images, videos, and PDFs, and centralizes file utility logic for maintainability. Improves type safety and navigation for editing, and updates API to use numeric IDs for consistency. 
+
 - 15:20:42 | mindx
   → Integrates attachment retrieval with pre-signed URLs in maintenance details Enhances maintenance detail responses by providing file attachments with pre-signed URLs, improving file access and download experience. Updates attachment handling to use a unified identifier format and switches data transfer objects for better consistency. 
 
