@@ -1,5 +1,8 @@
 ### 2026-04-16
 
+- 14:34:30 | mindx
+  → Adds detailed maintenance info with audit history support Introduces a response DTO for detailed maintenance information, including update history and attached files. Extends service and mapper layers to fetch and return audit updates tied to maintenance records. Refines audit service to query by module type and entity ID for better traceability. Improves attachment file endpoint to use HTTP 302 redirects for file access. 
+
 - 11:41:04 | mindx
   → Adds audit logging to maintenance updates Integrates audit tracking into maintenance update operations by introducing a new DTO, updating service interfaces and implementations, and refactoring status update logic. Enhances traceability and maintains a clearer history of changes for maintenance records. 
 
