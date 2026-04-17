@@ -1,5 +1,8 @@
 ### 2026-04-17
 
+- 10:59:55 | mindx
+  → Adds maintenance update flow with audit tracking Introduces a modular maintenance update form and modal, supporting audit fields and enforcing status changes via schema validation. Refactors attachment gallery logic for better media handling. Enables future audit trails and improves maintainability by centralizing constants and validation. 
+
 - 08:28:44 | mindx
   → Refactors maintenance detail view and improves pagination Modularizes maintenance detail info into a standalone component for cleaner structure and reusability. Enhances pagination by exposing total pages from backend and wiring page change events across UI. Improves date formatting and description display for better user clarity. Cleans up homepage and adjusts attachment fetching to use a config object for flexibility. 
 
