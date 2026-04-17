@@ -1,5 +1,8 @@
 ### 2026-04-17
 
+- 23:02:07 | mindx
+  → Refactors maintenance update flow and standardizes field names Improves maintenance update process by removing the separate status update endpoint and consolidating logic into a unified update handler. Standardizes inspection date field from "inspection_at" to "inspectAt" across backend and frontend for consistency. Updates various frontend components to use new DTOs and field names, and enhances activity timeline display. Simplifies routing and module path usage for better maintainability and consistency. 
+
 - 17:05:41 | mindx
   → Refactors maintenance update API and improves audit handling Removes unnecessary API path segments for update and delete operations, streamlining endpoints for consistency between backend and frontend. Adjusts maintenance update form to send a structured payload including audit data, and disables the update button during pending requests to enhance UX. Makes audit update value optional to allow more flexible payloads. Temporarily disables audit annotation on backend for further review. 
 
