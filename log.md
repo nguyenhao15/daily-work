@@ -1,5 +1,8 @@
 ### 2026-04-17
 
+- 17:05:41 | mindx
+  → Refactors maintenance update API and improves audit handling Removes unnecessary API path segments for update and delete operations, streamlining endpoints for consistency between backend and frontend. Adjusts maintenance update form to send a structured payload including audit data, and disables the update button during pending requests to enhance UX. Makes audit update value optional to allow more flexible payloads. Temporarily disables audit annotation on backend for further review. 
+
 - 16:18:43 | mindx
   → Adds dynamic maintenance status transitions and modal update UI Introduces server-driven available action fetching for maintenance status updates, enabling buttons to reflect valid transitions based on current state. Refactors modal and form logic to improve update experience, supporting date fields and cleaner state management. Enhances maintainability and consistency by syncing backend and frontend on allowed actions. 
 
