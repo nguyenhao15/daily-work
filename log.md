@@ -1,5 +1,8 @@
 ### 2026-04-17
 
+- 16:18:43 | mindx
+  → Adds dynamic maintenance status transitions and modal update UI Introduces server-driven available action fetching for maintenance status updates, enabling buttons to reflect valid transitions based on current state. Refactors modal and form logic to improve update experience, supporting date fields and cleaner state management. Enhances maintainability and consistency by syncing backend and frontend on allowed actions. 
+
 - 10:59:55 | mindx
   → Adds maintenance update flow with audit tracking Introduces a modular maintenance update form and modal, supporting audit fields and enforcing status changes via schema validation. Refactors attachment gallery logic for better media handling. Enables future audit trails and improves maintainability by centralizing constants and validation. 
 
