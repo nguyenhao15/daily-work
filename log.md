@@ -1,5 +1,8 @@
 ### 2026-04-18
 
+- 20:28:44 | mindx
+  → Renames status fields and enhances action handling Refactors status-related field names for clarity and updates frontend and backend logic to handle structured action responses with improved button variants. Enables more flexible and descriptive approval workflows and UI interactions. 
+
 - 18:49:50 | mindx
   → Adds approval workflow controllers and improves action retrieval Introduces REST controllers for approval policies and workflow transitions, enabling creation, update, deletion, and paginated retrieval via API. Refactors maintenance action retrieval to use a new approval engine utility, returning richer action data for frontend integration. Adds description fields to approval entities and DTOs, and expands workflow transition data model to support labels and action types for improved process flexibility. 
 
