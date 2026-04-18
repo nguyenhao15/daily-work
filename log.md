@@ -1,5 +1,8 @@
 ### 2026-04-18
 
+- 18:49:50 | mindx
+  → Adds approval workflow controllers and improves action retrieval Introduces REST controllers for approval policies and workflow transitions, enabling creation, update, deletion, and paginated retrieval via API. Refactors maintenance action retrieval to use a new approval engine utility, returning richer action data for frontend integration. Adds description fields to approval entities and DTOs, and expands workflow transition data model to support labels and action types for improved process flexibility. 
+
 - 14:56:58 | mindx
   → Refactors approval workflow to support flexible approver types Replaces static approver position lists with a dynamic allow type and value system, enabling approvals to be assigned by department, position, or user ID. Updates entity design, DTOs, and repositories accordingly, and introduces paginated, spec-based queries for greater flexibility. Adds enabled flag and related methods for workflow transitions to improve manageability. 
 
