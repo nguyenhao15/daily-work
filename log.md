@@ -1,3 +1,10 @@
+### 2026-04-18
+
+- 09:46:49 | mindx
+  → Adds approval policy and workflow transition models Introduces new entity, DTO, mapper, repository, and service layers for managing approval policies and workflow transitions. Enables structured handling of approval workflows, positions, and transitions between workflow statuses, enhancing modularity and maintainability of approval-related business logic. 
+
+---
+
 ### 2026-04-17
 
 - 23:02:07 | mindx
