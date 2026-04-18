@@ -1,5 +1,8 @@
 ### 2026-04-18
 
+- 14:56:58 | mindx
+  → Refactors approval workflow to support flexible approver types Replaces static approver position lists with a dynamic allow type and value system, enabling approvals to be assigned by department, position, or user ID. Updates entity design, DTOs, and repositories accordingly, and introduces paginated, spec-based queries for greater flexibility. Adds enabled flag and related methods for workflow transitions to improve manageability. 
+
 - 09:46:49 | mindx
   → Adds approval policy and workflow transition models Introduces new entity, DTO, mapper, repository, and service layers for managing approval policies and workflow transitions. Enables structured handling of approval workflows, positions, and transitions between workflow statuses, enhancing modularity and maintainability of approval-related business logic. 
 
