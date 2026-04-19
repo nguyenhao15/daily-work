@@ -1,5 +1,8 @@
 ### 2026-04-19
 
+- 12:40:04 | mindx
+  → Improves access control with enhanced location filtering Refactors location-based filtering to respect global admin privileges and ensure only authorized locations are included in queries. Adds utility for reusable base specifications and streamlines code for clarity and flexibility. Removes redundant logging. 
+
 - 09:00:17 | mindx
   → Refactors maintenance action retrieval to use entity ID Updates backend and frontend logic to fetch available maintenance actions by entity ID instead of status. Adds author-based permission checks for approval policies and extends enumeration for access control. Improves security and accuracy of maintenance workflow. 
 
