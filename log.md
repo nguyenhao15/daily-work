@@ -1,5 +1,8 @@
 ### 2026-04-19
 
+- 15:53:12 | mindx
+  → Refactors maintenance query logic for role-based filtering Introduces a utility to centralize and clarify maintenance query construction, factoring in main work profile and user roles for location and assignment-based filtering. Lowers the admin role threshold and adds support for distinguishing main work profiles, improving permission accuracy and maintainability. 
+
 - 12:40:04 | mindx
   → Improves access control with enhanced location filtering Refactors location-based filtering to respect global admin privileges and ensure only authorized locations are included in queries. Adds utility for reusable base specifications and streamlines code for clarity and flexibility. Removes redundant logging. 
 
