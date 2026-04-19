@@ -1,5 +1,8 @@
 ### 2026-04-19
 
+- 19:59:50 | mindx
+  → Adds 'assignedTo' to maintenance and refactors security queries Introduces the 'assignedTo' field to maintenance entities and related DTOs to support assignment tracking. Refactors security utility methods to accept a business unit field name, enabling more flexible and context-aware query security. Adjusts repository and query logic to use the updated security utility, improving security filtering. Also includes minor UI improvements for input forms. These changes enhance data model expressiveness and strengthen query-level data access controls. 
+
 - 15:53:12 | mindx
   → Refactors maintenance query logic for role-based filtering Introduces a utility to centralize and clarify maintenance query construction, factoring in main work profile and user roles for location and assignment-based filtering. Lowers the admin role threshold and adds support for distinguishing main work profiles, improving permission accuracy and maintainability. 
 
