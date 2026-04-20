@@ -1,5 +1,8 @@
 ### 2026-04-20
 
+- 22:32:36 | mindx
+  → Refactors user and form management for improved UX and consistency Refactors user creation and update flows by separating form components and leveraging React Hook Form's Controller for better handling of controlled inputs. Cleans up unused or redundant code, including removal of legacy job assignment management components. Improves form integration and state synchronization, especially for radio inputs, switches, and comboboxes across the app. Enhances validation consistency and error handling. Simplifies user table modal logic to clearly distinguish between create and update actions. Aims to standardize form state management, reduce duplication, and make UI behavior more predictable for end users. 
+
 - 20:07:51 | mindx
   → Refactors user job assignment inputs and form handling Streamlines job assignment input in user management by moving to modular department and position selectors and updating form schema usage. Removes redundant input fields, simplifies work profile entry for user creation, and ensures proper handling of multiple business units. Enhances maintainability and user experience by decoupling concerns and improving validation logic. 
 
