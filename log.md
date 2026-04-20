@@ -1,5 +1,8 @@
 ### 2026-04-20
 
+- 15:43:34 | mindx
+  → Refactors staff profile management and user DTOs Unifies staff profile handling by introducing a dedicated controller and updating service interfaces to use staff IDs for profile queries. Transitions user DTOs to reference staff profile info instead of work profiles, introduces a user summary DTO for lightweight listings, and restricts admin controller access. Improves separation of concerns and prepares for better HR integration. 
+
 - 14:35:06 | mindx
   → Refactors user work profile structure and logic Migrates work profile handling to a new staff profile domain model, replacing legacy work profile references throughout backend and frontend. Decouples and simplifies user details by introducing new data transfer objects and services for staff profiles. Updates authentication flow and authorization checks to use the unified profile structure. Redesigns frontend work profile management UI, improving clarity and maintainability. Removes editing logic from job assignment sections and introduces dedicated work profile components for display and future management. Aims to improve maintainability, reduce coupling, and provide a more scalable structure for user job assignments and permissions. 
 
