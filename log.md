@@ -1,5 +1,8 @@
 ### 2026-04-20
 
+- 20:07:51 | mindx
+  → Refactors user job assignment inputs and form handling Streamlines job assignment input in user management by moving to modular department and position selectors and updating form schema usage. Removes redundant input fields, simplifies work profile entry for user creation, and ensures proper handling of multiple business units. Enhances maintainability and user experience by decoupling concerns and improving validation logic. 
+
 - 17:50:20 | mindx
   → Refactors user creation to use dedicated DTO and schema Aligns user creation logic with a new, stricter DTO and schema for clarity and correctness, separating creation-specific fields from management/update flows. Enhances type safety and validation for user onboarding, reducing confusion and potential errors when adding new users. 
 
