@@ -1,5 +1,8 @@
 ### 2026-04-20
 
+- 17:03:38 | mindx
+  → Enforces staff profile selection and centralizes profile state Introduces a dedicated staff profile selection component and ensures users select an active work profile before accessing the main app. Refactors profile data structures for clarity and consistency, updates local storage and request headers to track active profile, and cleans up work profile handling in user management. Improves security and user experience by preventing access without a selected profile and aligns frontend and backend profile models. 
+
 - 15:43:34 | mindx
   → Refactors staff profile management and user DTOs Unifies staff profile handling by introducing a dedicated controller and updating service interfaces to use staff IDs for profile queries. Transitions user DTOs to reference staff profile info instead of work profiles, introduces a user summary DTO for lightweight listings, and restricts admin controller access. Improves separation of concerns and prepares for better HR integration. 
 
