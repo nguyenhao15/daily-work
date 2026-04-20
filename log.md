@@ -1,5 +1,8 @@
 ### 2026-04-20
 
+- 17:50:20 | mindx
+  → Refactors user creation to use dedicated DTO and schema Aligns user creation logic with a new, stricter DTO and schema for clarity and correctness, separating creation-specific fields from management/update flows. Enhances type safety and validation for user onboarding, reducing confusion and potential errors when adding new users. 
+
 - 17:03:38 | mindx
   → Enforces staff profile selection and centralizes profile state Introduces a dedicated staff profile selection component and ensures users select an active work profile before accessing the main app. Refactors profile data structures for clarity and consistency, updates local storage and request headers to track active profile, and cleans up work profile handling in user management. Improves security and user experience by preventing access without a selected profile and aligns frontend and backend profile models. 
 
