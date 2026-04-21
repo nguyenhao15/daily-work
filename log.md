@@ -1,5 +1,8 @@
 ### 2026-04-21
 
+- 14:19:20 | mindx
+  → Adds location name to maintenance DTOs and mapping logic Enhances maintenance summary and detail DTOs to include human-readable location names, updating backend mapping and frontend display logic. Improves clarity for users by showing location names instead of IDs throughout maintenance-related views and APIs. 
+
 - 10:51:19 | mindx
   → Improves work profile form UX and enhances mutation handling Adds success toast and heading to the work profile update form, refines button placement, and simplifies default values handling for improved user experience. Updates mutation callbacks to ensure cache invalidation uses the correct staff ID and makes related type generalizations for compatibility. Enhances consistency in value passing for selection controls. 
 
