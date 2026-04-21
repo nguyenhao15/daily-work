@@ -1,5 +1,8 @@
 ### 2026-04-21
 
+- 19:39:53 | mindx
+  → Adds advanced filtering and loading states to workflow UI Enhances workflow management interface by introducing multi-select and status combobox filters, improving user control over data views. Implements proper handling of empty or null filter values on both frontend and backend to prevent unnecessary queries. Updates gallery component to show a loader during data fetch for better UX. Adopts pagination field naming consistency to align with backend changes. 
+
 - 17:36:59 | mindx
   → Adds paginated workflow gallery with improved API usage Introduces a paginated workflow gallery UI and connects it to updated API endpoints for consistent data retrieval. Refactors hooks and validation schema for better type safety and accurate pagination. Applies stricter backend authorization and removes unused specifications for cleaner logic. Enhances user experience and maintainability by unifying workflow data flow and display. 
 
