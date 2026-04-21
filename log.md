@@ -1,5 +1,8 @@
 ### 2026-04-21
 
+- 17:36:59 | mindx
+  → Adds paginated workflow gallery with improved API usage Introduces a paginated workflow gallery UI and connects it to updated API endpoints for consistent data retrieval. Refactors hooks and validation schema for better type safety and accurate pagination. Applies stricter backend authorization and removes unused specifications for cleaner logic. Enhances user experience and maintainability by unifying workflow data flow and display. 
+
 - 17:02:29 | mindx
   → Adds approval policy and workflow management to admin panel Introduces API, hooks, and queries for managing approval policies and workflows in the admin interface. Updates backend and frontend routing for consistency, and integrates a new workflow admin tab. Lays groundwork for future workflow and approval feature expansion. 
 
