@@ -1,3 +1,10 @@
+### 2026-04-21
+
+- 08:55:53 | mindx
+  → Adds admin-managed staff profile creation and management Moves staff profile creation from the authentication flow to the admin interface, enabling admins to add and manage staff work profiles with main/secondary status and activation toggles. Introduces new frontend components and backend adjustments for profile creation, editing, and listing, supporting more granular HR management workflows. 
+
+---
+
 ### 2026-04-20
 
 - 22:32:36 | mindx
