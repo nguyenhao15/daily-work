@@ -1,5 +1,8 @@
 ### 2026-04-21
 
+- 10:51:19 | mindx
+  → Improves work profile form UX and enhances mutation handling Adds success toast and heading to the work profile update form, refines button placement, and simplifies default values handling for improved user experience. Updates mutation callbacks to ensure cache invalidation uses the correct staff ID and makes related type generalizations for compatibility. Enhances consistency in value passing for selection controls. 
+
 - 10:23:47 | mindx
   → Enables editing and improves work profile assignment UX Introduces the ability to edit existing work profiles, refactors work profile selection to support both creation and update flows, and enhances UI feedback by handling loading and disabled states during async actions. Refactors backend logic for staff profile management to ensure only one default profile per staff and exposes additional methods for active profile handling. Improves consistency in frontend option components and removes unused code and debug statements for clarity. 
 
