@@ -1,5 +1,8 @@
 ### 2026-04-21
 
+- 21:10:16 | mindx
+  → Adds reusable dynamic filter component for workflow admin Introduces a configurable filter UI supporting text, select, and date controls, enabling dynamic filter creation for workflow management. Refactors workflow filtering logic to accept arrays of filter definitions, improving scalability and maintainability. Enhances type safety and reduces boilerplate across admin modules. 
+
 - 19:39:53 | mindx
   → Adds advanced filtering and loading states to workflow UI Enhances workflow management interface by introducing multi-select and status combobox filters, improving user control over data views. Implements proper handling of empty or null filter values on both frontend and backend to prevent unnecessary queries. Updates gallery component to show a loader during data fetch for better UX. Adopts pagination field naming consistency to align with backend changes. 
 
