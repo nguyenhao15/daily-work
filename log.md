@@ -1,5 +1,8 @@
 ### 2026-04-21
 
+- 17:02:29 | mindx
+  → Adds approval policy and workflow management to admin panel Introduces API, hooks, and queries for managing approval policies and workflows in the admin interface. Updates backend and frontend routing for consistency, and integrates a new workflow admin tab. Lays groundwork for future workflow and approval feature expansion. 
+
 - 14:19:20 | mindx
   → Adds location name to maintenance DTOs and mapping logic Enhances maintenance summary and detail DTOs to include human-readable location names, updating backend mapping and frontend display logic. Improves clarity for users by showing location names instead of IDs throughout maintenance-related views and APIs. 
 
