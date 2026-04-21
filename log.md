@@ -1,5 +1,8 @@
 ### 2026-04-21
 
+- 10:23:47 | mindx
+  → Enables editing and improves work profile assignment UX Introduces the ability to edit existing work profiles, refactors work profile selection to support both creation and update flows, and enhances UI feedback by handling loading and disabled states during async actions. Refactors backend logic for staff profile management to ensure only one default profile per staff and exposes additional methods for active profile handling. Improves consistency in frontend option components and removes unused code and debug statements for clarity. 
+
 - 08:55:53 | mindx
   → Adds admin-managed staff profile creation and management Moves staff profile creation from the authentication flow to the admin interface, enabling admins to add and manage staff work profiles with main/secondary status and activation toggles. Introduces new frontend components and backend adjustments for profile creation, editing, and listing, supporting more granular HR management workflows. 
 
