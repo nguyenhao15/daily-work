@@ -1,5 +1,8 @@
 ### 2026-04-22
 
+- 17:48:08 | mindx
+  → Refactors maintenance status to use String over enum Replaces enum-based maintenance status with String across DTOs, entities, and service logic to improve flexibility and simplify workflow transitions. Centralizes allowed status transitions within the approval engine utility, removing hardcoded mappings. Updates frontend forms with better defaults and query enabling for improved UX. 
+
 - 16:55:01 | mindx
   → Adds approval policy management UI and workflow enhancements Introduces UI components and forms for managing approval policies alongside workflow transitions, improving admin user experience. Updates backend and frontend logic to support filtering, updating, and validating workflow transitions and approval policies, including module-based queries and enhanced field controls. Refactors validation schemas and data handling for consistency and extensibility. Improves error handling and feedback for workflow updates. Enables future extensibility for workflow and approval policy management. 
 
