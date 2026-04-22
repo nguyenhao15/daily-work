@@ -1,5 +1,8 @@
 ### 2026-04-22
 
+- 16:55:01 | mindx
+  → Adds approval policy management UI and workflow enhancements Introduces UI components and forms for managing approval policies alongside workflow transitions, improving admin user experience. Updates backend and frontend logic to support filtering, updating, and validating workflow transitions and approval policies, including module-based queries and enhanced field controls. Refactors validation schemas and data handling for consistency and extensibility. Improves error handling and feedback for workflow updates. Enables future extensibility for workflow and approval policy management. 
+
 - 11:04:11 | mindx
   → Adds workflow-policy relation and enhances filter usability Introduces a direct association between workflow transitions and approval policies in the backend, ensuring policies are linked to specific workflow actions. Refactors DTOs to use records and updates mappers accordingly. Removes unused enum value and cleans up validation logic. On the frontend, standardizes filter options, adds support for numeric filters, improves form modularity, and ensures filter controls handle null values correctly for better UX. 
 
