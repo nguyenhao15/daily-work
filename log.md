@@ -1,3 +1,10 @@
+### 2026-04-22
+
+- 11:04:11 | mindx
+  → Adds workflow-policy relation and enhances filter usability Introduces a direct association between workflow transitions and approval policies in the backend, ensuring policies are linked to specific workflow actions. Refactors DTOs to use records and updates mappers accordingly. Removes unused enum value and cleans up validation logic. On the frontend, standardizes filter options, adds support for numeric filters, improves form modularity, and ensures filter controls handle null values correctly for better UX. 
+
+---
+
 ### 2026-04-21
 
 - 21:10:16 | mindx
