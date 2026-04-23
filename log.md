@@ -1,5 +1,8 @@
 ### 2026-04-23
 
+- 22:32:53 | mindx
+  → Refactors security utilities and enhances scope handling Moves and refactors security utility classes for improved structure and clearer separation of responsibilities. Introduces more flexible scope and permission evaluation by enriching department and position DTOs and models with scope properties. Unifies and extends static specification logic for JPA queries, adding dynamic scope-based filtering to support more granular permission checks. Adds support for cache invalidation on staff profile updates to ensure data consistency. Improves alignment of security utility usage across services, reducing coupling and promoting code reuse. Enables Spring Security debug logging for easier troubleshooting. 
+
 - 19:02:02 | mindx
   → Adds exception policy rules and refactors user profile handling Introduces exception policy rule entities, services, and controller to manage user-specific module access scopes. Refactors user authentication to support multiple staff profiles, with improved active profile selection and scope resolution logic. Updates front-end maintenance update flow with better error handling and validation, and ensures assigned staff is required. Facilitates flexible permission overrides, improves maintainability, and enhances the user experience for maintenance updates. Co-authored-by: Copilot <copilot@github.com> 
 
