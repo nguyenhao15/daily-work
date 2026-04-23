@@ -1,3 +1,10 @@
+### 2026-04-23
+
+- 09:31:13 | mindx
+  → Refactors admin dashboard and enhances HR department user management Replaces the old admin page with a modular admin dashboard layout and navigation. Introduces new reusable admin UI components including stat cards, table views, and a welcome card. Implements user management using the new layout and improves routing structure for admin features. Adds backend and frontend support to fetch staff profiles by department, including new API methods, hooks, and UI controls to select users by department in asset maintenance forms. Removes redundant logging and improves fallback logic for approval policy fetching. Updates .gitignore and minor code formatting. Improves maintainability and enables easier extensibility for future admin modules. 
+
+---
+
 ### 2026-04-22
 
 - 17:48:08 | mindx
