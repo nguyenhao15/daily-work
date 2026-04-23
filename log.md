@@ -1,5 +1,8 @@
 ### 2026-04-23
 
+- 11:11:54 | mindx
+  → Adds paginated staff profile management and refactors workflow UI Introduces paginated staff profile retrieval and browsing to the admin panel, enhancing human resource management with filtering and improved scalability. Unifies workflow and approval policy UI components under a shared layout for better consistency and code reuse. Removes redundant components and updates menu navigation to reflect these changes. Refactors user creation and form behavior for better UX, including modal handling and loading state propagation. Improves backend pagination support for staff profiles and updates API integration on the frontend. Overall, increases maintainability, performance, and user experience for administrative modules. Co-authored-by: Copilot <copilot@github.com> 
+
 - 09:31:13 | mindx
   → Refactors admin dashboard and enhances HR department user management Replaces the old admin page with a modular admin dashboard layout and navigation. Introduces new reusable admin UI components including stat cards, table views, and a welcome card. Implements user management using the new layout and improves routing structure for admin features. Adds backend and frontend support to fetch staff profiles by department, including new API methods, hooks, and UI controls to select users by department in asset maintenance forms. Removes redundant logging and improves fallback logic for approval policy fetching. Updates .gitignore and minor code formatting. Improves maintainability and enables easier extensibility for future admin modules. 
 
