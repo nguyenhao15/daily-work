@@ -1,5 +1,8 @@
 ### 2026-04-23
 
+- 19:02:02 | mindx
+  → Adds exception policy rules and refactors user profile handling Introduces exception policy rule entities, services, and controller to manage user-specific module access scopes. Refactors user authentication to support multiple staff profiles, with improved active profile selection and scope resolution logic. Updates front-end maintenance update flow with better error handling and validation, and ensures assigned staff is required. Facilitates flexible permission overrides, improves maintainability, and enhances the user experience for maintenance updates. Co-authored-by: Copilot <copilot@github.com> 
+
 - 11:11:54 | mindx
   → Adds paginated staff profile management and refactors workflow UI Introduces paginated staff profile retrieval and browsing to the admin panel, enhancing human resource management with filtering and improved scalability. Unifies workflow and approval policy UI components under a shared layout for better consistency and code reuse. Removes redundant components and updates menu navigation to reflect these changes. Refactors user creation and form behavior for better UX, including modal handling and loading state propagation. Improves backend pagination support for staff profiles and updates API integration on the frontend. Overall, increases maintainability, performance, and user experience for administrative modules. Co-authored-by: Copilot <copilot@github.com> 
 
