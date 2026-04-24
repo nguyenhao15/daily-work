@@ -1,5 +1,8 @@
 ### 2026-04-24
 
+- 20:21:06 | mindx
+  → Fixes profile user naming, improves UI and approval policy fields Corrects a profile user component naming typo and ensures consistent usage. Refines navigation UI for asset management with an updated home link. Removes unnecessary React imports and debug output. Enhances approval policy display by adjusting field mappings and adding allow type/value columns for clarity. Co-authored-by: Copilot <copilot@github.com> 
+
 - 11:51:55 | mindx
   → Refactors user profile handling and UI for clarity Improves user experience by refactoring user profile management, introducing distinct components for profile display and module navigation, and aligning backend responses to use a unified DTO. Streamlines profile selection logic and removes redundant code from both frontend and backend. Also enhances authorization logic, providing clearer access control and more robust profile defaults. Co-authored-by: Copilot <copilot@github.com> 
 
