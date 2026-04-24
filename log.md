@@ -1,3 +1,10 @@
+### 2026-04-24
+
+- 11:51:55 | mindx
+  → Refactors user profile handling and UI for clarity Improves user experience by refactoring user profile management, introducing distinct components for profile display and module navigation, and aligning backend responses to use a unified DTO. Streamlines profile selection logic and removes redundant code from both frontend and backend. Also enhances authorization logic, providing clearer access control and more robust profile defaults. Co-authored-by: Copilot <copilot@github.com> 
+
+---
+
 ### 2026-04-23
 
 - 22:32:53 | mindx
