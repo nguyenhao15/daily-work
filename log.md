@@ -1,3 +1,10 @@
+### 2026-04-25
+
+- 14:02:49 | mindx
+  → Refactors maintenance details UI and updates schema Improves the user interface for maintenance details by restructuring layout, extracting repeated info into reusable components, and simplifying the header. Updates schema naming for clarity, aligns types across pages, and fixes sorting/filtering parameter names. Enhances data table usability and attachment gallery styling. Focuses on maintainability, consistency, and better user experience. 
+
+---
+
 ### 2026-04-24
 
 - 20:21:06 | mindx
