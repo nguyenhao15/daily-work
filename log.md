@@ -1,3 +1,10 @@
+### 2026-04-26
+
+- 08:59:20 | mindx
+  → Refactors proposal form to support multiple entries and fixes naming Enables creation of multiple maintenance proposals via a toggle in the UI, streamlining batch entry and submission. Unifies inconsistent naming for the "proposed by" field across frontend and backend for clarity and data consistency. Cleans up unnecessary imports, adjusts handler logic, and improves proposal list rendering for better user experience. Co-authored-by: Copilot <copilot@github.com> 
+
+---
+
 ### 2026-04-25
 
 - 23:34:22 | mindx
