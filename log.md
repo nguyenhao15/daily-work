@@ -1,5 +1,8 @@
 ### 2026-04-26
 
+- 22:15:18 | mindx
+  → Adds workflow operator support and enhances UI/UX Introduces an operator field to workflow transitions, enabling flexible status comparisons (e.g., equals, not equals) for workflow rules. Updates both backend and frontend models, validation, and UI forms to accommodate this. Improves audit history sorting, enhances activity timeline UX with item limiting, and refines technical solution and proposal management for better maintainability and usability. Co-authored-by: Copilot <copilot@github.com> 
+
 - 08:59:20 | mindx
   → Refactors proposal form to support multiple entries and fixes naming Enables creation of multiple maintenance proposals via a toggle in the UI, streamlining batch entry and submission. Unifies inconsistent naming for the "proposed by" field across frontend and backend for clarity and data consistency. Cleans up unnecessary imports, adjusts handler logic, and improves proposal list rendering for better user experience. Co-authored-by: Copilot <copilot@github.com> 
 
