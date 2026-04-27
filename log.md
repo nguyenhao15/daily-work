@@ -1,5 +1,8 @@
 ### 2026-04-27
 
+- 17:32:27 | mindx
+  → Enables editing of approval policies in admin workflow Introduces an update form and logic to allow editing existing approval policies from the admin workflow UI. Refactors approval policy DTO to use a record for consistency. Adds new status styles and adjusts proposal card UI to prevent editing accepted items. Also corrects API controller to accept request bodies and improves workflow query enabling logic. Enhances usability and maintains data integrity in approval policy management. Co-authored-by: Copilot <copilot@github.com> 
+
 - 10:46:35 | mindx
   → Adds proposal update API with audit and frontend integration Introduces backend support for updating maintenance proposals, including audit logging for changes. Connects the new API endpoint to the frontend, enabling proposal status changes and immediate UI updates. Refactors frontend proposal logic for stricter validation and improved type safety to ensure consistent state after updates. Co-authored-by: Copilot <copilot@github.com> 
 
