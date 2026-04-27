@@ -1,5 +1,8 @@
 ### 2026-04-27
 
+- 20:56:40 | mindx
+  → Adds 'EVERYONE' approval type and improves UI feedback Introduces an 'EVERYONE' option for approval policies to allow universal access, updating both backend logic and frontend forms to support and handle this new type. Enhances user experience by auto-filling values for the new type, improving status color coding, and adding loader feedback during updates. Facilitates broader workflow configuration and clearer UI feedback for users. Co-authored-by: Copilot <copilot@github.com> 
+
 - 20:23:03 | mindx
   → Enables file attachments in maintenance updates Supports uploading attachments when updating maintenance records by switching update endpoints to multipart form data, extending backend and frontend logic, and adding a UI workflow for marking maintenance as finished with supporting evidence. Improves traceability and documentation of completed maintenance actions. Co-authored-by: Copilot <copilot@github.com> 
 
