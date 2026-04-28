@@ -1,3 +1,10 @@
+### 2026-04-28
+
+- 07:07:42 | mindx
+  → Adds maintenance type support and improves workflow handling Introduces a maintenance type field across backend and frontend to distinguish between internal, outsourced, and warranty maintenance. Updates form handling, validation schemas, and DTOs to support the new property. Refines workflow transition filtering for more precise status management. Adjusts UI logic for more flexible update and action handling. Aims to enhance maintainability and clarity in maintenance processing. Co-authored-by: Copilot <copilot@github.com> 
+
+---
+
 ### 2026-04-27
 
 - 20:56:40 | mindx
