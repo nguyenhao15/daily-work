@@ -1,3 +1,10 @@
+### 2026-05-01
+
+- 10:32:36 | mindx
+  → Adds feedback support for maintenance rejection Enables users to provide feedback when rejecting maintenance requests by introducing a feedback component and related hooks. Moves action buttons to a more logical UI position, exposes assigned user and inspection date in detail headers, and ensures updated queries reflect changes. Enhances workflow transparency and improves user experience. 
+
+---
+
 ### 2026-04-30
 
 - 20:55:55 | Nguyenhao15
