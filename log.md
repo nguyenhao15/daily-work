@@ -1,3 +1,10 @@
+### 2026-05-02
+
+- 17:07:41 | mindx
+  → Refactors approval policy logic and improves proposal UI Refactors approval policy checks to support multiple rules and moves allow-type logic into a reusable method, enhancing flexibility for permissions. Updates frontend proposal components for better usability, including improved error display, more responsive layouts, and clearer controls for adding or editing proposals and technical solutions. Cleans up unused imports and simplifies modal rendering for maintainability. 
+
+---
+
 ### 2026-05-01
 
 - 10:32:36 | mindx
