@@ -1,5 +1,8 @@
 ### 2026-05-03
 
+- 11:42:29 | mindx
+  → Adds rework status handling and improves proposal input UX Introduces explicit "REWORK" status for maintenance items, updating backend logic and UI to correctly display and process rework scenarios. Refactors proposal input to support batching multiple proposals before submission, enhancing user experience and UI consistency. Updates modal, gallery, and detail views for better feedback and error handling. 
+
 - 10:04:07 | mindx
   → Refactors maintenance update flow for unified status handling Unifies and simplifies the logic for updating maintenance item statuses, consolidating different update actions into a single, reusable update handler. Removes redundant hooks and streamlines payload structure for status updates, ensuring consistent audit and feedback handling across components. Improves maintainability and sets up the UI for more flexible status transitions. 
 
