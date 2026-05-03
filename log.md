@@ -1,5 +1,8 @@
 ### 2026-05-03
 
+- 18:09:08 | mindx
+  → Adds permanent delete for maintenance with audit and attachment cleanup Implements a permanent delete endpoint for maintenance records, ensuring related attachments and audit logs are properly removed for full data cleanup. Refactors audit log deletion to use module and ID-based identifiers for correctness. Improves frontend UI to support permanent deletion, including confirmation dialog and user feedback. Fixes frontend inconsistencies and improves attachment and PDF viewer scrolling. Relates to improved data hygiene and user experience for maintenance management. 
+
 - 11:42:29 | mindx
   → Adds rework status handling and improves proposal input UX Introduces explicit "REWORK" status for maintenance items, updating backend logic and UI to correctly display and process rework scenarios. Refactors proposal input to support batching multiple proposals before submission, enhancing user experience and UI consistency. Updates modal, gallery, and detail views for better feedback and error handling. 
 
