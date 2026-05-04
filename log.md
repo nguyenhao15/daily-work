@@ -1,5 +1,8 @@
 ### 2026-05-04
 
+- 19:32:53 | mindx
+  → Improves proposal approval workflow and UI handling Updates the backend to archive other proposals when one is approved and refactors method signatures for clarity. Adjusts frontend logic to restrict editing/deletion based on proposal status, enhances user feedback after submissions, and allows solution addition during processing. Improves consistency in status handling and UI labeling. 
+
 - 19:29:07 | Nguyenhao15
   → vault backup: 2026-05-04 19:29:07 
 
