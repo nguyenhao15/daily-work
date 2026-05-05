@@ -1,5 +1,8 @@
 ### 2026-05-05
 
+- 16:58:29 | mindx
+  → Handles maintenance rework rejection and improves UX Updates backend logic to set maintenance as completed and reset relevant flags when a rework is rejected or reclaimed while waiting. Improves frontend user experience by clarifying completion confirmation prompt. Removes unused imports for cleaner code. 
+
 - 11:51:40 | Nguyenhao15
   → vault backup: 2026-05-05 11:51:40 
 
