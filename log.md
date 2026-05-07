@@ -1,3 +1,10 @@
+### 2026-05-07
+
+- 14:12:55 | mindx
+  → Adds asset and model entities with JPA repositories Introduces asset management entities to enable structured asset and model tracking, including support for attributes as JSON. Lays groundwork for future asset inventory and associated operations by providing repository interfaces for persistence. 
+
+---
+
 ### 2026-05-06
 
 - 18:41:24 | Nguyenhao15
