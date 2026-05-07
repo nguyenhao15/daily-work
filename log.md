@@ -1,5 +1,8 @@
 ### 2026-05-07
 
+- 21:49:25 | mindx
+  → Introduce basic DTOs, mappers, and service interfaces for asset management Lays groundwork for asset and model item management by adding empty DTOs, mappers, and service interfaces. Facilitates future feature development by establishing structural components and improving code organization. 
+
 - 14:12:55 | mindx
   → Adds asset and model entities with JPA repositories Introduces asset management entities to enable structured asset and model tracking, including support for attributes as JSON. Lays groundwork for future asset inventory and associated operations by providing repository interfaces for persistence. 
 
