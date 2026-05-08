@@ -1,3 +1,10 @@
+### 2026-05-08
+
+- 10:29:59 | mindx
+  → Adds attribute support and CRUD for asset models Introduces flexible attribute handling for assets and model items using JSON fields, updates data transfer objects to include attributes, and implements CRUD operations with pagination for model items. Enables dynamic and extensible asset management by supporting custom attributes and improving service-layer functionality. 
+
+---
+
 ### 2026-05-07
 
 - 21:57:34 | Nguyenhao15
