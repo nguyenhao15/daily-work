@@ -1,5 +1,8 @@
 ### 2026-05-08
 
+- 21:48:42 | mindx
+  → Adds asset management CRUD endpoints and improves asset DTOs Introduces controller endpoints for asset creation, retrieval, update, and deletion, enhancing asset management capabilities. Refactors asset-related DTOs and entities for consistency, including proper handling of model references and in-use status. Implements service methods for asset updates and deletion, and ensures assets are filtered based on active usage. Improves maintainability and aligns asset lifecycle operations with business requirements. 
+
 - 17:22:17 | mindx
   → Enables advanced asset querying and summary enrichment Introduces support for dynamic filtering and pagination of assets, adds owner and department owner fields to asset data structures, and enriches summary responses with location names via lookup. Improves modularity by extracting asset query specification logic and enhances repository with specification executor support. 
 
