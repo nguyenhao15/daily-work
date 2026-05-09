@@ -1,3 +1,10 @@
+### 2026-05-09
+
+- 13:45:00 | mindx
+  → Adds batch asset creation and attribute title scaffolding Introduces batch creation support for assets to improve efficiency when registering multiple assets simultaneously. Adds initial scaffolding for attribute title management, including DTOs, mapper, repository, and controller. Refactors asset creation logic to support new DTO changes and configures JPA batch properties for optimized insert operations. Enhances model management endpoints and updates procurement entity mapping. 
+
+---
+
 ### 2026-05-08
 
 - 21:48:42 | mindx
