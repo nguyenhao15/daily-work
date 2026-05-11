@@ -1,3 +1,10 @@
+### 2026-05-11
+
+- 21:05:34 | mindx
+  → Enables asset creation with file upload support Adds handling for multipart form data in asset creation endpoint, allowing files to be uploaded alongside asset details. Integrates file attachment logic to associate uploaded files with new assets, improving asset record management and extensibility. 
+
+---
+
 ### 2026-05-10
 
 - 14:43:56 | mindx
