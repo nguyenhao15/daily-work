@@ -1,3 +1,10 @@
+### 2026-05-15
+
+- 22:04:55 | mindx
+  → Adds dynamic side menu with submenu support Introduces a reusable side menu component to enable dynamic navigation with submenu support, improving scalability and maintainability of navigation items. Refactors the asset management navigation to use this component and updates route setup for better modularity. 
+
+---
+
 ### 2026-05-14
 
 - 21:06:40 | Nguyenhao15
