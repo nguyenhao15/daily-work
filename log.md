@@ -1,3 +1,10 @@
+### 2026-05-16
+
+- 22:18:21 | mindx
+  → Adds asset creation form with attribute support Introduces a UI and validation schema for creating new assets, including dynamic technical attributes. Updates the asset inventory menu and routes to support asset creation. Enhances asset update API to handle file attachments, and simplifies side menu logic for better UX. 
+
+---
+
 ### 2026-05-15
 
 - 22:04:55 | mindx
