@@ -1,5 +1,8 @@
 ### 2026-05-17
 
+- 16:59:26 | Nguyenhao15
+  → vault backup: 2026-05-17 16:59:26 
+
 - 09:48:42 | mindx
   → Adds asset model management backend and UI scaffolding Introduces entity relationships for asset models and their attributes in the backend, adding format fields and many-to-many mappings. Implements a new service method for fetching model info. On the frontend, scaffolds pages and components for asset model management, updates routes and menus to support model navigation, and refines supplier form integration in asset creation. Prepares the system for richer asset modeling and management capabilities. 
 
