@@ -1,5 +1,8 @@
 ### 2026-05-18
 
+- 22:29:01 | mindx
+  → Add asset attribute and model creation APIs to backend and frontend Introduces backend endpoints and service logic to support creation of asset attributes and models, including entity relationship updates for many-to-many mapping. Extends the frontend with API hooks, query actions, and form placeholders to interact with the new backend endpoints. Enables more dynamic asset management workflows by allowing runtime definition of asset models and their attributes. 
+
 - 22:04:53 | Nguyenhao15
   → vault backup: 2026-05-18 22:04:53 
 
