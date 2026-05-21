@@ -1,3 +1,10 @@
+### 2026-05-21
+
+- 20:47:45 | mindx
+  → Adds attribute form and schema validation for asset model Introduces a reusable attribute form component to the asset model page and defines robust schema validation using Zod for attribute headers. Enhances data integrity and prepares the UI for extensible attribute management. 
+
+---
+
 ### 2026-05-19
 
 - 21:55:22 | Nguyenhao15
