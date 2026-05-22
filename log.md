@@ -1,3 +1,10 @@
+### 2026-05-22
+
+- 22:51:52 | mindx
+  → Refactors attribute creation to support dynamic form elements Introduces a comprehensive, dynamic form for creating asset attributes, replacing the previous placeholder. Adds support for various input types, format presets, and configurable options, improving user experience and flexibility. Updates schema validation and wiring to align with the new form structure. 
+
+---
+
 ### 2026-05-21
 
 - 20:47:45 | mindx
