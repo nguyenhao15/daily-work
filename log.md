@@ -1,5 +1,8 @@
 ### 2026-05-22
 
+- 23:33:26 | PersonalTracking
+  → Refines transaction UI and updates brand colors Updates the application theme to a muted green palette and enhances the transaction creation screens with a cleaner, more modern layout. Introduces a placeholder for debt and loan tracking while improving the visual consistency of buttons, input fields, and navigation tabs through better typography and rounded styling. Also cleans up unused console logging in the backend authentication controller. 
+
 - 22:51:52 | mindx
   → Refactors attribute creation to support dynamic form elements Introduces a comprehensive, dynamic form for creating asset attributes, replacing the previous placeholder. Adds support for various input types, format presets, and configurable options, improving user experience and flexibility. Updates schema validation and wiring to align with the new form structure. 
 
