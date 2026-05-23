@@ -1,3 +1,10 @@
+### 2026-05-23
+
+- 18:36:59 | PersonalTracking
+  → Refactors transaction forms and improves UI Integrates react-native-currency-input to simplify amount and exchange rate handling across the application. Modularizes the transaction form by extracting elements and adopting a form provider pattern for better maintainability. Updates UI styling for several components to ensure a more consistent visual experience and improves type safety in currency data processing. 
+
+---
+
 ### 2026-05-22
 
 - 23:33:26 | PersonalTracking
