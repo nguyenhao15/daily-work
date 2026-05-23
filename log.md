@@ -1,5 +1,8 @@
 ### 2026-05-23
 
+- 21:59:08 | PersonalTracking
+  → Implement category creation and refine form components Add a new category creation form within a modal to the selection list, allowing users to define new categories directly. Update backend DTOs and mobile validation schemas to include category types and summary preferences. Refactor shared UI components, such as inline inputs and switches, to improve consistency and simplify form integration by removing internal controller dependencies. 
+
 - 19:45:07 | PersonalTracking
   → Refactor form state management and UI components Optimizes form performance by replacing the watch method with useWatch for currency tracking. Simplifies the modal input component by decoupling it from internal form controller logic, moving state management to the parent component for better consistency. Ensures proper validation behavior by adding validation flags to manual value updates and cleans up unused code across the transaction form modules. 
 
