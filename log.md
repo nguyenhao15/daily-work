@@ -1,5 +1,8 @@
 ### 2026-05-24
 
+- 16:36:53 | PersonalTracking
+  → Improve transaction form UX and feedback Centralizes toast notification logic and implements loading states throughout the transaction form. By disabling input elements and displaying activity indicators during submission, these changes prevent duplicate actions and provide clear visual feedback while data is being processed. 
+
 - 16:03:00 | PersonalTracking
   → Implements category creation functionality Adds the backend integration and UI logic required to create new categories. Includes a new mutation hook for handling submissions, toast notifications for user feedback, and automatic cache updates to ensure the category list stays synchronized. Also refines input behavior and form handling to improve the user experience. 
 
