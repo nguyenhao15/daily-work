@@ -1,3 +1,10 @@
+### 2026-05-25
+
+- 21:14:41 | PersonalTracking
+  → Adds original amount calculation and improves cache Calculates and stores the original transaction amount using exchange rate. Ensures transaction creation also refreshes wallet and balance data for accuracy. Removes unused loading modal and simplifies label container icon logic. Sets query cache to never become stale for better performance. 
+
+---
+
 ### 2026-05-24
 
 - 16:36:53 | PersonalTracking
