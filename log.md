@@ -1,3 +1,10 @@
+### 2026-05-26
+
+- 20:59:20 | PersonalTracking
+  → Adds debt management with status tracking and wallet sync Introduces full-featured debt tracking, including entity definition, status management (pending, paid, cancelled), and wallet balance synchronization for borrow/lend actions. Expands controller and service logic for debt creation, update, cancellation, marking as paid, and deletion. Lays groundwork for mobile UI and validation. Enables more accurate and auditable finance management by reflecting loan status changes in wallet balances. 
+
+---
+
 ### 2026-05-25
 
 - 21:14:41 | PersonalTracking
