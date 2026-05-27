@@ -1,3 +1,10 @@
+### 2026-05-27
+
+- 20:50:31 | PersonalTracking
+  → Adds loan management and interactive reporting dashboards Introduces comprehensive loan management features, including debt tracking, filtering, and payment history, to better organize borrowing/lending activities. Implements interactive dashboard reporting with bar and pie charts for visual daily flow and category breakdown, improving financial insights. Refactors form handling for improved disabled/loading states and error handling, and enhances data normalization for consistent UI. Upgrades dependencies to support advanced charting and UI components. 
+
+---
+
 ### 2026-05-26
 
 - 21:48:50 | PersonalTracking
