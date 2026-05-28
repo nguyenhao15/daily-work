@@ -1,5 +1,8 @@
 ### 2026-05-28
 
+- 21:41:09 | PersonalTracking
+  → Add Maven wrapper and initial project setup with Spring Boot; include basic application structure and configuration 
+
 - 21:36:25 | PersonalTracking
   → Enhance report dashboard with summary card, loading state, and error handling; improve chart data formatting and UI components 
 
