@@ -1,3 +1,10 @@
+### 2026-05-29
+
+- 20:38:25 | PersonalTracking
+  → feat: Enhance application with JWT authentication and pagination support - Added JWT authentication with security configurations and token filters. - Introduced pagination constants and utility classes for handling pagination. - Implemented dynamic specification builder for flexible query filtering. - Updated application properties for mail and database configurations. - Added new utility classes for handling filter requests and responses. - Configured PostgreSQL data source and JPA auditing support. - Enhanced security with role-based access control and user details management. 
+
+---
+
 ### 2026-05-28
 
 - 21:41:09 | PersonalTracking
