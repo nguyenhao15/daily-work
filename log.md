@@ -1,5 +1,8 @@
 ### 2026-05-30
 
+- 19:42:01 | PersonalTracking
+  → feat: Implement wallet management features with entity, DTOs, and repository 
+
 - 14:09:18 | PersonalTracking
   → Refactor authentication and user management services - Changed Users entity ID type from String to Long for better database compatibility. - Introduced AdminService and its implementation for user management functionalities. - Added SessionService and its implementation for handling refresh tokens. - Created UserDetailsServiceImpl to load user details for authentication. - Implemented UserService for user-related operations including registration, login, and profile management. - Added custom exception classes for better error handling. - Implemented global exception handling with MyGlobalExceptionHandler. - Updated security configuration and JWT utilities for improved token management. - Created repositories for User and Session entities. - Refactored security utility methods to streamline user role retrieval. - Cleaned up unused code and commented sections for better maintainability. - Updated application properties for MongoDB configuration. 
 
