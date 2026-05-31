@@ -1,3 +1,10 @@
+### 2026-05-31
+
+- 15:17:26 | PersonalTracking
+  → feat: Add wallet management functionality with API endpoints, DTOs, and service implementation 
+
+---
+
 ### 2026-05-30
 
 - 19:42:01 | PersonalTracking
