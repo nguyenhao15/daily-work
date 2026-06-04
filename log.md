@@ -1,3 +1,10 @@
+### 2026-06-04
+
+- 21:04:07 | PersonalTracking
+  → feat: Add debt and debt transaction management with entities, DTOs, mappers, and repository interfaces 
+
+---
+
 ### 2026-06-03
 
 - 05:27:37 | PersonalTracking
