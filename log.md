@@ -1,3 +1,10 @@
+### 2026-06-05
+
+- 20:27:53 | PersonalTracking
+  → feat: Implement debt and debt transaction management with controllers, services, mappers, and repository interfaces 
+
+---
+
 ### 2026-06-04
 
 - 21:04:07 | PersonalTracking
