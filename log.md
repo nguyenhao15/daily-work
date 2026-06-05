@@ -1,5 +1,8 @@
 ### 2026-06-05
 
+- 21:50:16 | PersonalTracking
+  → feat: Refactor category and debt management endpoints, update request DTOs, and enhance authentication flow 
+
 - 20:27:53 | PersonalTracking
   → feat: Implement debt and debt transaction management with controllers, services, mappers, and repository interfaces 
 
