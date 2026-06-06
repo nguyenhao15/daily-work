@@ -1,3 +1,10 @@
+### 2026-06-06
+
+- 11:14:36 | PersonalTracking
+  → feat: Enhance authentication flow with refresh token support and update related API endpoints 
+
+---
+
 ### 2026-06-05
 
 - 21:50:16 | PersonalTracking
