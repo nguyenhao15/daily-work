@@ -1,5 +1,8 @@
 ### 2026-06-07
 
+- 13:55:29 | PersonalTracking
+  → feat: Enhance CategorySelectComponent with clear value functionality and update LabelContainer layout 
+
 - 13:33:59 | PersonalTracking
   → feat: Add functionality to retrieve parent categories and update related components 
 
