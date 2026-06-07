@@ -1,5 +1,8 @@
 ### 2026-06-07
 
+- 13:33:59 | PersonalTracking
+  → feat: Add functionality to retrieve parent categories and update related components 
+
 - 12:59:17 | PersonalTracking
   → feat: Refactor user service methods, update wallet type enum, and enhance category form validation 
 
