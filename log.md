@@ -1,3 +1,10 @@
+### 2026-06-07
+
+- 12:59:17 | PersonalTracking
+  → feat: Refactor user service methods, update wallet type enum, and enhance category form validation 
+
+---
+
 ### 2026-06-06
 
 - 11:14:36 | PersonalTracking
