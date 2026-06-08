@@ -1,5 +1,8 @@
 ### 2026-06-09
 
+- 05:30:08 | PersonalTracking
+  → feat: refactor CardSelectList to use ItemCard component and update styles 
+
 - 05:11:09 | PersonalTracking
   → fix: correct variable names for exchange rate and improve related logic in transfer components 
 
