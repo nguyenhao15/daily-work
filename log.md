@@ -1,5 +1,8 @@
 ### 2026-06-09
 
+- 21:11:19 | PersonalTracking
+  → fix: update API endpoint for transfers and refactor related components for consistency 
+
 - 05:30:08 | PersonalTracking
   → feat: refactor CardSelectList to use ItemCard component and update styles 
 
