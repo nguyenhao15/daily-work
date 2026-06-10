@@ -1,5 +1,8 @@
 ### 2026-06-10
 
+- 21:09:37 | PersonalTracking
+  → style: update background colors and text colors for improved UI consistency across components feat: add ToggleInputComponent for better user interaction in forms refactor: enhance TagSelectComponent with modal for tag selection 
+
 - 19:33:13 | PersonalTracking
   → style: update UI components for consistency and improve styling across the application 
 
