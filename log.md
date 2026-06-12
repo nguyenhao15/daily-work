@@ -1,5 +1,8 @@
 ### 2026-06-12
 
+- 20:23:00 | PersonalTracking
+  → refactor: streamline transaction creation and enhance category selection handling 
+
 - 05:50:05 | PersonalTracking
   → refactor: remove unused fields and update transaction handling for improved clarity and functionality 
 
