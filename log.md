@@ -1,5 +1,8 @@
 ### 2026-06-13
 
+- 23:30:18 | PersonalTracking
+  → feat: add income handling in TransactionForm and update TransactionCard styling 
+
 - 23:23:11 | PersonalTracking
   → feat: add update and delete transaction functionalities with corresponding hooks and UI components 
 
