@@ -1,5 +1,8 @@
 ### 2026-06-13
 
+- 14:55:09 | PersonalTracking
+  → feat: implement swipe-to-close functionality in BaseModal and refactor CurrencySelectorComponent for improved currency selection 
+
 - 14:00:49 | PersonalTracking
   → refactor: update forms and components for improved structure and functionality 
 
