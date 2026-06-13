@@ -1,5 +1,8 @@
 ### 2026-06-13
 
+- 20:26:08 | PersonalTracking
+  → refactor: update input components for improved accessibility and user experience 
+
 - 20:03:35 | Nguyenhao15
   → vault backup: 2026-06-13 20:03:34 
 
