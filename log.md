@@ -1,3 +1,10 @@
+### 2026-06-13
+
+- 11:50:24 | PersonalTracking
+  → feat: add LoanSelectComponen and integrate loan type selection in LoanForm refactor: remove unused transactionNote field and clean up console logs refactor: update InputWithModalComponent to handle text changes more effectively style: enhance UI consistency by updating component imports and styles 
+
+---
+
 ### 2026-06-12
 
 - 22:18:40 | Nguyenhao15
