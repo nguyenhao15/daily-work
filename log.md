@@ -1,5 +1,8 @@
 ### 2026-06-13
 
+- 14:00:49 | PersonalTracking
+  → refactor: update forms and components for improved structure and functionality 
+
 - 11:50:24 | PersonalTracking
   → feat: add LoanSelectComponen and integrate loan type selection in LoanForm refactor: remove unused transactionNote field and clean up console logs refactor: update InputWithModalComponent to handle text changes more effectively style: enhance UI consistency by updating component imports and styles 
 
