@@ -1,5 +1,8 @@
 ### 2026-06-13
 
+- 23:23:11 | PersonalTracking
+  → feat: add update and delete transaction functionalities with corresponding hooks and UI components 
+
 - 22:05:26 | PersonalTracking
   → feat: enhance transaction management with new components and improved form handling 
 
