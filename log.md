@@ -1,3 +1,10 @@
+### 2026-06-14
+
+- 17:11:52 | PersonalTracking
+  → feat: implement custom navigation bar and enhance tab layout; refactor currency selection handling 
+
+---
+
 ### 2026-06-13
 
 - 23:30:18 | PersonalTracking
