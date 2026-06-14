@@ -1,5 +1,8 @@
 ### 2026-06-14
 
+- 22:53:04 | PersonalTracking
+  → feat: implement transaction grouping by date with income and expense totals; update related components and hooks 
+
 - 17:11:52 | PersonalTracking
   → feat: implement custom navigation bar and enhance tab layout; refactor currency selection handling 
 
