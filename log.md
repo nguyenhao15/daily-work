@@ -1,3 +1,10 @@
+### 2026-06-15
+
+- 05:22:50 | PersonalTracking
+  → feat: add functionality to retrieve recent transactions; implement corresponding service and API methods 
+
+---
+
 ### 2026-06-14
 
 - 22:53:04 | PersonalTracking
