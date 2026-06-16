@@ -1,5 +1,8 @@
 ### 2026-06-16
 
+- 21:25:59 | PersonalTracking
+  → feat: add TransactionNonGroup and TransactionComponent for displaying non-grouped transactions; update useInitialData to fetch all transactions 
+
 - 05:12:08 | Nguyenhao15
   → vault backup: 2026-06-16 05:12:08 
 
