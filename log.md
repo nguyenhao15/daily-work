@@ -1,5 +1,8 @@
 ### 2026-06-20
 
+- 21:24:42 | PersonalTracking
+  → feat: Update transaction filtering to use string dates and enhance date handling in components 
+
 - 16:26:36 | PersonalTracking
   → Refactor user model constructors, enhance debt info record, and improve debt transaction handling - Updated Users model constructors to correctly assign username from parameters. - Added remainAmount and isDone fields to DebtInfoRecord for better debt tracking. - Enhanced DebtServiceImpl to mark debts as done when remainAmount is zero. - Modified DebtTransactionServiceImpl to associate wallet and debt entities during transaction creation. - Introduced DebtFormFields component to streamline debt transaction form handling. - Updated DebtSelectComponent to filter active debts based on isDone status. - Refactored DebtTransactionForm to utilize new DebtFormFields and improve form management. - Created useDebtTransactionForm hook for better form state management and validation. - Enhanced DatePickerRow and DateRangeFilterModal for improved UI/UX with shadows and styling. - Updated FilterChip and FilterChipBar components for better filter management and UI consistency. - Refactored TagFilterModal and WalletFilterModal to support multiple tag selections and improved styling. - Adjusted types to support multiple transaction types in filters. 
 
