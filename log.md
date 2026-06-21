@@ -1,5 +1,8 @@
 ### 2026-06-21
 
+- 22:04:37 | PersonalTracking
+  → fix: resolve TypeScript compiler errors in filter components 
+
 - 22:02:46 | PersonalTracking
   → backend: add isActive field to WalletSummaryInfo record 
 
