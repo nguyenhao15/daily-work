@@ -1,5 +1,8 @@
 ### 2026-06-21
 
+- 19:52:58 | PersonalTracking
+  → refactor: remove unused ReportScreen component and related imports 
+
 - 19:49:29 | PersonalTracking
   → fix: resolve code review findings and TypeScript compile errors 
 
