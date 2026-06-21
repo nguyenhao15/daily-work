@@ -1,5 +1,8 @@
 ### 2026-06-21
 
+- 22:07:47 | PersonalTracking
+  → fix: resolve date state type inconsistencies, preset selector failures, and replace any types 
+
 - 22:04:39 | PersonalTracking
   → feat: add update API endpoints and React Query mutation hooks 
 
