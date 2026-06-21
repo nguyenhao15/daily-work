@@ -1,5 +1,8 @@
 ### 2026-06-21
 
+- 21:50:36 | PersonalTracking
+  → docs: add design spec for profile navigation 
+
 - 21:38:13 | PersonalTracking
   → feat: implement date range filtering and enhance filter modals with improved UI and functionality refactor: streamline filter transaction components and improve state management fix: resolve issues with modal visibility and apply date range logic 
 
