@@ -1,5 +1,8 @@
 ### 2026-06-21
 
+- 22:01:42 | PersonalTracking
+  → docs: add implementation plan for profile wallet and category management 
+
 - 22:00:26 | PersonalTracking
   → docs: add design spec for profile wallet and category management 
 
