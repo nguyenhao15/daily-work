@@ -1,5 +1,8 @@
 ### 2026-06-21
 
+- 22:13:54 | PersonalTracking
+  → docs: update task 2 report with cache update fix details 
+
 - 22:13:46 | PersonalTracking
   → fix(mobile): use server response to update cache in useCreateWallet 
 
