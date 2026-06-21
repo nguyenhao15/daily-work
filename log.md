@@ -1,5 +1,8 @@
 ### 2026-06-21
 
+- 22:04:39 | PersonalTracking
+  → feat: add update API endpoints and React Query mutation hooks 
+
 - 22:04:37 | PersonalTracking
   → fix: resolve TypeScript compiler errors in filter components 
 
