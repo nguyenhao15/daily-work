@@ -1,5 +1,8 @@
 ### 2026-06-22
 
+- 05:07:16 | PersonalTracking
+  → feat: integrate Wallet and Category lists/forms into Profile ServiceComponents 
+
 - 05:06:31 | PersonalTracking
   → fix(category): fix isParent assignment order in createCategory 
 
