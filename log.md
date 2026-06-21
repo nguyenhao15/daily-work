@@ -1,5 +1,8 @@
 ### 2026-06-21
 
+- 22:13:46 | PersonalTracking
+  → fix(mobile): use server response to update cache in useCreateWallet 
+
 - 22:11:20 | PersonalTracking
   → docs: update task-2-report with fixer subagent resolutions 
 
