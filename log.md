@@ -1,5 +1,8 @@
 ### 2026-06-22
 
+- 05:00:33 | PersonalTracking
+  → feat: implement CategoryList and edit features for CategoryForm 
+
 - 04:58:22 | PersonalTracking
   → fix(wallet): resolve review findings on Wallet Management UI 
 
