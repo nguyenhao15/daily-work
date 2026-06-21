@@ -1,5 +1,8 @@
 ### 2026-06-22
 
+- 05:06:31 | PersonalTracking
+  → fix(category): fix isParent assignment order in createCategory 
+
 - 05:04:43 | PersonalTracking
   → fix(category): resolve review findings on Category Management UI and backend parent calculation 
 
