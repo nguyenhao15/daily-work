@@ -1,5 +1,8 @@
 ### 2026-06-21
 
+- 22:15:07 | PersonalTracking
+  → Fix timezone shift bug in formatDate helper by using parseLocalDate 
+
 - 22:13:54 | PersonalTracking
   → docs: update task 2 report with cache update fix details 
 
