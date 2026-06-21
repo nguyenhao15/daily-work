@@ -1,3 +1,10 @@
+### 2026-06-21
+
+- 10:36:47 | PersonalTracking
+  → feat: Refactor transaction retrieval to use TransactionFilterDto for enhanced filtering options 
+
+---
+
 ### 2026-06-20
 
 - 21:24:42 | PersonalTracking
