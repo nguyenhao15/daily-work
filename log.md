@@ -1,5 +1,8 @@
 ### 2026-06-21
 
+- 19:44:22 | PersonalTracking
+  → fix: resolve timezone shift bug in getStartOfWeek helper 
+
 - 19:43:21 | PersonalTracking
   → feat(frontend): implement summary statistics dashboard screen 
 
