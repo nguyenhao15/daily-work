@@ -1,5 +1,8 @@
 ### 2026-06-21
 
+- 19:40:20 | PersonalTracking
+  → docs: add implementation plan for personal finance dashboard 
+
 - 19:34:14 | PersonalTracking
   → docs: add design spec for personal finance dashboard 
 
