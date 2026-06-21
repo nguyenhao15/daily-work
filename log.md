@@ -1,5 +1,8 @@
 ### 2026-06-21
 
+- 22:02:46 | PersonalTracking
+  → backend: add isActive field to WalletSummaryInfo record 
+
 - 22:01:42 | PersonalTracking
   → docs: add implementation plan for profile wallet and category management 
 
