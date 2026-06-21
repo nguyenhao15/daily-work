@@ -1,5 +1,8 @@
 ### 2026-06-21
 
+- 19:34:14 | PersonalTracking
+  → docs: add design spec for personal finance dashboard 
+
 - 18:12:34 | PersonalTracking
   → feat: Implement transaction report feature with backend and frontend integration 
 
