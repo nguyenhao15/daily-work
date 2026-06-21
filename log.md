@@ -1,5 +1,8 @@
 ### 2026-06-21
 
+- 11:58:57 | PersonalTracking
+  → feat: Add CategoryFilterModal and integrate category filtering into transaction component 
+
 - 10:36:47 | PersonalTracking
   → feat: Refactor transaction retrieval to use TransactionFilterDto for enhanced filtering options 
 
