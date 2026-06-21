@@ -1,5 +1,8 @@
 ### 2026-06-21
 
+- 19:41:40 | PersonalTracking
+  → fix(backend): prevent division by zero in report service 
+
 - 19:40:20 | PersonalTracking
   → docs: add implementation plan for personal finance dashboard 
 
