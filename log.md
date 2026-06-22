@@ -1,3 +1,10 @@
+### 2026-06-23
+
+- 00:40:38 | PersonalTracking
+  → feat: refactor CategoryList and WalletList components to use DataRowCard and FlatList for improved UI and performance; add EmptyPage for empty states 
+
+---
+
 ### 2026-06-22
 
 - 05:32:16 | PersonalTracking
