@@ -1,3 +1,10 @@
+### 2026-06-24
+
+- 05:35:54 | PersonalTracking
+  → feat: add HabitLogEntity, HabitInfoRecord, HabitRequest, HabitEntity, HabitMapper, HabitService, HabitLogRepository, and HabitRepository classes for Habit Tracker module 
+
+---
+
 ### 2026-06-23
 
 - 00:40:38 | PersonalTracking
