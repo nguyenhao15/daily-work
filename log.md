@@ -1,5 +1,8 @@
 ### 2026-06-24
 
+- 20:09:45 | PersonalTracking
+  → feat: add deleteHabit endpoint to HabitController; update HabitInfoRecord frequencyConfig field; enhance getHabit and updateHabit methods in HabitServiceImpl with security checks 
+
 - 19:56:37 | PersonalTracking
   → feat: implement HabitController, HabitService, and HabitMapper for Habit Tracker module; add HabitRequest and HabitInfoRecord DTOs with isActive field 
 
