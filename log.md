@@ -1,5 +1,8 @@
 ### 2026-06-24
 
+- 19:56:37 | PersonalTracking
+  → feat: implement HabitController, HabitService, and HabitMapper for Habit Tracker module; add HabitRequest and HabitInfoRecord DTOs with isActive field 
+
 - 05:35:54 | PersonalTracking
   → feat: add HabitLogEntity, HabitInfoRecord, HabitRequest, HabitEntity, HabitMapper, HabitService, HabitLogRepository, and HabitRepository classes for Habit Tracker module 
 
