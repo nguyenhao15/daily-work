@@ -1,5 +1,8 @@
 ### 2026-06-27
 
+- 15:31:28 | PersonalTracking
+  → add check out to prod 
+
 - 15:31:22 | Nguyenhao15
   → vault backup: 2026-06-27 15:31:22 
 
