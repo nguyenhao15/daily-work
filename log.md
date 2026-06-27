@@ -1,5 +1,8 @@
 ### 2026-06-27
 
+- 21:41:04 | PersonalTracking
+  → refactor: add fullscreen/showHeader options to BaseModal, restore gestures for card mode, and update usages 
+
 - 21:37:01 | PersonalTracking
   → refactor: update BaseModal to occupy full screen and add header back button 
 
