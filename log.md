@@ -1,5 +1,8 @@
 ### 2026-06-27
 
+- 18:31:08 | PersonalTracking
+  → feat: enhance CategoryList and DataRowCard components to support nested sub-items and improve tab switching logic 
+
 - 17:35:08 | Nguyenhao15
   → vault backup: 2026-06-27 17:35:08 
 
