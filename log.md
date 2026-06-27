@@ -1,5 +1,8 @@
 ### 2026-06-27
 
+- 23:18:07 | PersonalTracking
+  → refactor: update BaseModal and related components for improved layout and functionality; adjust labels in CategoryFormElements and WalletFormElements 
+
 - 21:47:32 | PersonalTracking
   → feat: update category retrieval methods to include type parameter and refactor related components 
 
