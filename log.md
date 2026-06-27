@@ -1,5 +1,8 @@
 ### 2026-06-27
 
+- 21:37:01 | PersonalTracking
+  → refactor: update BaseModal to occupy full screen and add header back button 
+
 - 18:31:08 | PersonalTracking
   → feat: enhance CategoryList and DataRowCard components to support nested sub-items and improve tab switching logic 
 
