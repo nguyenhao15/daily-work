@@ -1,5 +1,8 @@
 ### 2026-06-27
 
+- 15:29:00 | PersonalTracking
+  → feat: add GitHub Actions workflow for deploying Spring Boot backend to production; include steps for syncing code and managing Docker containers 
+
 - 15:26:20 | Nguyenhao15
   → vault backup: 2026-06-27 15:26:20 
 
