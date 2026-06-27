@@ -1,5 +1,8 @@
 ### 2026-06-27
 
+- 08:25:56 | PersonalTracking
+  → Add Dockerfile 
+
 - 08:25:28 | Nguyenhao15
   → vault backup: 2026-06-27 08:25:27 
 
