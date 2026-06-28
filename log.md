@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 18:37:36 | PersonalTracking
+  → feat: migrate debt transaction entity, dtos, and service to BigDecimal 
+
 - 18:34:59 | PersonalTracking
   → feat: migrate debt entity, dtos, and service to BigDecimal 
 
