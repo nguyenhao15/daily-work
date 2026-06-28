@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 18:30:29 | PersonalTracking
+  → feat: migrate transfer entity, dtos, and service to BigDecimal 
+
 - 18:28:23 | PersonalTracking
   → docs: update Task 2 report with review feedback fixes 
 
