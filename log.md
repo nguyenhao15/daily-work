@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 18:32:10 | PersonalTracking
+  → fix(transfer): implement BigDecimal null-safety in TransferServiceImpl 
+
 - 18:30:29 | PersonalTracking
   → feat: migrate transfer entity, dtos, and service to BigDecimal 
 
