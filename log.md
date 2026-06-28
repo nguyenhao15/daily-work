@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 18:24:17 | PersonalTracking
+  → fix(transaction): prevent NPE on nullable Boolean inCome field in stream filters 
+
 - 18:22:10 | PersonalTracking
   → fix: resolve NPE issues in TransactionServiceImpl and TransactionReportServiceImpl stream reduction and update task-2 report 
 
