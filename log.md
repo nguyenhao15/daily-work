@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 18:08:54 | PersonalTracking
+  → fix: resolve wallet controller and service compilation, resource leak, and null safety issues 
+
 - 18:04:39 | PersonalTracking
   → feat: migrate wallet service and implementation balance fields to BigDecimal 
 
