@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 19:15:46 | PersonalTracking
+  → feat: implement AppUtils for cell value extraction and refactor TransactionServiceImpl and WalletServiceImpl to use AppUtils 
+
 - 18:54:30 | PersonalTracking
   → chore: add .superpowers to .gitignore 
 
