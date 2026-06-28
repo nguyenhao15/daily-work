@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 18:11:15 | PersonalTracking
+  → fix: set ownerId to current user ID during Excel wallet import 
+
 - 18:08:54 | PersonalTracking
   → fix: resolve wallet controller and service compilation, resource leak, and null safety issues 
 
