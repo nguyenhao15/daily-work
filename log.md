@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 18:42:01 | PersonalTracking
+  → fix(debt): fix incorrect null fallback for amount and wallet ID in updateDebtTransaction 
+
 - 18:39:20 | PersonalTracking
   → fix(debt): fix amount calculation and null safety in debt transaction service 
 
