@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 18:13:27 | PersonalTracking
+  → fix: skip empty wallet names on import and prevent NPE in updateWalletBalance 
+
 - 18:11:15 | PersonalTracking
   → fix: set ownerId to current user ID during Excel wallet import 
 
