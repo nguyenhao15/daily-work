@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 18:26:31 | PersonalTracking
+  → fix(transaction): prevent NPE in deleteTransactionById when inCome is null 
+
 - 18:24:17 | PersonalTracking
   → fix(transaction): prevent NPE on nullable Boolean inCome field in stream filters 
 
