@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 22:16:08 | PersonalTracking
+  → feat: add Excel import functionality for categories and transactions, refactor related services and DTOs 
+
 - 19:15:46 | PersonalTracking
   → feat: implement AppUtils for cell value extraction and refactor TransactionServiceImpl and WalletServiceImpl to use AppUtils 
 
