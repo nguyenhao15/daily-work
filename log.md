@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 18:44:12 | PersonalTracking
+  → fix(debt-transaction): fix wallet balance inconsistency and add transactional boundaries 
+
 - 18:42:01 | PersonalTracking
   → fix(debt): fix incorrect null fallback for amount and wallet ID in updateDebtTransaction 
 
