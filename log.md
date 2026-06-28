@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 18:17:04 | PersonalTracking
+  → fix: adapt debt and transfer wallet balance updates to BigDecimal 
+
 - 18:16:51 | PersonalTracking
   → feat: migrate transaction entity, dtos, and service to BigDecimal 
 
