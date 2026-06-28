@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 18:04:39 | PersonalTracking
+  → feat: migrate wallet service and implementation balance fields to BigDecimal 
+
 - 18:02:23 | PersonalTracking
   → docs: add implementation plan for Long to BigDecimal migration 
 
