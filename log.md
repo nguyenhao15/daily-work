@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 18:16:51 | PersonalTracking
+  → feat: migrate transaction entity, dtos, and service to BigDecimal 
+
 - 18:13:27 | PersonalTracking
   → fix: skip empty wallet names on import and prevent NPE in updateWalletBalance 
 
