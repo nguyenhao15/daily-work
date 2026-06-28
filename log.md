@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 18:54:30 | PersonalTracking
+  → chore: add .superpowers to .gitignore 
+
 - 18:44:12 | PersonalTracking
   → fix(debt-transaction): fix wallet balance inconsistency and add transactional boundaries 
 
