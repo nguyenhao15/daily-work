@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 23:41:54 | PersonalTracking
+  → feat: update bundle identifier, add EAS configuration, and enhance input components with currency support 
+
 - 22:16:08 | PersonalTracking
   → feat: add Excel import functionality for categories and transactions, refactor related services and DTOs 
 
