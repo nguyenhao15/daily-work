@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 18:02:23 | PersonalTracking
+  → docs: add implementation plan for Long to BigDecimal migration 
+
 - 18:01:05 | PersonalTracking
   → docs: add design spec for Long to BigDecimal migration 
 
