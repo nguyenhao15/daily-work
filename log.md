@@ -1,3 +1,10 @@
+### 2026-06-28
+
+- 18:01:05 | PersonalTracking
+  → docs: add design spec for Long to BigDecimal migration 
+
+---
+
 ### 2026-06-27
 
 - 23:18:07 | PersonalTracking
