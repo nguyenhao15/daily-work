@@ -1,5 +1,8 @@
 ### 2026-06-29
 
+- 05:43:00 | PersonalTracking
+  → Fix return data after import 
+
 - 05:25:28 | Nguyenhao15
   → vault backup: 2026-06-29 05:25:28 
 
