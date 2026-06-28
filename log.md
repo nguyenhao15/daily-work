@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 18:28:05 | PersonalTracking
+  → fix(transaction): prevent NPE in updateWalletByTransaction when parameters are null 
+
 - 18:26:31 | PersonalTracking
   → fix(transaction): prevent NPE in deleteTransactionById when inCome is null 
 
