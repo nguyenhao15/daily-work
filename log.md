@@ -1,5 +1,8 @@
 ### 2026-06-28
 
+- 18:39:20 | PersonalTracking
+  → fix(debt): fix amount calculation and null safety in debt transaction service 
+
 - 18:37:36 | PersonalTracking
   → feat: migrate debt transaction entity, dtos, and service to BigDecimal 
 
