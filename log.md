@@ -1,5 +1,8 @@
 ### 2026-06-30
 
+- 21:59:07 | PersonalTracking
+  → feat: update wallet sorting order, enhance transaction components with date formatting, and add modal for transaction updates 
+
 - 21:42:45 | Nguyenhao15
   → vault backup: 2026-06-30 21:42:45 
 
