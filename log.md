@@ -1,5 +1,8 @@
 ### 2026-06-30
 
+- 22:28:25 | PersonalTracking
+  → feat: enhance category and wallet components with search functionality, optional props, and improved UI elements 
+
 - 21:59:07 | PersonalTracking
   → feat: update wallet sorting order, enhance transaction components with date formatting, and add modal for transaction updates 
 
