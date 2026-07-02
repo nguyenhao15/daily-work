@@ -1,3 +1,10 @@
+### 2026-07-02
+
+- 22:18:42 | PersonalTracking
+  → feat: add Excel import functionality for debts, debt transactions, and transfers; enhance category selection with transaction type 
+
+---
+
 ### 2026-07-01
 
 - 22:08:44 | PersonalTracking
