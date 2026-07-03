@@ -1,5 +1,8 @@
 ### 2026-07-03
 
+- 21:30:55 | PersonalTracking
+  → feat: update DebtServiceImpl to set debt completion status; add original amount to DebtTransactionRequest; clean up TransferServiceImpl by removing debug prints 
+
 - 20:53:10 | PersonalTracking
   → fix: handle null rows in Excel import for debts and transfers; update tag value in form elements; add console logs for debugging 
 
