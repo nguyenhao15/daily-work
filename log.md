@@ -1,3 +1,10 @@
+### 2026-07-03
+
+- 20:53:10 | PersonalTracking
+  → fix: handle null rows in Excel import for debts and transfers; update tag value in form elements; add console logs for debugging 
+
+---
+
 ### 2026-07-02
 
 - 22:18:42 | PersonalTracking
