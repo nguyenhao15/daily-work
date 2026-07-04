@@ -1,3 +1,10 @@
+### 2026-07-05
+
+- 00:31:08 | PersonalTracking
+  → feat: update transaction and category handling; add excludeFromReport field, enhance filtering options, and improve UI components 
+
+---
+
 ### 2026-07-04
 
 - 23:12:31 | PersonalTracking
