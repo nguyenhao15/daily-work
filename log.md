@@ -1,5 +1,8 @@
 ### 2026-07-04
 
+- 22:17:15 | PersonalTracking
+  → feat: add functionality to retrieve debt transaction records by debt ID; update related components and services 
+
 - 21:37:17 | PersonalTracking
   → feat: enhance UI components and improve transaction handling; add keyboard persistence and update validation schema 
 
