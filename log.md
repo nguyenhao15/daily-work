@@ -1,5 +1,8 @@
 ### 2026-07-04
 
+- 23:12:31 | PersonalTracking
+  → feat: add excludeFromReport field to category DTOs and entity; update related service logic 
+
 - 22:17:15 | PersonalTracking
   → feat: add functionality to retrieve debt transaction records by debt ID; update related components and services 
 
