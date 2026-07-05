@@ -1,5 +1,8 @@
 ### 2026-07-05
 
+- 13:06:37 | PersonalTracking
+  → feat: enhance category breakdown and reporting; add parentId to CategoryMinimalField, isInCome to CategoryBreakdownDto, and implement new CategoryBreakdownCard and CombinedBarLineChart components 
+
 - 10:46:24 | PersonalTracking
   → feat: add category breakdown functionality; implement new API endpoint, service methods, and UI components for category expense analysis 
 
