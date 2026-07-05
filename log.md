@@ -1,5 +1,8 @@
 ### 2026-07-06
 
+- 06:21:25 | PersonalTracking
+  → Fix bud update transactions 
+
 - 05:14:36 | PersonalTracking
   → feat: update expense projection logic; refine isActive condition to ensure accurate category status 
 
