@@ -1,5 +1,8 @@
 ### 2026-07-05
 
+- 14:10:27 | PersonalTracking
+  → feat: implement category breakdown enhancements; add getAllMyCategories method, new API endpoint for all category details, and refactor dashboard components for improved data handling 
+
 - 13:06:37 | PersonalTracking
   → feat: enhance category breakdown and reporting; add parentId to CategoryMinimalField, isInCome to CategoryBreakdownDto, and implement new CategoryBreakdownCard and CombinedBarLineChart components 
 
