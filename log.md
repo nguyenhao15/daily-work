@@ -1,3 +1,10 @@
+### 2026-07-06
+
+- 05:14:36 | PersonalTracking
+  → feat: update expense projection logic; refine isActive condition to ensure accurate category status 
+
+---
+
 ### 2026-07-05
 
 - 22:41:21 | PersonalTracking
