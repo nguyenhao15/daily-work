@@ -1,5 +1,8 @@
 ### 2026-07-05
 
+- 10:46:24 | PersonalTracking
+  → feat: add category breakdown functionality; implement new API endpoint, service methods, and UI components for category expense analysis 
+
 - 09:19:21 | PersonalTracking
   → feat: refactor transaction report handling; integrate TransactionFilterDto for improved filtering and update related components 
 
