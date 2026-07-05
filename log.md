@@ -1,5 +1,8 @@
 ### 2026-07-05
 
+- 09:19:21 | PersonalTracking
+  → feat: refactor transaction report handling; integrate TransactionFilterDto for improved filtering and update related components 
+
 - 00:31:08 | PersonalTracking
   → feat: update transaction and category handling; add excludeFromReport field, enhance filtering options, and improve UI components 
 
