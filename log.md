@@ -1,5 +1,8 @@
 ### 2026-07-18
 
+- 20:55:12 | mindx
+  → fix(contract-form): flatten nested grids, align validation messages, and use text-destructive color 
+
 - 20:51:52 | mindx
   → fix(sale-space): address task 3 review findings for ContractForm layout and styling 
 
