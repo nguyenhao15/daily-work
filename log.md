@@ -1,5 +1,8 @@
 ### 2026-07-18
 
+- 21:09:02 | mindx
+  → refactor: replace raw inputs in ContractForm with TextInputField 
+
 - 20:55:12 | mindx
   → fix(contract-form): flatten nested grids, align validation messages, and use text-destructive color 
 
