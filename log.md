@@ -1,5 +1,8 @@
 ### 2026-07-18
 
+- 20:47:31 | mindx
+  → feat(sale-space): add zod validation schema for contract creation 
+
 - 20:46:02 | mindx
   → feat(sale-space): define contract types and initial dummy data 
 
