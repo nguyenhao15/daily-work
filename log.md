@@ -1,5 +1,8 @@
 ### 2026-07-18
 
+- 21:21:27 | mindx
+  → fix(sale-space): resolve zod coercion bug and rename component directory to components 
+
 - 21:17:56 | mindx
   → refactor(sale-space): simplify onSubmit contract creation to keep line count under 160 lines 
 
