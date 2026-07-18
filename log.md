@@ -1,5 +1,8 @@
 ### 2026-07-18
 
+- 21:16:37 | mindx
+  → refactor: extract ContractLedger component from ContractForm to satisfy line length constraint 
+
 - 21:14:26 | mindx
   → refactor(sale-space): rewrite ContractForm using reusable input elements with spacious design and navigation 
 
