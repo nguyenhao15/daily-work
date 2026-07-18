@@ -1,5 +1,8 @@
 ### 2026-07-18
 
+- 21:17:56 | mindx
+  → refactor(sale-space): simplify onSubmit contract creation to keep line count under 160 lines 
+
 - 21:16:37 | mindx
   → refactor: extract ContractLedger component from ContractForm to satisfy line length constraint 
 
