@@ -1,5 +1,8 @@
 ### 2026-07-18
 
+- 21:12:40 | mindx
+  → feat: refactor currency, paymentCycle, and bu fields to use SingleComboboxComponent 
+
 - 21:11:19 | mindx
   → refactor(sale-space): replace raw date inputs with DatePickerComponent in ContractForm 
 
