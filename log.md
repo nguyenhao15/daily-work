@@ -1,5 +1,8 @@
 ### 2026-07-18
 
+- 21:14:26 | mindx
+  → refactor(sale-space): rewrite ContractForm using reusable input elements with spacious design and navigation 
+
 - 21:12:40 | mindx
   → feat: refactor currency, paymentCycle, and bu fields to use SingleComboboxComponent 
 
