@@ -1,5 +1,8 @@
 ### 2026-07-18
 
+- 21:11:19 | mindx
+  → refactor(sale-space): replace raw date inputs with DatePickerComponent in ContractForm 
+
 - 21:09:02 | mindx
   → refactor: replace raw inputs in ContractForm with TextInputField 
 
