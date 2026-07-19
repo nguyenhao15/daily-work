@@ -1,5 +1,10 @@
 ### 2026-07-19
 
+- 15:35:36 | mindx
+  → fix(maintenance): remove typo file MaintanceList.tsx
+
+Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
 - 15:24:50 | mindx
   → feat(maintenance): add maintenance list components Adds HomePage, MaintenanceList, MaintenanceCard, types, and index Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
 
