@@ -1,3 +1,10 @@
+### 2026-07-19
+
+- 10:03:22 | mindx
+  → feat: Implement TanStack Query conventions and restructure business module - Added SKILL.md to enforce TanStack Query conventions including strict data flow architecture, query key namespaces, and cache invalidation rules. - Updated App.tsx to reflect new route structure for SaleRoute. - Refactored SideMenu and NavMenu components for better organization and styling. - Created new constants and pages for the business module including BusinessHomePage and CreateNewContractPage. - Developed ContractForm and ContractLedger components for contract management. - Introduced validation schema for contract creation using Zod. - Removed deprecated sale-space components and routes to streamline the codebase. 
+
+---
+
 ### 2026-07-18
 
 - 21:21:27 | mindx
