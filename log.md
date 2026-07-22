@@ -1,5 +1,8 @@
 ### 2026-07-22
 
+- 22:34:01 | mindx
+  → Adds maintenance summary statistics to dashboard Refactors the `StatCard` component to enforce a standardized visual style, removing the need for external `className` props. Updates the maintenance API to include a new endpoint for fetching dashboard summary status and refines the filter input types for improved clarity and type safety. Introduces a new React Query hook (`useGetStatCard`) to efficiently fetch these statistics. Integrates the fetched summary data into the Maintenance `HomePage`, displaying key metrics using the standardized `StatCard` components. 
+
 - 22:23:48 | mindx
   → Refactor maintenance UI and update global theme Updates the global color palette and theme variables to support a more robust design system and improved dark mode. Refactors the maintenance dashboard by replacing the legacy home component with a new main screen that better handles loading and error states. Adds a new API method for fetching maintenance statistics and removes unused imports in shared components. 
 
