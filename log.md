@@ -1,5 +1,8 @@
 ### 2026-07-22
 
+- 22:23:48 | mindx
+  → Refactor maintenance UI and update global theme Updates the global color palette and theme variables to support a more robust design system and improved dark mode. Refactors the maintenance dashboard by replacing the legacy home component with a new main screen that better handles loading and error states. Adds a new API method for fetching maintenance statistics and removes unused imports in shared components. 
+
 - 06:10:40 | mindx
   → feat(maintenance): add maintenance summary status endpoint and related DTOs 
 
