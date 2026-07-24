@@ -1,5 +1,8 @@
 ### 2026-07-24
 
+- 23:17:58 | mindx
+  → Implements secure refresh token rotation and client tracking Enhances refresh token security by introducing token rotation, where the old token is revoked and a new one is issued upon successful refresh. This helps mitigate token reuse attacks. Stores refresh tokens as SHA-256 hashes in the database rather than plain values, protecting against token exposure in the event of a data breach. Captures and stores client information including IP address, user agent, derived device name, and a unique device ID (provided by the frontend) with each session. This improves session logging and management capabilities. Integrates `uap-java` for robust user agent parsing and centralizes refresh token cookie management within the dedicated service. 
+
 - 20:24:56 | mindx
   → Strengthens application security with new guides and features Adds a detailed security analysis and an implementation guide with actionable TODOs, outlining a structured approach to address identified vulnerabilities. This initial commit lays the groundwork for critical security improvements. Introduces configurable CSRF protection, including a new filter to expose the XSRF-TOKEN cookie and updates to Swagger and CORS configurations for proper client-side integration. Improves authentication filter's exception handling to prevent sensitive information leaks and ensure consistent error responses. A custom access denied handler is also added for better error messages. Prepares for enhanced refresh token management by updating the Session model to support device IDs, revocation status, IP, and user-agent. The frontend is updated to fetch the CSRF token. 
 
