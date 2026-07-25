@@ -1,5 +1,8 @@
 ### 2026-07-25
 
+- 20:34:34 | mindx
+  → refactor(input-elements): update ComboboxComponent to route props to SingleComboboxComponent and MultiComboboxComponent 
+
 - 20:33:23 | mindx
   → feat: create MultiComboboxComponent for multi-select functionality 
 
