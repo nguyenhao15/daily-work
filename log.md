@@ -1,5 +1,8 @@
 ### 2026-07-25
 
+- 20:36:58 | mindx
+  → fix(combobox): resolve excess property error, hook rule violation, and prop types 
+
 - 20:34:34 | mindx
   → refactor(input-elements): update ComboboxComponent to route props to SingleComboboxComponent and MultiComboboxComponent 
 
