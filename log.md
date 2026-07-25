@@ -1,5 +1,8 @@
 ### 2026-07-25
 
+- 20:42:11 | mindx
+  → refactor(combobox): remove chip rendering from MultiComboboxComponent 
+
 - 20:41:51 | mindx
   → refactor(combobox): remove chip rendering from MultiComboboxComponent 
 
