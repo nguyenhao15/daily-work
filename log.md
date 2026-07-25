@@ -1,5 +1,8 @@
 ### 2026-07-25
 
+- 21:59:59 | mindx
+  → Enhance security and refactor UI components Tightens rate limiting constraints on authentication endpoints and introduces a scheduled task to purge revoked refresh tokens for improved database hygiene. Refactors the complex Combobox component into specialized single and multi-select versions to increase maintainability and type safety. Refines UI layouts in the asset management module and removes unnecessary debug logs from both backend and frontend codebases. 
+
 - 20:42:11 | mindx
   → refactor(combobox): remove chip rendering from MultiComboboxComponent 
 
