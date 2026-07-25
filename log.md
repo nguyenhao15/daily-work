@@ -1,5 +1,8 @@
 ### 2026-07-25
 
+- 17:59:20 | mindx
+  → Refactor maintenance home page and pagination Improves the maintenance module's layout by implementing server-side pagination using a shared component. Simplifies navigation by removing the maintenance sub-menu and adding a direct creation button to the main screen. Adjusts container styling and overflow behavior to ensure a more consistent user experience across different screen sizes. 
+
 - 16:42:54 | mindx
   → Enhances security and improves maintenance filtering Implements rate limiting on authentication endpoints to mitigate brute-force and DOS attacks. Refactors maintenance search functionality to use POST requests, enabling more complex multi-select filtering across statuses, categories, and locations. Updates core UI components to support better state management for multiple selections and customizable styling. Cleans up the security utility by removing legacy hashing implementations and unnecessary debug statements. 
 
