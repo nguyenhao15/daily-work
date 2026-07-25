@@ -1,5 +1,8 @@
 ### 2026-07-25
 
+- 13:41:41 | mindx
+  → Implement Redis rate limiting and enhance security Introduces a custom rate-limiting mechanism using Redis to protect API endpoints from abuse and improve overall service stability. Strengthens authentication security by upgrading refresh token hashing to HMAC-SHA256 and enforcing audience validation for JWTs. Improves error handling by providing specific responses for rate limit violations and unauthorized access, while standardizing token expiration logic and cleaning up internal session management. 
+
 - 09:45:35 | mindx
   → Enhances auth security, APIs, and refresh token handling Updates authentication endpoints to `/api/v1/auth` for improved API versioning. Enhances refresh token security by hashing tokens stored in the database while using raw tokens in HTTP-only cookies. Introduces standard JWT claims (issuer, audience, ID) for access tokens and refines JWT validation. Allows multiple concurrent sessions per user by removing the unique constraint on `staffId` in the `Session` model. Aligns frontend API calls and device ID header with backend changes, and refines the logout process. 
 
