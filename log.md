@@ -1,5 +1,8 @@
 ### 2026-07-25
 
+- 20:32:08 | mindx
+  → feat(input-elements): create SingleComboboxComponent component 
+
 - 17:59:20 | mindx
   → Refactor maintenance home page and pagination Improves the maintenance module's layout by implementing server-side pagination using a shared component. Simplifies navigation by removing the maintenance sub-menu and adding a direct creation button to the main screen. Adjusts container styling and overflow behavior to ensure a more consistent user experience across different screen sizes. 
 
