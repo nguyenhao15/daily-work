@@ -1,5 +1,8 @@
 ### 2026-07-25
 
+- 16:42:54 | mindx
+  → Enhances security and improves maintenance filtering Implements rate limiting on authentication endpoints to mitigate brute-force and DOS attacks. Refactors maintenance search functionality to use POST requests, enabling more complex multi-select filtering across statuses, categories, and locations. Updates core UI components to support better state management for multiple selections and customizable styling. Cleans up the security utility by removing legacy hashing implementations and unnecessary debug statements. 
+
 - 13:49:51 | Nguyenhao15
   → vault backup: 2026-07-25 13:49:51 
 
