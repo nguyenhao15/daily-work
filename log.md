@@ -1,3 +1,10 @@
+### 2026-07-25
+
+- 09:45:35 | mindx
+  → Enhances auth security, APIs, and refresh token handling Updates authentication endpoints to `/api/v1/auth` for improved API versioning. Enhances refresh token security by hashing tokens stored in the database while using raw tokens in HTTP-only cookies. Introduces standard JWT claims (issuer, audience, ID) for access tokens and refines JWT validation. Allows multiple concurrent sessions per user by removing the unique constraint on `staffId` in the `Session` model. Aligns frontend API calls and device ID header with backend changes, and refines the logout process. 
+
+---
+
 ### 2026-07-24
 
 - 23:17:58 | mindx
