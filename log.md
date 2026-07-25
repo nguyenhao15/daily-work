@@ -1,5 +1,8 @@
 ### 2026-07-25
 
+- 20:33:23 | mindx
+  → feat: create MultiComboboxComponent for multi-select functionality 
+
 - 20:32:08 | mindx
   → feat(input-elements): create SingleComboboxComponent component 
 
