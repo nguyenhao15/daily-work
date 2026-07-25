@@ -1,5 +1,8 @@
 ### 2026-07-25
 
+- 20:41:51 | mindx
+  → refactor(combobox): remove chip rendering from MultiComboboxComponent 
+
 - 20:36:58 | mindx
   → fix(combobox): resolve excess property error, hook rule violation, and prop types 
 
