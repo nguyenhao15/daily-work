@@ -1,5 +1,8 @@
 ### 2026-07-26
 
+- 19:35:54 | PersonalTracking
+  → feat(habit-tracker): create Habit cards, date strip, and log edit modal UI components 
+
 - 19:35:08 | PersonalTracking
   → feat(habit-tracker): add mobile API layer, schemas, and TanStack query hooks 
 
