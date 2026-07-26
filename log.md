@@ -1,5 +1,8 @@
 ### 2026-07-26
 
+- 19:38:46 | PersonalTracking
+  → docs: add agent rules, instructions, and habit tracker implementation plan 
+
 - 19:38:25 | PersonalTracking
   → refactor(habit-tracker): use HabitScheduleService in HabitLogServiceImpl 
 
