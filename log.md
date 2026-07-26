@@ -1,5 +1,8 @@
 ### 2026-07-26
 
+- 19:35:08 | PersonalTracking
+  → feat(habit-tracker): add mobile API layer, schemas, and TanStack query hooks 
+
 - 19:34:28 | PersonalTracking
   → feat(habit-tracker): add HabitLogScheduler for daily log auto-generation 
 
