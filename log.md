@@ -1,5 +1,8 @@
 ### 2026-07-26
 
+- 19:36:44 | PersonalTracking
+  → feat(habit-tracker): integrate HabitTracker into home tab and add habit management & history screens 
+
 - 19:35:54 | PersonalTracking
   → feat(habit-tracker): create Habit cards, date strip, and log edit modal UI components 
 
