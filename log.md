@@ -1,5 +1,8 @@
 ### 2026-07-26
 
+- 19:32:43 | PersonalTracking
+  → feat(habit-tracker): implement HabitScheduleService and custom queries in HabitLogRepository 
+
 - 19:32:15 | PersonalTracking
   → feat(habit-tracker): refactor domain entities and DTOs for habit tracker 
 
