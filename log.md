@@ -1,5 +1,8 @@
 ### 2026-07-26
 
+- 19:34:28 | PersonalTracking
+  → feat(habit-tracker): add HabitLogScheduler for daily log auto-generation 
+
 - 19:34:02 | PersonalTracking
   → feat(habit-tracker): update services, mappers, and controllers for habit and habit-log management 
 
