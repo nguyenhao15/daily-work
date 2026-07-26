@@ -1,5 +1,8 @@
 ### 2026-07-26
 
+- 19:34:02 | PersonalTracking
+  → feat(habit-tracker): update services, mappers, and controllers for habit and habit-log management 
+
 - 19:32:43 | PersonalTracking
   → feat(habit-tracker): implement HabitScheduleService and custom queries in HabitLogRepository 
 
