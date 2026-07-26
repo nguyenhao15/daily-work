@@ -1,3 +1,10 @@
+### 2026-07-26
+
+- 10:48:06 | mindx
+  → Refine loading states and UI layout consistency Improves user experience by replacing full-page loading modals with inline button loading states and disabled actions during processing. Enhances image performance with native lazy loading and centers loaders across the application for better visual consistency. Adjusts the PDF viewer dimensions and fixes navigation logic after item deletion to ensure a smoother workflow. 
+
+---
+
 ### 2026-07-25
 
 - 21:59:59 | mindx
