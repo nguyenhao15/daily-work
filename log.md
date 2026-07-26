@@ -1,5 +1,8 @@
 ### 2026-07-26
 
+- 19:38:25 | PersonalTracking
+  → refactor(habit-tracker): use HabitScheduleService in HabitLogServiceImpl 
+
 - 19:36:44 | PersonalTracking
   → feat(habit-tracker): integrate HabitTracker into home tab and add habit management & history screens 
 
