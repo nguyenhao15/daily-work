@@ -1,5 +1,8 @@
 ### 2026-07-26
 
+- 22:29:15 | PersonalTracking
+  → fix(habit-mobile): use mutateAsync for toggle active and surface errors Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
 - 22:25:23 | PersonalTracking
   → feat(habit-mobile): edit via modal instead of navigation; add HabitEditModal Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
 
