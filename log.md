@@ -1,5 +1,8 @@
 ### 2026-07-26
 
+- 19:32:15 | PersonalTracking
+  → feat(habit-tracker): refactor domain entities and DTOs for habit tracker 
+
 - 16:27:53 | Nguyenhao15
   → vault backup: 2026-07-26 16:27:53 
 
