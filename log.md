@@ -1,5 +1,8 @@
 ### 2026-07-26
 
+- 22:25:23 | PersonalTracking
+  → feat(habit-mobile): edit via modal instead of navigation; add HabitEditModal Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
 - 22:15:35 | PersonalTracking
   → fix(habit-mobile): accessibility & TSX fixes; hide endDate in Create Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
 
