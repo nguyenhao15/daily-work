@@ -1,5 +1,8 @@
 ### 2026-07-27
 
+- 21:03:12 | PersonalTracking
+  → docs(habit-tracker): add design spec for header 'Add habit log' and .agent guidance 
+
 - 20:07:33 | PersonalTracking
   → fix: TypeScript fixes for modal, dashboard query mapping, loan logs props, and filter export 
 
