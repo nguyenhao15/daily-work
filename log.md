@@ -1,5 +1,8 @@
 ### 2026-07-27
 
+- 21:54:48 | PersonalTracking
+  → Improve Add Habit Log modal UI and type safety Enhances the habit logging experience by adding scroll support to the modal, ensuring usability on smaller screens. Refines the layout styling and touch targets for better mobile accessibility. Includes improvements to type safety during log submission by replacing generic types with inferred ones and updates effect dependencies to ensure consistent state management. 
+
 - 21:50:07 | PersonalTracking
   → refactor(habit-ui): improve AddHabitLogModal UI, use DatePickerComponent, accessibility 
 
