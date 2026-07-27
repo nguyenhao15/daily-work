@@ -1,5 +1,8 @@
 ### 2026-07-27
 
+- 21:47:38 | PersonalTracking
+  → docs(habit): add implementation commit list and API example for POST /habit-logs 
+
 - 21:46:28 | PersonalTracking
   → feat(habit-ui): add AddHabitLogModal and wire 'Thêm log' in Today's Habits 
 
