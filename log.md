@@ -1,5 +1,8 @@
 ### 2026-07-27
 
+- 20:07:33 | PersonalTracking
+  → fix: TypeScript fixes for modal, dashboard query mapping, loan logs props, and filter export 
+
 - 20:00:00 | PersonalTracking
   → habits: audit/fix API usage and UI accessibility  FlatList+debounce improvements Changes: - actions: add getHabitByIdAction - hooks: add useGetHabitById - HabitEditModal & Edit screen: use hook instead of direct api call - HabitListSection: FlatList horizontal, EmptyPage, optimistic debounce for number increments - Number/Checkbox/Text habit cards: improved accessibility and larger tap targets - Forms: typed useForm with HabitInput Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
 
