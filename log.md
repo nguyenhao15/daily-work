@@ -1,5 +1,8 @@
 ### 2026-07-27
 
+- 21:50:07 | PersonalTracking
+  → refactor(habit-ui): improve AddHabitLogModal UI, use DatePickerComponent, accessibility 
+
 - 21:47:38 | PersonalTracking
   → docs(habit): add implementation commit list and API example for POST /habit-logs 
 
