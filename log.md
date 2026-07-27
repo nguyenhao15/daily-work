@@ -1,5 +1,8 @@
 ### 2026-07-27
 
+- 21:42:30 | PersonalTracking
+  → feat(habit): add createHabitLogAction and useCreateHabitLog hook Co-authored-by: nguyenhao <lynguyenhao15@gmail.com> 
+
 - 21:38:14 | PersonalTracking
   → feat(api): add createHabitLog to habitApi Co-authored-by: Implementer <implementer@example.com> 
 
