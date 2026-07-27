@@ -1,5 +1,8 @@
 ### 2026-07-27
 
+- 21:05:56 | PersonalTracking
+  → docs(habit-tracker): align add-habit-log spec with .github instructions (mobile & demo) 
+
 - 21:03:12 | PersonalTracking
   → docs(habit-tracker): add design spec for header 'Add habit log' and .agent guidance 
 
