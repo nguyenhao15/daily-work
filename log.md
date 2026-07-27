@@ -1,5 +1,8 @@
 ### 2026-07-27
 
+- 22:25:59 | PersonalTracking
+  → Formalize API contracts and date query standards Establishes cross-project guardrails to prevent API contract drift and ensure type parity between the backend and mobile layers. These changes mandate synchronized updates to DTO shapes and endpoint documentation. Enforces the use of local "YYYY-MM-DD" strings for all date-based queries to eliminate timezone-related shifting bugs. This standard is applied across API parameters, utility functions, and UI default values. Improves mobile reliability by introducing explicit mutation types and a mapping utility that composes minimal habit logs with full metadata. This ensures that UI components have the necessary attributes to render correctly regardless of nested DTO depth. Updates project instructions and regression checklists to require contract snapshot synchronization for any changes affecting shared endpoints. 
+
 - 21:54:48 | PersonalTracking
   → Improve Add Habit Log modal UI and type safety Enhances the habit logging experience by adding scroll support to the modal, ensuring usability on smaller screens. Refines the layout styling and touch targets for better mobile accessibility. Includes improvements to type safety during log submission by replacing generic types with inferred ones and updates effect dependencies to ensure consistent state management. 
 
