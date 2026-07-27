@@ -1,5 +1,8 @@
 ### 2026-07-27
 
+- 21:10:37 | PersonalTracking
+  → chore(plans): add implementation plan for add-habit-log feature 
+
 - 21:05:56 | PersonalTracking
   → docs(habit-tracker): align add-habit-log spec with .github instructions (mobile & demo) 
 
