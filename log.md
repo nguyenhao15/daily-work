@@ -1,5 +1,8 @@
 ### 2026-07-27
 
+- 21:35:21 | PersonalTracking
+  → feat(habit-logs): make createHabitLog idempotent and add tests Co-authored-by: nguyenhao15 <nguyenhao15@example.com> 
+
 - 21:31:57 | PersonalTracking
   → fix(habit): restore primitive isActive and fix callsites; remove debug prints Co-authored-by: nguyenhao15 <nguyenhao15@users.noreply.github.com> 
 
