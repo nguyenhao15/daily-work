@@ -1,5 +1,8 @@
 ### 2026-07-27
 
+- 21:31:57 | PersonalTracking
+  → fix(habit): restore primitive isActive and fix callsites; remove debug prints Co-authored-by: nguyenhao15 <nguyenhao15@users.noreply.github.com> 
+
 - 21:17:27 | PersonalTracking
   → docs(sdd): add task-1 report for habit-log POST endpoint Co-authored-by: nguyenhao15 <nguyenhao15@example.com> 
 
