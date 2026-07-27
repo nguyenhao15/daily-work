@@ -1,5 +1,8 @@
 ### 2026-07-27
 
+- 21:46:28 | PersonalTracking
+  → feat(habit-ui): add AddHabitLogModal and wire 'Thêm log' in Today's Habits 
+
 - 21:42:30 | PersonalTracking
   → feat(habit): add createHabitLogAction and useCreateHabitLog hook Co-authored-by: nguyenhao <lynguyenhao15@gmail.com> 
 
