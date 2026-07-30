@@ -1,5 +1,8 @@
 ### 2026-07-30
 
+- 22:55:58 | PersonalTracking
+  → Re config database connection string 
+
 - 22:26:42 | PersonalTracking
   → Adds habit customization and refactors UI components Introduces icon and color selection for habits to improve visual organization and personalization. Consolidates habit form logic into a reusable component for better maintainability across the creation and editing workflows. Enhances the habit tracking interface with dynamic styling based on user-selected themes. Includes backend support for new habit attributes and optimizes data fetching performance using Hibernate batch processing. 
 
