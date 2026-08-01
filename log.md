@@ -1,5 +1,8 @@
 ### 2026-08-01
 
+- 10:41:04 | PersonalTracking
+  → docs: add cloud-to-local-first DB migration implementation plan Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
 - 10:33:27 | PersonalTracking
   → docs: update migration spec - fix nullable strategy and PrePersist guard - syncId declared nullable=true (2-phase strategy for existing data) - Add SyncIdBackfillRunner for backfilling existing rows on startup - @PrePersist guards against overwriting client-supplied syncId - Use @SQLRestriction instead of deprecated @Where Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
 
