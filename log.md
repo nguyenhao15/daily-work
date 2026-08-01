@@ -1,5 +1,32 @@
 ### 2026-08-01
 
+- 11:28:53 | PersonalTracking
+  → Merge branch 'agents/cloud-first-to-local-first-migration' into feat--local-first # Conflicts: #	mobile/package-lock.json #	mobile/package.json #	mobile/src/database/index.native.ts #	mobile/src/database/migrations.ts #	mobile/src/database/schema.ts #	mobile/src/models/Wallet.ts 
+
+- 11:22:54 | cloud-first-to-local-first-migration
+  → fix: final code review fixes - remove orphaned fields and fix WatermelonDB associations - Remove orphaned uuid field from CategoryEntity (syncId already serves as sync identity) - Fix Wallet.ts associations: remove invented table names (transfers_as_source/destination) - Add @lazy destinationWallet getter to Transfer.ts (WatermelonDB single belongs_to limitation) - Remove stale RENAME COLUMN from v3 migration (column already created as wallet_name in v2) Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
+- 11:14:06 | cloud-first-to-local-first-migration
+  → feat(mobile): register all 8 WatermelonDB models in database instance Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
+- 11:11:10 | cloud-first-to-local-first-migration
+  → feat(mobile): add WatermelonDB models for all 8 entities Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
+- 11:07:29 | cloud-first-to-local-first-migration
+  → feat(mobile): add WatermelonDB schema v3 and migrations for all 8 tables Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
+- 11:02:49 | cloud-first-to-local-first-migration
+  → chore(mobile): install WatermelonDB, enable decorators for local-first Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
+- 10:58:10 | cloud-first-to-local-first-migration
+  → feat(sync): add SyncIdBackfillRunner to backfill sync_id on startup Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
+- 10:52:44 | cloud-first-to-local-first-migration
+  → feat(sync): add @SQLRestriction to all 8 entities; add color/icon to WalletEntity Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
+- 10:46:38 | cloud-first-to-local-first-migration
+  → feat(sync): add syncId and deletedAt to BaseAuditJpaModel with PrePersist guard Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
 - 10:41:04 | PersonalTracking
   → docs: add cloud-to-local-first DB migration implementation plan Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
 
