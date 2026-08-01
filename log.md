@@ -1,5 +1,8 @@
 ### 2026-08-01
 
+- 10:25:34 | PersonalTracking
+  → docs: add cloud-to-local-first DB migration design spec Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
 - 09:37:51 | Nguyenhao15
   → vault backup: 2026-08-01 09:37:51 
 
