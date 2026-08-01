@@ -1,5 +1,8 @@
 ### 2026-08-01
 
+- 12:05:55 | PersonalTracking
+  → Add sync layer implementation design spec Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
 - 11:28:53 | PersonalTracking
   → Merge branch 'agents/cloud-first-to-local-first-migration' into feat--local-first # Conflicts: #	mobile/package-lock.json #	mobile/package.json #	mobile/src/database/index.native.ts #	mobile/src/database/migrations.ts #	mobile/src/database/schema.ts #	mobile/src/models/Wallet.ts 
 
