@@ -1,5 +1,8 @@
 ### 2026-08-01
 
+- 22:14:00 | PersonalTracking
+  → Implement local-first sync layer and guardrails Establishes a robust synchronization framework between the Spring Boot backend and WatermelonDB mobile client using a dual-ID strategy and soft-delete patterns. Adds comprehensive AI agent instructions and architectural guardrails to maintain cross-layer consistency for API contracts, DTO shapes, and date handling. Updates the persistence layer with sync-aware entities, repositories, and processors to support offline-first data orchestration. Integrates synchronization triggers and standardized model logic on the mobile client to ensure seamless data round-tripping. 
+
 - 13:42:58 | Nguyenhao15
   → vault backup: 2026-08-01 13:42:58 
 
