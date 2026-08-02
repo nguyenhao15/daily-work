@@ -1,5 +1,8 @@
 ### 2026-08-03
 
+- 05:38:04 | movie_app_JSMT
+  → Initilize Project 
+
 - 05:36:59 | TutorialVideo
   → 
 
