@@ -1,5 +1,8 @@
 ### 2026-08-02
 
+- 11:53:46 | PersonalTracking
+  → Implements pull sync and refines data models Implements the pull synchronization logic in the backend orchestrator to allow mobile clients to fetch incremental updates. Refactors authentication models by explicitly defining auditing fields and updates JSON property naming to ensure consistency across the synchronization layer. Enhances the mobile UI components using reactive observers to automatically update the display when the local database changes. Also refines the sync utility on the client side to match backend parameter naming and includes new tools for resetting or debugging the sync state. Implements pull sync and refines data models Adds pull synchronization logic to the backend orchestrator to enable incremental updates for mobile clients. Refines authentication models by explicitly defining auditing fields and standardizes JSON property naming to ensure consistency across the synchronization layer. Enhances mobile UI components using reactive observers to automatically reflect local database changes. Also updates synchronization utilities on the client side to align with backend parameter naming and includes new tools for debugging and resetting the sync state. Refactor data models and introduce service layer Relocate database access logic from model classes to dedicated service layers for better separation of concerns. Transition UI components to fetch data directly via services instead of relying on a monolithic initial data hook. Update model decorators to ensure correct data types for transaction dates and refine the mobile UI to handle empty states more consistently. 
+
 - 10:57:30 | Nguyenhao15
   → vault backup: 2026-08-02 10:57:30 
 
