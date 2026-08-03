@@ -1,5 +1,8 @@
 ### 2026-08-03
 
+- 21:07:12 | TutorialVideo
+  → Add movie fetching functionality and UI components - Implemented movie fetching from TMDB API with error handling. - Created HeaderApp, MovieCard, and SearchBar components for the UI. - Replaced ScrollView with FlatList for better performance and layout. 
+
 - 05:42:24 | TutorialVideo
   → Init Project 
 
