@@ -1,5 +1,8 @@
 ### 2026-08-05
 
+- 19:35:17 | PersonalTracking
+  → Fix bug habit log edit mode 
+
 - 05:22:43 | PersonalTracking
   → chore: update dependencies in mobile package.json - downgraded @react-native-community/datetimepicker from ^9.1.0 to 8.4.4 - updated expo from ~54.0.33 to ~54.0.36 - updated expo-updates from ~29.0.18 to ~29.0.19 
 
