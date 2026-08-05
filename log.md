@@ -1,5 +1,8 @@
 ### 2026-08-05
 
+- 21:29:23 | PersonalTracking
+  → Refactor wallet data structures to use Integer for priority and add excludedFromBalance field; update related components for consistency 
+
 - 19:59:15 | PersonalTracking
   → Refactor AmountInputComponent to use numeric textSize; update related components for consistency 
 
