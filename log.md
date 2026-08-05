@@ -1,5 +1,8 @@
 ### 2026-08-05
 
+- 22:28:06 | PersonalTracking
+  → Debug test folder 
+
 - 22:02:53 | PersonalTracking
   → Add targetValue to HabitLog and HabitLogRequest; update related components and schemas for consistency 
 
