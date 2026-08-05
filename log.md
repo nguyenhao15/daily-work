@@ -1,5 +1,8 @@
 ### 2026-08-05
 
+- 22:02:53 | PersonalTracking
+  → Add targetValue to HabitLog and HabitLogRequest; update related components and schemas for consistency 
+
 - 21:29:23 | PersonalTracking
   → Refactor wallet data structures to use Integer for priority and add excludedFromBalance field; update related components for consistency 
 
