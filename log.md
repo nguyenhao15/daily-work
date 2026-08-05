@@ -1,5 +1,8 @@
 ### 2026-08-05
 
+- 19:59:15 | PersonalTracking
+  → Refactor AmountInputComponent to use numeric textSize; update related components for consistency 
+
 - 19:35:17 | PersonalTracking
   → Fix bug habit log edit mode 
 
