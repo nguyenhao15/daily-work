@@ -1,5 +1,8 @@
 ### 2026-08-07
 
+- 06:06:20 | LocalFirstApp
+  → Config Nativewind css to project 
+
 - 05:01:08 | LocalFirstApp
   → first commit 
 
