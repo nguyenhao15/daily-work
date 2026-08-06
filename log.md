@@ -1,5 +1,8 @@
 ### 2026-08-06
 
+- 20:06:52 | TutorialVideo
+  → Init assets and set up Sign In Page 
+
 - 19:36:26 | Nguyenhao15
   → vault backup: 2026-08-06 19:36:25 
 
