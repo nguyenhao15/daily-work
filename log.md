@@ -1,5 +1,8 @@
 ### 2026-08-06
 
+- 21:23:50 | TutorialVideo
+  → Config Auth Page 
+
 - 20:06:52 | TutorialVideo
   → Init assets and set up Sign In Page 
 
