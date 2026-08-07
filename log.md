@@ -1,5 +1,8 @@
 ### 2026-08-07
 
+- 21:16:08 | LocalFirstApp
+  → Install watermelondb 
+
 - 20:58:01 | LocalFirstApp
   → Init account ui 
 
