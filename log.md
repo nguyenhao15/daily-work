@@ -1,5 +1,8 @@
 ### 2026-08-07
 
+- 20:31:54 | LocalFirstApp
+  → Settup route 
+
 - 06:06:20 | LocalFirstApp
   → Config Nativewind css to project 
 
