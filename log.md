@@ -1,5 +1,8 @@
 ### 2026-08-07
 
+- 21:20:36 | LocalFirstApp
+  → development build 
+
 - 21:16:08 | LocalFirstApp
   → Install watermelondb 
 
