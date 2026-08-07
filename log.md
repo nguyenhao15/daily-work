@@ -1,5 +1,8 @@
 ### 2026-08-07
 
+- 20:58:01 | LocalFirstApp
+  → Init account ui 
+
 - 20:48:34 | LocalFirstApp
   → Nested stack inside tab 
 
