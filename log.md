@@ -1,5 +1,8 @@
 ### 2026-08-08
 
+- 06:20:44 | LocalFirstApp
+  → Init transaction 
+
 - 05:48:59 | LocalFirstApp
   → withObservables list 
 
