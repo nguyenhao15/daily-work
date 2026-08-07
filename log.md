@@ -1,5 +1,8 @@
 ### 2026-08-07
 
+- 20:48:34 | LocalFirstApp
+  → Nested stack inside tab 
+
 - 20:31:54 | LocalFirstApp
   → Settup route 
 
