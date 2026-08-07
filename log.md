@@ -1,3 +1,10 @@
+### 2026-08-08
+
+- 05:48:59 | LocalFirstApp
+  → withObservables list 
+
+---
+
 ### 2026-08-07
 
 - 21:49:30 | LocalFirstApp
