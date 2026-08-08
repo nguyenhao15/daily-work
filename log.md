@@ -1,5 +1,8 @@
 ### 2026-08-08
 
+- 17:33:29 | mindx
+  → Init project and rule 
+
 - 16:55:49 | mindx
   → Re architect the project 
 
