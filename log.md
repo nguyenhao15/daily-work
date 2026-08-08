@@ -1,5 +1,8 @@
 ### 2026-08-08
 
+- 19:35:52 | mindx
+  → Config export file 
+
 - 19:08:26 | mindx
   → Init some branding configs 
 
