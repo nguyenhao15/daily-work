@@ -1,5 +1,8 @@
 ### 2026-08-08
 
+- 10:13:42 | LocalFirstApp
+  → feat: restructure app to focus on transactions - Created new Transactions layout and index files. - Renamed allocations to transactions throughout the app. - Deleted old allocations/new.tsx file and replaced it with transactions/new.tsx. - Implemented TransactionList and TransactionItem components for displaying transactions. - Updated database schema to include transaction details and relationships with wallets. - Added writer methods for creating transactions and handling income allocations. - Enhanced Transaction model to include wallet relationships. - Updated Wallet model to manage associated transactions. 
+
 - 06:20:44 | LocalFirstApp
   → Init transaction 
 
