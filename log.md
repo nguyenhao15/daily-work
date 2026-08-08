@@ -1,5 +1,8 @@
 ### 2026-08-08
 
+- 18:06:07 | mindx
+  → import font and init theme to project 
+
 - 17:33:29 | mindx
   → Init project and rule 
 
