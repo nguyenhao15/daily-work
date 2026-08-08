@@ -1,5 +1,8 @@
 ### 2026-08-08
 
+- 22:10:40 | mindx
+  → Config new architecture 
+
 - 21:47:44 | Nguyenhao15
   → vault backup: 2026-08-08 21:47:43 
 
