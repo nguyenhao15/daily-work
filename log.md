@@ -1,5 +1,8 @@
 ### 2026-08-09
 
+- 00:49:43 | mindx
+  → Add skill for development 
+
 - 00:30:41 | mindx
   → Add design skill to agent folder 
 
