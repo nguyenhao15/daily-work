@@ -1,5 +1,8 @@
 ### 2026-08-08
 
+- 19:08:26 | mindx
+  → Init some branding configs 
+
 - 18:16:54 | mindx
   → Config theme and user apperance 
 
