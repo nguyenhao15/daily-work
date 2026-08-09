@@ -1,5 +1,8 @@
 ### 2026-08-10
 
+- 06:16:23 | mindx
+  → fix: tighten smart form wrapper control Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
 - 06:07:34 | mindx
   → feat: add smart form wrappers Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
 
