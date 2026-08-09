@@ -1,5 +1,8 @@
 ### 2026-08-09
 
+- 22:52:26 | mindx
+  → feat: add new input components and enhance existing UI elements - Implemented new `BaseNumericFormat`, `ComboboxComponent`, `DatePickerControl`, `RadioGroupField`, `SwitchField`, `TextInputField`, and `TextareaField` components for improved form handling. - Created `FormTextInput` to integrate with React Hook Form, enhancing form validation and error handling. - Added `FieldWrapper` for consistent field layout and error display across input components. - Updated `SingleCombobox` and `button` styles for better user experience and accessibility. - Introduced new `Calendar` component for date selection with improved styling and functionality. - Enhanced `Popover`, `Separator`, and `Switch` components for better UI consistency. - Updated exports in `index.ts` to include new components for easier access. 
+
 - 19:05:44 | mindx
   → Implement basement module with API actions, hooks, and UI components 
 
