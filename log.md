@@ -1,5 +1,8 @@
 ### 2026-08-10
 
+- 06:00:08 | mindx
+  → fix: require string select option labels Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
 - 05:55:10 | mindx
   → feat: standardize select option inputs Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
 
