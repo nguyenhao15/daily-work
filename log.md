@@ -1,5 +1,8 @@
 ### 2026-08-09
 
+- 10:02:43 | mindx
+  → Config global context variances 
+
 - 08:34:52 | mindx
   → Config error type from api 
 
