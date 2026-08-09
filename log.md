@@ -1,5 +1,8 @@
 ### 2026-08-09
 
+- 10:30:24 | mindx
+  → Config login and logout action 
+
 - 10:02:43 | mindx
   → Config global context variances 
 
