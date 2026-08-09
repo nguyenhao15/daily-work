@@ -1,5 +1,8 @@
 ### 2026-08-09
 
+- 08:34:52 | mindx
+  → Config error type from api 
+
 - 00:49:43 | mindx
   → Add skill for development 
 
