@@ -1,5 +1,8 @@
 ### 2026-08-10
 
+- 06:07:34 | mindx
+  → feat: add smart form wrappers Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
 - 06:00:08 | mindx
   → fix: require string select option labels Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
 
