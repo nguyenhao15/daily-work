@@ -1,5 +1,8 @@
 ### 2026-08-09
 
+- 16:56:19 | mindx
+  → Init base ui config 
+
 - 16:31:23 | mindx
   → Re-Structure project trê 
 
