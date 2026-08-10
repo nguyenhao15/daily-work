@@ -1,5 +1,8 @@
 ### 2026-08-10
 
+- 20:05:04 | mindx
+  → feat(maintenance): add CategoryCombobox component Thin wrapper around ComboboxComponent that fetches category options via useGetCategoryOptions, maps them to SelectOption[], and supports isMultiple toggle for single/multi select. Shows disabled+loading state while data is being fetched. Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
 - 20:03:06 | mindx
   → docs: add CategoryCombobox implementation plan Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
 
