@@ -1,5 +1,8 @@
 ### 2026-08-11
 
+- 06:08:42 | mindx
+  → feat: Add new maintenance detail page 
+
 - 05:10:42 | mindx
   → feat(maintenance): refactor maintenance form components and enhance attachment handling 
 
