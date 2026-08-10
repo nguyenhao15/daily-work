@@ -1,5 +1,8 @@
 ### 2026-08-10
 
+- 20:40:26 | mindx
+  → Add Attachment Control component 
+
 - 20:27:20 | mindx
   → Config Category maintenance 
 
