@@ -1,5 +1,8 @@
 ### 2026-08-10
 
+- 20:02:02 | mindx
+  → docs: add CategoryCombobox component design spec Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
+
 - 06:27:53 | mindx
   → feat: add form architecture guidelines and module boundary protection skills - Introduced a new skill for form architecture guidelines, detailing a 3-tier architecture for form components using React Hook Form. - Added a module boundary protection skill to enforce module public APIs and avoid deep imports. - Updated minimal UI design skill to include modal consistency guidelines. - Enhanced module creation guidelines with references to the new skills. - Improved documentation links for better navigation and accessibility. - Refactored FieldWrapper component to support required field indication. - Fixed import paths in various components for consistency. 
 
