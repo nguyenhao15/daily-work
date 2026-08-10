@@ -1,5 +1,8 @@
 ### 2026-08-10
 
+- 20:27:20 | mindx
+  → Config Category maintenance 
+
 - 20:07:07 | mindx
   → feat(maintenance): export CategoryCombobox from module index Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com> 
 
