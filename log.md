@@ -1,5 +1,8 @@
 ### 2026-08-12
 
+- 05:42:54 | mindx
+  → feat(proposal): update indexValue generation in ProposalForm and add logging in ProposalFormsInput 
+
 - 05:42:50 | mindx
   → feat(maintenance): implement proposal management components and enhance UI elements 
 
