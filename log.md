@@ -1,5 +1,8 @@
 ### 2026-08-12
 
+- 21:18:29 | mindx
+  → feat: Config Full api Technical solutions 
+
 - 05:42:54 | mindx
   → feat(proposal): update indexValue generation in ProposalForm and add logging in ProposalFormsInput 
 
