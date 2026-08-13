@@ -1,5 +1,8 @@
 ### 2026-08-13
 
+- 20:18:23 | mindx
+  → Decouple form inputs from React Hook Form logic Refactor the form architecture to ensure shared input components are independent of specific form libraries. By removing React Hook Form dependencies from the core input wrappers, components become more reusable and easier to test. Integration logic, such as controllers and validation schemas, is moved to the form level within feature modules. This maintains a strict separation between UI presentation and state management, following a refined three-tier architectural pattern. 
+
 - 06:02:27 | mindx
   → Fix bugs 
 
