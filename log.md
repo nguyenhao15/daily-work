@@ -1,5 +1,8 @@
 ### 2026-08-14
 
+- 22:07:05 | mindx
+  → feat: Refactor change type handling and implement ConfirmPopUp component 
+
 - 20:49:48 | mindx
   → feat: Update form architecture guidelines and add ChangeTypeEnum for maintenance management 
 
