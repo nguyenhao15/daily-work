@@ -1,5 +1,8 @@
 ### 2026-08-14
 
+- 20:49:48 | mindx
+  → feat: Update form architecture guidelines and add ChangeTypeEnum for maintenance management 
+
 - 05:43:52 | mindx
   → feat: Add HR module with staff profile actions, hooks, and user list component 
 
