@@ -1,5 +1,8 @@
 ### 2026-08-15
 
+- 19:54:38 | PersonalTracking
+  → Enhance WalletsScreen functionality with separate handlers for adding and editing wallets; update DatePickerComponent to streamline date handling; add new wallet type to WalletTypeMapping; log date in AddHabitLogModal for debugging; include .DS_Store in .github directory. 
+
 - 19:12:21 | TutorialVideo
   → Real completed course 
 
