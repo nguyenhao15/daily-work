@@ -1,5 +1,8 @@
 ### 2026-08-15
 
+- 23:01:15 | mindx
+  → Init native wind to project 
+
 - 22:13:40 | mindx
   → Init mobile platform project 
 
