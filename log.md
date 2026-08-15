@@ -1,5 +1,8 @@
 ### 2026-08-15
 
+- 13:19:06 | mindx
+  → feat: Update AttachmentsGallery and MediaCard for improved UI and functionality; enhance CompletedForm and maintenance schemas with processing state 
+
 - 12:18:01 | mindx
   → Refactor attachment components and forms for improved functionality and UI consistency - Updated AttachmentCards to accept a single attachment and removed unnecessary props. - Enhanced AttachmentsGallery modal title and styling. - Modified MediaCard to handle video files and display attachments correctly. - Adjusted AssignForm to streamline data handling and improve UI text. - Introduced CompletedForm and FinishForm for better maintenance workflow. - Updated RejectTicket to enhance message styling. - Improved MaintenanceInfoComponent to display status more effectively. - Enhanced UpdateTicketInput to show success toast on update. - Updated ticketTransitionConfig to integrate new forms. - Modified maintenanceSchema to include attachments and description fields. - Enhanced AttachmentField to validate file types and show error messages. - Updated various form components to improve styling and accessibility. - Refined textarea and status components for better UI consistency. 
 
