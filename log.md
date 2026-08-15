@@ -1,5 +1,8 @@
 ### 2026-08-15
 
+- 22:13:40 | mindx
+  → Init mobile platform project 
+
 - 20:10:00 | PersonalTracking
   → add new package 
 
