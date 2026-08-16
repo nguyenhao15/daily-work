@@ -1,5 +1,8 @@
 ### 2026-08-16
 
+- 21:09:30 | mindx
+  → Debug refresh token 
+
 - 18:57:37 | mindx
   → feat: add loading spinner, empty state, and API error state components; update styling utility and integrate clsx and tailwind-merge 
 
