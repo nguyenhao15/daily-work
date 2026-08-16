@@ -1,5 +1,8 @@
 ### 2026-08-16
 
+- 18:57:37 | mindx
+  → feat: add loading spinner, empty state, and API error state components; update styling utility and integrate clsx and tailwind-merge 
+
 - 18:42:42 | mindx
   → chore: update package.json to include eslint and eslint-config-expo refactor: simplify import path for APP_CONFIG in LoginScreen.tsx feat: export APP_CONFIG from shared index for better modularity 
 
