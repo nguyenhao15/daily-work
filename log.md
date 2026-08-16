@@ -1,5 +1,8 @@
 ### 2026-08-16
 
+- 21:33:51 | mindx
+  → feat: enhance authentication flow with logout functionality, loading spinner, and error handling in login screen 
+
 - 21:09:30 | mindx
   → Debug refresh token 
 
