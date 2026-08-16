@@ -1,5 +1,8 @@
 ### 2026-08-16
 
+- 11:53:56 | mindx
+  → feat: update app icon, enhance authentication flow, and improve UI components 
+
 - 10:53:11 | mindx
   → Config some global variance 
 
