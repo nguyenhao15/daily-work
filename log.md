@@ -1,5 +1,8 @@
 ### 2026-08-16
 
+- 18:42:42 | mindx
+  → chore: update package.json to include eslint and eslint-config-expo refactor: simplify import path for APP_CONFIG in LoginScreen.tsx feat: export APP_CONFIG from shared index for better modularity 
+
 - 18:31:34 | mindx
   → feat: enhance authentication flow with refresh token support, add device ID handling, and improve UI components 
 
