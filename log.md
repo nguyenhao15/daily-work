@@ -1,5 +1,8 @@
 ### 2026-08-16
 
+- 18:31:34 | mindx
+  → feat: enhance authentication flow with refresh token support, add device ID handling, and improve UI components 
+
 - 11:53:56 | mindx
   → feat: update app icon, enhance authentication flow, and improve UI components 
 
