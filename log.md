@@ -1,5 +1,8 @@
 ### 2026-08-16
 
+- 10:53:11 | mindx
+  → Config some global variance 
+
 - 09:51:46 | mindx
   → feat: update dependencies and add axios client - Added new dependencies: @hookform/resolvers, @tanstack/react-query, axios, expo-secure-store, lucide-react-native, react-hook-form, react-native-keyboard-aware-scroll-view, react-native-mmkv, and zod. - Created a new axios client file for API interactions. - Updated favicon link in index.html to use %APP_LOGO_WITH_BACKGROUND% instead of %VITE_APP_LOGO_URL%. 
 
