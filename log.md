@@ -1,3 +1,10 @@
+### 2026-08-17
+
+- 19:53:38 | mindx
+  → refactor: clean up CustomUserDetails and Session classes; add @Indexed annotation to staffId and format application.properties 
+
+---
+
 ### 2026-08-16
 
 - 21:33:51 | mindx
