@@ -1,5 +1,8 @@
 ### 2026-08-17
 
+- 21:45:20 | mindx
+  → Fix RateLimit case sensitivity and pom.xml 
+
 - 21:12:05 | mindx
   → Fix Lombok and MapStruct configuration for Docker build 
 
