@@ -1,3 +1,10 @@
+### 2026-08-18
+
+- 05:43:53 | mindx
+  → Fix bug bu options control 
+
+---
+
 ### 2026-08-17
 
 - 22:15:16 | mindx
