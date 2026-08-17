@@ -1,5 +1,8 @@
 ### 2026-08-17
 
+- 22:15:16 | mindx
+  → Add CICD action 
+
 - 21:45:20 | mindx
   → Fix RateLimit case sensitivity and pom.xml 
 
