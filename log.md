@@ -1,5 +1,8 @@
 ### 2026-08-17
 
+- 21:12:05 | mindx
+  → Fix Lombok and MapStruct configuration for Docker build 
+
 - 19:53:38 | mindx
   → refactor: clean up CustomUserDetails and Session classes; add @Indexed annotation to staffId and format application.properties 
 
