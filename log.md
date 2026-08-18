@@ -1,5 +1,8 @@
 ### 2026-08-18
 
+- 19:55:42 | PersonalTracking
+  → feat: implement transaction update modal and add error handling for wallet data fetching 
+
 - 19:12:48 | Nguyenhao15
   → vault backup: 2026-08-18 19:12:48 
 
