@@ -1,5 +1,8 @@
 ### 2026-08-18
 
+- 20:51:29 | mindx
+  → Refactor CSRF configuration in SecurityConfig to streamline token repository setup 
+
 - 20:33:29 | mindx
   → Fix new container 
 
