@@ -1,5 +1,8 @@
 ### 2026-08-20
 
+- 21:56:24 | mindx
+  → feat: implement tab navigation with home, notifications, and profile screens 
+
 - 21:15:18 | Nguyenhao15
   → vault backup: 2026-08-20 21:15:18 
 
