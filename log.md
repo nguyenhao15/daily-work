@@ -1,5 +1,8 @@
 ### 2026-08-20
 
+- 20:48:00 | TutorialVideo
+  → Initialize project 
+
 - 19:50:25 | Nguyenhao15
   → vault backup: 2026-08-20 19:50:25 
 
