@@ -1,5 +1,8 @@
 ### 2026-08-21
 
+- 19:14:42 | mindx
+  → feat: add react-native-collapsible dependency for improved UI components 
+
 - 17:51:37 | mindx
   → feat: implement basement management actions, API integration, and hooks for data handling 
 
