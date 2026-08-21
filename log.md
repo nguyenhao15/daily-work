@@ -1,5 +1,8 @@
 ### 2026-08-21
 
+- 19:14:47 | mindx
+  → feat: add InlineSelect component for multi-select functionality and integrate into CreateMaintenanceScreen 
+
 - 19:14:42 | mindx
   → feat: add react-native-collapsible dependency for improved UI components 
 
