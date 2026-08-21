@@ -1,5 +1,8 @@
 ### 2026-08-21
 
+- 17:51:37 | mindx
+  → feat: implement basement management actions, API integration, and hooks for data handling 
+
 - 05:58:37 | mindx
   → feat: add maintenance module with overview, create, and detail screens 
 
