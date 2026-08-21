@@ -1,5 +1,8 @@
 ### 2026-08-21
 
+- 19:22:17 | mindx
+  → feat: add @gorhom/bottom-sheet dependency and update CreateMaintenanceScreen layout 
+
 - 19:14:47 | mindx
   → feat: add InlineSelect component for multi-select functionality and integrate into CreateMaintenanceScreen 
 
