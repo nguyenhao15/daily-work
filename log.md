@@ -1,5 +1,8 @@
 ### 2026-08-22
 
+- 10:36:07 | mindx
+  → feat: add NumberInput and TextInput components; integrate currency input and enhance form elements for better user experience 
+
 - 10:08:11 | mindx
   → feat: add ComboboxInput and DatePickerInput components; implement DropdownInput and CustomButton; enhance form elements with new date and selection controls 
 
