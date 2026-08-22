@@ -1,5 +1,8 @@
 ### 2026-08-22
 
+- 09:33:47 | mindx
+  → feat: update dependencies and implement BottomSheetSelect and InlineSelect components; integrate with forms for enhanced user interaction 
+
 - 08:38:20 | mindx
   → feat: implement BottomSheetSelect component and integrate into FormElements; update layouts for improved UI 
 
