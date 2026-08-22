@@ -1,5 +1,8 @@
 ### 2026-08-22
 
+- 16:44:20 | mindx
+  → feat: enhance Index and UserProfile components; add images and improve layout; update HeaderComponents and ModuleComponents for better user experience 
+
 - 15:43:35 | mindx
   → feat: enhance user profile display; integrate ModuleComponents and improve layout in Index and TabsLayout 
 
