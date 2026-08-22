@@ -1,5 +1,8 @@
 ### 2026-08-22
 
+- 10:08:11 | mindx
+  → feat: add ComboboxInput and DatePickerInput components; implement DropdownInput and CustomButton; enhance form elements with new date and selection controls 
+
 - 09:33:47 | mindx
   → feat: update dependencies and implement BottomSheetSelect and InlineSelect components; integrate with forms for enhanced user interaction 
 
