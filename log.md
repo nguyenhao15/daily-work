@@ -1,5 +1,8 @@
 ### 2026-08-22
 
+- 11:38:58 | mindx
+  → feat: add AttachmentInput and AttachmentControl components; integrate document picker for file uploads in forms 
+
 - 11:29:10 | mindx
   → feat: enhance form components with new inputs; add RadioGroupControl, SwitchInputComponent, and update FormElements layout 
 
