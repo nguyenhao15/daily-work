@@ -1,5 +1,8 @@
 ### 2026-08-22
 
+- 14:39:52 | mindx
+  → feat: refactor Index component; extract HeaderComponents for better structure and remove unused log out functionality 
+
 - 14:26:15 | mindx
   → feat: implement MaintenanceOptions component and integrate into FormElements; add hooks for category options and proposal management 
 
