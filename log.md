@@ -1,3 +1,10 @@
+### 2026-08-23
+
+- 00:07:28 | LocalFirstApp
+  → feat: add UserProfile and BalanceCard components, integrate Be Vietnam Pro font, and define color variables in global CSS 
+
+---
+
 ### 2026-08-22
 
 - 23:43:37 | LocalFirstApp
