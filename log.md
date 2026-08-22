@@ -1,5 +1,8 @@
 ### 2026-08-22
 
+- 12:14:08 | mindx
+  → feat: add BasementOptionControl component; integrate into FormElements for improved user selection 
+
 - 11:38:58 | mindx
   → feat: add AttachmentInput and AttachmentControl components; integrate document picker for file uploads in forms 
 
