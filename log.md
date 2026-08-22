@@ -1,3 +1,10 @@
+### 2026-08-22
+
+- 08:38:20 | mindx
+  → feat: implement BottomSheetSelect component and integrate into FormElements; update layouts for improved UI 
+
+---
+
 ### 2026-08-21
 
 - 19:22:17 | mindx
