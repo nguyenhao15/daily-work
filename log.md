@@ -1,5 +1,8 @@
 ### 2026-08-23
 
+- 09:43:02 | mindx
+  → feat: update maintenance components; rename tab title for clarity, add CategoryChildItem for maintenance item selection, and enhance MaintenanceOptions with visibleIndex 
+
 - 09:32:36 | PersonalTracking
   → Debug test folder 
 
