@@ -1,5 +1,8 @@
 ### 2026-08-23
 
+- 09:32:36 | PersonalTracking
+  → Debug test folder 
+
 - 09:24:18 | mindx
   → feat: update various components for improved functionality and layout; enhance user experience with better data handling and styling adjustments 
 
