@@ -1,5 +1,8 @@
 ### 2026-08-23
 
+- 09:01:07 | LocalFirstApp
+  → feat: update package dependencies and enhance BalanceCard component with new UI elements 
+
 - 00:07:28 | LocalFirstApp
   → feat: add UserProfile and BalanceCard components, integrate Be Vietnam Pro font, and define color variables in global CSS 
 
