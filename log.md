@@ -1,5 +1,8 @@
 ### 2026-08-23
 
+- 16:18:32 | mindx
+  → feat: add maintenance screens and layout; implement DetailMaintenance, MaintenanceLayout, CalendarView, and Create components for improved navigation and functionality 
+
 - 15:40:34 | TutorialVideo
   → Add CartButton component and update index screen layout - Introduced CartButton component to display cart items. - Enhanced index screen with FlatList for offers and improved layout. - Added utility classes in global CSS for consistent styling. - Included clsx for conditional class names management. 
 
