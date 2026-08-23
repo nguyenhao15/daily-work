@@ -1,5 +1,8 @@
 ### 2026-08-23
 
+- 15:40:34 | TutorialVideo
+  → Add CartButton component and update index screen layout - Introduced CartButton component to display cart items. - Enhanced index screen with FlatList for offers and improved layout. - Added utility classes in global CSS for consistent styling. - Included clsx for conditional class names management. 
+
 - 10:15:35 | mindx
   → feat: enhance layout and form handling; improve animation options in InitialLayout and refactor CategoryChildItem to remove console log 
 
