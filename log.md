@@ -1,3 +1,10 @@
+### 2026-08-24
+
+- 21:17:25 | mindx
+  → feat: refactor routing and layout components; enhance structure by organizing routes and adding Admin and Auth layouts 
+
+---
+
 ### 2026-08-23
 
 - 22:19:54 | Nguyenhao15
