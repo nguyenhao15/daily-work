@@ -1,5 +1,8 @@
 ### 2026-08-24
 
+- 22:40:23 | mindx
+  → feat: update token handling in response interceptor; streamline access and refresh token extraction from response data 
+
 - 22:29:19 | mindx
   → feat: implement refresh token functionality; add RefreshTokenResponse class and update related services for improved token management 
 
