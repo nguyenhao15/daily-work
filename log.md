@@ -1,5 +1,8 @@
 ### 2026-08-24
 
+- 21:49:15 | mindx
+  → feat: restructure shared components and improve import paths; add AppHeader, AppLogo, MainLayout, MetricCard, and QuickAccessCard components for enhanced UI and navigation 
+
 - 21:17:25 | mindx
   → feat: refactor routing and layout components; enhance structure by organizing routes and adding Admin and Auth layouts 
 
