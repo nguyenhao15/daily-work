@@ -1,5 +1,8 @@
 ### 2026-08-24
 
+- 22:59:04 | mindx
+  → Config new way to demo SecurityConfig 
+
 - 22:40:23 | mindx
   → feat: update token handling in response interceptor; streamline access and refresh token extraction from response data 
 
