@@ -1,5 +1,8 @@
 ### 2026-08-24
 
+- 22:29:19 | mindx
+  → feat: implement refresh token functionality; add RefreshTokenResponse class and update related services for improved token management 
+
 - 21:49:15 | mindx
   → feat: restructure shared components and improve import paths; add AppHeader, AppLogo, MainLayout, MetricCard, and QuickAccessCard components for enhanced UI and navigation 
 
