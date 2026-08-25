@@ -1,5 +1,8 @@
 ### 2026-08-25
 
+- 21:17:13 | mindx
+  → feat: implement user and approval policy management; add actions, hooks, and UI components for user and workflow management 
+
 - 05:56:10 | mindx
   → feat: add admin management modules and improve UI components; implement tabs for navigation and create new views for maintenance, registration approval, and user management 
 
