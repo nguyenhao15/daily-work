@@ -1,3 +1,10 @@
+### 2026-08-26
+
+- 06:14:28 | mindx
+  → feat: add workflow approval components and pages; implement WorkflowAction, WorkflowList, and WorkflowConfigPage 
+
+---
+
 ### 2026-08-25
 
 - 21:17:13 | mindx
