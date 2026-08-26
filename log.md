@@ -1,5 +1,8 @@
 ### 2026-08-26
 
+- 19:36:49 | mindx
+  → feat: update approval policy entity and repository; modify unique constraints and add workflow action mappings 
+
 - 06:14:28 | mindx
   → feat: add workflow approval components and pages; implement WorkflowAction, WorkflowList, and WorkflowConfigPage 
 
