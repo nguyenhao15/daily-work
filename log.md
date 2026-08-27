@@ -1,3 +1,10 @@
+### 2026-08-28
+
+- 05:07:42 | mindx
+  → feat: add workflow engine entities and repositories; implement WfInstance, WfNodeAssignee, WfTask, WfTransition, WorkflowDefine, and WorkflowNode with corresponding enums and repositories 
+
+---
+
 ### 2026-08-27
 
 - 20:55:55 | mindx
