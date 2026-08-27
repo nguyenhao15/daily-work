@@ -1,5 +1,8 @@
 ### 2026-08-28
 
+- 05:30:35 | mindx
+  → Re config Wf instances 
+
 - 05:26:07 | mindx
   → feat: enforce workflow consistency via composite foreign keys and entity validation hooks 
 
