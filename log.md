@@ -1,3 +1,10 @@
+### 2026-08-27
+
+- 20:55:55 | mindx
+  → feat: implement workflow engine entities and repositories; add enums for node and assignee types 
+
+---
+
 ### 2026-08-26
 
 - 22:26:16 | Nguyenhao15
