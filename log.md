@@ -1,5 +1,8 @@
 ### 2026-08-28
 
+- 05:26:07 | mindx
+  → feat: enforce workflow consistency via composite foreign keys and entity validation hooks 
+
 - 05:07:42 | mindx
   → feat: add workflow engine entities and repositories; implement WfInstance, WfNodeAssignee, WfTask, WfTransition, WorkflowDefine, and WorkflowNode with corresponding enums and repositories 
 
