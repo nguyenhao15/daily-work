@@ -1,5 +1,8 @@
 ### 2026-08-28
 
+- 22:03:45 | mindx
+  → feat: refactor user form components and implement department input handling 
+
 - 05:30:35 | mindx
   → Re config Wf instances 
 
