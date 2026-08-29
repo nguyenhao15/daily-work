@@ -1,3 +1,10 @@
+### 2026-08-29
+
+- 08:33:51 | mindx
+  → feat: update user creation process with new payload structure and validation 
+
+---
+
 ### 2026-08-28
 
 - 22:52:30 | mindx
