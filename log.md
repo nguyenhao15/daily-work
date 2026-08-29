@@ -1,5 +1,8 @@
 ### 2026-08-29
 
+- 09:51:21 | mindx
+  → feat: add DTOs and mappers for workflow engine components 
+
 - 09:34:20 | mindx
   → feat: add DTOs, mappers, and services for workflow engine functionality 
 
