@@ -1,5 +1,8 @@
 ### 2026-08-29
 
+- 10:58:13 | mindx
+  → feat: add guidelines for DTO usage, entity retrieval, exception handling, and service architecture in new markdown files 
+
 - 10:26:58 | mindx
   → feat: implement WfNodeAssigneeService and WfNodeAssigneeServiceImpl for fetching assignees by node ID; add toDtoList methods in mappers 
 
