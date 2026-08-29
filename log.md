@@ -1,5 +1,8 @@
 ### 2026-08-29
 
+- 09:34:20 | mindx
+  → feat: add DTOs, mappers, and services for workflow engine functionality 
+
 - 08:59:47 | mindx
   → feat: simplify JPA relationships by removing unnecessary JoinColumns and adding nullable constraints 
 
