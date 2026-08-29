@@ -1,5 +1,8 @@
 ### 2026-08-29
 
+- 08:59:47 | mindx
+  → feat: simplify JPA relationships by removing unnecessary JoinColumns and adding nullable constraints 
+
 - 08:33:51 | mindx
   → feat: update user creation process with new payload structure and validation 
 
