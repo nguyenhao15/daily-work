@@ -1,5 +1,8 @@
 ### 2026-08-29
 
+- 11:45:11 | mindx
+  → feat: implement WfNodeAssignee and WfTransition controllers, services, and DTOs; add search, create, update, and delete functionalities with pagination support 
+
 - 11:36:35 | mindx
   → feat: implement soft delete functionality across Workflow Engine entities; add API prefix standards and enhance service methods for better entity management 
 
