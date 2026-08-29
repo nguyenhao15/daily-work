@@ -1,5 +1,8 @@
 ### 2026-08-29
 
+- 10:21:31 | mindx
+  → feat: refactor workflow engine components and repositories for improved structure and functionality 
+
 - 09:51:21 | mindx
   → feat: add DTOs and mappers for workflow engine components 
 
