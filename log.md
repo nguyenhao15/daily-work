@@ -1,5 +1,8 @@
 ### 2026-08-29
 
+- 11:12:30 | mindx
+  → feat: implement pagination and filtering standards; add WorkflowDefineController and service methods for searching workflows 
+
 - 10:58:13 | mindx
   → feat: add guidelines for DTO usage, entity retrieval, exception handling, and service architecture in new markdown files 
 
