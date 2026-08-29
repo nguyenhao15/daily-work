@@ -1,5 +1,8 @@
 ### 2026-08-29
 
+- 12:22:51 | mindx
+  → feat: implement WfInstanceController and WfInstanceService; add CRUD operations and search functionality for workflow instances 
+
 - 11:45:11 | mindx
   → feat: implement WfNodeAssignee and WfTransition controllers, services, and DTOs; add search, create, update, and delete functionalities with pagination support 
 
