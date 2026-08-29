@@ -1,5 +1,8 @@
 ### 2026-08-29
 
+- 14:00:01 | mindx
+  → feat: implement WfTaskController and WfTaskService; add task management functionalities including search, submit, and internal save operations 
+
 - 12:22:51 | mindx
   → feat: implement WfInstanceController and WfInstanceService; add CRUD operations and search functionality for workflow instances 
 
