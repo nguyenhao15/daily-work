@@ -1,5 +1,8 @@
 ### 2026-08-29
 
+- 11:36:35 | mindx
+  → feat: implement soft delete functionality across Workflow Engine entities; add API prefix standards and enhance service methods for better entity management 
+
 - 11:12:30 | mindx
   → feat: implement pagination and filtering standards; add WorkflowDefineController and service methods for searching workflows 
 
