@@ -1,5 +1,8 @@
 ### 2026-08-29
 
+- 21:47:41 | mindx
+  → feat: add dynamic actions architecture for Workflow Engine; implement action entities and repositories for flexible UI rendering and behavior configuration 
+
 - 14:00:01 | mindx
   → feat: implement WfTaskController and WfTaskService; add task management functionalities including search, submit, and internal save operations 
 
