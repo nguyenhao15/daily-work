@@ -1,5 +1,8 @@
 ### 2026-08-29
 
+- 10:26:58 | mindx
+  → feat: implement WfNodeAssigneeService and WfNodeAssigneeServiceImpl for fetching assignees by node ID; add toDtoList methods in mappers 
+
 - 10:21:31 | mindx
   → feat: refactor workflow engine components and repositories for improved structure and functionality 
 
