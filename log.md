@@ -1,5 +1,8 @@
 ### 2026-08-30
 
+- 11:57:03 | mindx
+  → feat: implement MaintenanceContextBuilder and integrate workflow context handling; enhance WorkflowEngineService with fresh context data retrieval 
+
 - 11:42:24 | mindx
   → feat: implement workflow completion handling; add event listener and update maintenance status upon workflow completion 
 
