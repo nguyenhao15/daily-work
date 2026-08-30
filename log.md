@@ -1,5 +1,8 @@
 ### 2026-08-30
 
+- 19:06:05 | mindx
+  → feat: add workflow engine module with actions, api, and hooks - Implemented actions for workflow definitions, instances, tasks, node action configurations, and node assignees. - Created corresponding API services for each action to handle CRUD operations. - Developed hooks for data fetching and mutation using React Query for workflow definitions, instances, tasks, node action configurations, and node assignees. - Updated index files to export new actions, APIs, and hooks for easier imports. 
+
 - 15:37:01 | mindx
   → feat: implement workflow engine components; add controllers, services, and DTOs for action definitions, node configurations, and instances; enhance API endpoints and schema definitions 
 
