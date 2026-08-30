@@ -1,3 +1,10 @@
+### 2026-08-30
+
+- 08:54:02 | mindx
+  → feat: add DTOs, mappers, and services for workflow action and node action configurations; implement repository methods for enhanced data management 
+
+---
+
 ### 2026-08-29
 
 - 21:47:41 | mindx
