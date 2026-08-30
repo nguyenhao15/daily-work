@@ -1,5 +1,8 @@
 ### 2026-08-30
 
+- 21:01:27 | mindx
+  → feat: implement workflow management features; add WorkflowPage, WorkflowDefineForm, and WorkFlowDefineList components; enhance AdminPage with StatusConfig integration 
+
 - 19:06:05 | mindx
   → feat: add workflow engine module with actions, api, and hooks - Implemented actions for workflow definitions, instances, tasks, node action configurations, and node assignees. - Created corresponding API services for each action to handle CRUD operations. - Developed hooks for data fetching and mutation using React Query for workflow definitions, instances, tasks, node action configurations, and node assignees. - Updated index files to export new actions, APIs, and hooks for easier imports. 
 
