@@ -1,5 +1,8 @@
 ### 2026-08-30
 
+- 10:34:28 | mindx
+  → feat: enhance workflow action configuration; refactor WfTaskInfoDto to include actions, update service methods for improved data handling and retrieval 
+
 - 08:54:02 | mindx
   → feat: add DTOs, mappers, and services for workflow action and node action configurations; implement repository methods for enhanced data management 
 
