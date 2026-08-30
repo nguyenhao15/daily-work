@@ -1,5 +1,8 @@
 ### 2026-08-30
 
+- 11:42:24 | mindx
+  → feat: implement workflow completion handling; add event listener and update maintenance status upon workflow completion 
+
 - 10:34:28 | mindx
   → feat: enhance workflow action configuration; refactor WfTaskInfoDto to include actions, update service methods for improved data handling and retrieval 
 
