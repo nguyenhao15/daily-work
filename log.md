@@ -1,3 +1,10 @@
+### 2026-08-31
+
+- 20:06:34 | mindx
+  → Re update new application.properties 
+
+---
+
 ### 2026-08-30
 
 - 21:01:27 | mindx
