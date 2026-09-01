@@ -1,5 +1,8 @@
 ### 2026-09-01
 
+- 23:04:55 | mindx
+  → feat: enhance CreateNodeForm and NodeFormElements; update assignee handling and add new workflow builder link 
+
 - 20:03:33 | mindx
   → feat: integrate workflow builder with new forms and modals - Added CreateNodeForm and EdgeConfigModal for node and edge configuration. - Implemented NodeFormElements and EdgeFormElements for form inputs. - Introduced WorkflowBuilder component for visual workflow editing. - Updated ProtectedRoute to use consistent string quotes. - Added new routes for WorkflowBuilderPage in admin routes. - Integrated Zustand store for managing workflow editor state. - Added validation schemas for node and edge creation using Zod. - Updated MainLayout for consistent styling and layout adjustments. - Included @xyflow/react for enhanced workflow visualization. 
 
