@@ -1,5 +1,8 @@
 ### 2026-09-01
 
+- 08:08:23 | PersonalTracking
+  → Update new action 
+
 - 07:58:23 | PersonalTracking
   → Fix the action only run when the demo folder has changes 
 
