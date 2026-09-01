@@ -1,5 +1,8 @@
 ### 2026-09-01
 
+- 23:43:29 | mindx
+  → feat: update form input components to make 'label' optional and enhance layout for better usability 
+
 - 23:04:55 | mindx
   → feat: enhance CreateNodeForm and NodeFormElements; update assignee handling and add new workflow builder link 
 
