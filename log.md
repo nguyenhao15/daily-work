@@ -1,5 +1,8 @@
 ### 2026-09-01
 
+- 08:14:52 | PersonalTracking
+  → Debug test folder 
+
 - 08:08:23 | PersonalTracking
   → Update new action 
 
