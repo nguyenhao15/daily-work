@@ -1,3 +1,10 @@
+### 2026-09-01
+
+- 07:56:37 | PersonalTracking
+  → feat: add EC2 deployment workflow and update project configuration files 
+
+---
+
 ### 2026-08-31
 
 - 23:03:45 | Nguyenhao15
