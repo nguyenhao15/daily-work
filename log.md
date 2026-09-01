@@ -1,5 +1,8 @@
 ### 2026-09-01
 
+- 07:58:23 | PersonalTracking
+  → Fix the action only run when the demo folder has changes 
+
 - 07:56:37 | PersonalTracking
   → feat: add EC2 deployment workflow and update project configuration files 
 
