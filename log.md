@@ -1,5 +1,8 @@
 ### 2026-09-02
 
+- 21:38:13 | mindx
+  → feat: add comprehensive Workflow Builder documentation; outline design process, configuration stages, and validation criteria 
+
 - 21:29:49 | mindx
   → feat: update CreateNodeForm and NodeFormElements to handle edit state; improve WorkflowBuilder UI 
 
