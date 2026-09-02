@@ -1,3 +1,10 @@
+### 2026-09-02
+
+- 08:46:40 | mindx
+  → feat: enhance workflow forms and components; add dynamic assignee option, improve layout, and update validation logic 
+
+---
+
 ### 2026-09-01
 
 - 23:43:29 | mindx
