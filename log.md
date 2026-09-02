@@ -1,5 +1,8 @@
 ### 2026-09-02
 
+- 21:29:49 | mindx
+  → feat: update CreateNodeForm and NodeFormElements to handle edit state; improve WorkflowBuilder UI 
+
 - 08:46:40 | mindx
   → feat: enhance workflow forms and components; add dynamic assignee option, improve layout, and update validation logic 
 
