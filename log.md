@@ -1,5 +1,8 @@
 ### 2026-09-03
 
+- 20:39:57 | PersonalTracking
+  → Add GitHub Actions workflow for building and deploying Docker images to EC2 
+
 - 19:49:25 | Nguyenhao15
   → vault backup: 2026-09-03 19:49:25 
 
