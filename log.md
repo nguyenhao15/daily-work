@@ -1,5 +1,8 @@
 ### 2026-09-03
 
+- 20:53:16 | PersonalTracking
+  → Debug application properties 
+
 - 20:39:57 | PersonalTracking
   → Add GitHub Actions workflow for building and deploying Docker images to EC2 
 
