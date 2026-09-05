@@ -1,5 +1,8 @@
 ### 2026-09-05
 
+- 15:15:16 | mindx
+  → feat: add action configuration feature to node form with dynamic action options 
+
 - 13:32:53 | mindx
   → refactor: update asset indexing and improve workflow transaction management 
 
