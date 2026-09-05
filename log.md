@@ -1,5 +1,8 @@
 ### 2026-09-05
 
+- 17:41:07 | mindx
+  → feat: enhance EdgeFormElements to utilize dynamic action configurations for dropdown options 
+
 - 17:30:17 | mindx
   → feat: add dagre for layout management and refactor workflow canvas structure 
 
