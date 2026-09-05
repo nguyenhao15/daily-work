@@ -1,5 +1,8 @@
 ### 2026-09-05
 
+- 16:36:46 | mindx
+  → feat: implement action configuration management in workflow node forms 
+
 - 15:15:16 | mindx
   → feat: add action configuration feature to node form with dynamic action options 
 
