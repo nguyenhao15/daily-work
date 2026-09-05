@@ -1,5 +1,8 @@
 ### 2026-09-05
 
+- 17:07:37 | mindx
+  → feat: remove default actions from node form and update node positioning logic 
+
 - 16:36:46 | mindx
   → feat: implement action configuration management in workflow node forms 
 
