@@ -1,5 +1,8 @@
 ### 2026-09-05
 
+- 23:15:32 | LocalFirstApp
+  → feat: refactor database implementation and remove WatermelonDB - Removed WatermelonDB and its related files (models, migrations, schema, sync). - Integrated Drizzle ORM with SQLite for local database management. - Updated package.json to include drizzle-orm and expo-sqlite. - Created new schema for wallets and transactions using Drizzle ORM. - Added new screens for transaction management: DetailTransaction, CreateNewTransaction, and TransactionHome. - Updated app layout to include new habits and transaction screens. - Refactored services to use axios.create for better client management. - Improved error handling in local storage service. 
+
 - 21:55:16 | LocalFirstApp
   → feat: Add QuoteWidget and Readwise integration, implement Traffic Camera features, and enhance Weather module - Introduced QuoteWidget to fetch and display random quotes from Readwise. - Created readwiseService for API interactions with Readwise. - Developed TrafficCamera components including TrafficCameraCard, TrafficCameraModal, and TrafficCameraSection for displaying live traffic camera feeds. - Implemented caching and fetching logic for weather data with useWeather hook and related services. - Added HourlyForecastList and WeatherCard components for displaying weather forecasts. - Enhanced HomeScreen to integrate all new features including user profile, quotes, weather, and traffic cameras. 
 
