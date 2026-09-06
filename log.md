@@ -1,5 +1,8 @@
 ### 2026-09-06
 
+- 20:05:50 | PersonalTracking
+  → Delete old backend 
+
 - 11:52:41 | LocalFirstApp
   → feat(wallet): add CreateNewWalletScreen and WalletFormElements components, integrate wallet creation functionality 
 
