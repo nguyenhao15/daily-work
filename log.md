@@ -1,5 +1,8 @@
 ### 2026-09-06
 
+- 21:03:14 | PersonalTracking
+  → fix: update SSH connection details for EC2 deployment 
+
 - 20:58:44 | PersonalTracking
   → chore: update dependencies and TypeScript configuration - Upgraded @react-native-community/datetimepicker to version 9.1.0. - Updated various Expo packages to version 57.x.x. - Upgraded React and React DOM to version 19.2.3. - Updated React Native to version 0.86.3. - Upgraded react-native-gesture-handler to version 2.32.0. - Updated react-native-reanimated to version 4.5.1. - Updated react-native-safe-area-context to version 5.7.0. - Updated react-native-screens to version 4.26.0. - Upgraded react-native-worklets to version 0.10.1. - Updated TypeScript to version 6.0.3 and eslint-config-expo to version 57.0.2. - Removed baseUrl from tsconfig.json and simplified the exclude array. 
 
