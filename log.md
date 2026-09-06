@@ -1,5 +1,8 @@
 ### 2026-09-06
 
+- 11:52:41 | LocalFirstApp
+  → feat(wallet): add CreateNewWalletScreen and WalletFormElements components, integrate wallet creation functionality 
+
 - 11:13:15 | LocalFirstApp
   → feat(expense): add CreateNewExpenseScreen and ExpenseOverviewScreen components - Implemented CreateNewExpenseScreen for creating new expense transactions. - Added ExpenseOverviewScreen to display user profile and overview of expenses. - Created expenseServices for handling transaction creation and retrieval. - Defined transaction and wallet types using Zod for validation. - Introduced various input components including AmountInputComponent, DatePickerComponent, and SelectOptionModalComponent for better user interaction. - Established a baseColumns helper for consistent database schema definitions. - Updated local database schema to include transactions and wallets with necessary fields. - Enhanced utility functions with UUID generation for unique transaction IDs. 
 
