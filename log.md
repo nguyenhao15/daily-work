@@ -1,5 +1,8 @@
 ### 2026-09-06
 
+- 21:59:03 | PersonalTracking
+  → chore: update TypeScript and ESLint dependencies; refactor axiosClient and shared modules - Updated TypeScript to version 6.0.3 and added typescript-eslint version 8.69.0 in package.json and package-lock.json. - Refactored axiosClient import paths across multiple API files to use the new shared module structure. - Created shared module for axiosClient, queryClient, queryHelpers, and AuthStores to streamline imports. - Updated tailwind.config.js to include new paths for Nativewind classes. - Adjusted tsconfig.json paths to reflect the new directory structure and updated include/exclude patterns. 
+
 - 21:39:52 | PersonalTracking
   → feat: add wallet management hooks and axios client for API interactions - Implemented `useGetWallets`, `useGetWalletBalance`, `useCreateWallet`, and `useUpdateWallet` hooks for wallet management. - Created an `axiosClient` with interceptors for handling authentication and token refresh. - Added a custom query client configuration for React Query. - Developed utility functions for date manipulation and value formatting. - Established validation schemas for various entities including wallets, transactions, loans, and habits. - Introduced Zustand store for managing authentication state and user information. - Enhanced transaction filtering and reporting capabilities with new types and interfaces. 
 
