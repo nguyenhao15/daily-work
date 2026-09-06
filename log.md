@@ -1,5 +1,8 @@
 ### 2026-09-06
 
+- 21:39:52 | PersonalTracking
+  → feat: add wallet management hooks and axios client for API interactions - Implemented `useGetWallets`, `useGetWalletBalance`, `useCreateWallet`, and `useUpdateWallet` hooks for wallet management. - Created an `axiosClient` with interceptors for handling authentication and token refresh. - Added a custom query client configuration for React Query. - Developed utility functions for date manipulation and value formatting. - Established validation schemas for various entities including wallets, transactions, loans, and habits. - Introduced Zustand store for managing authentication state and user information. - Enhanced transaction filtering and reporting capabilities with new types and interfaces. 
+
 - 21:28:27 | PersonalTracking
   → fix: update deployment script to pull latest Docker image and optimize service restart 
 
