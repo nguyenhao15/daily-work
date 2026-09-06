@@ -1,5 +1,8 @@
 ### 2026-09-06
 
+- 21:28:27 | PersonalTracking
+  → fix: update deployment script to pull latest Docker image and optimize service restart 
+
 - 21:25:33 | PersonalTracking
   → Update new workflow configs 
 
