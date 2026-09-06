@@ -1,5 +1,8 @@
 ### 2026-09-06
 
+- 21:25:33 | PersonalTracking
+  → Update new workflow configs 
+
 - 21:03:14 | PersonalTracking
   → fix: update SSH connection details for EC2 deployment 
 
