@@ -1,5 +1,8 @@
 ### 2026-09-07
 
+- 20:07:06 | PersonalTracking
+  → refactor: simplify FieldRow component and enhance props handling 
+
 - 19:53:31 | PersonalTracking
   → Fix Field Row 
 
