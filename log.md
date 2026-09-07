@@ -1,5 +1,8 @@
 ### 2026-09-07
 
+- 20:11:05 | PersonalTracking
+  → Delete the old misstake 
+
 - 20:07:06 | PersonalTracking
   → refactor: simplify FieldRow component and enhance props handling 
 
