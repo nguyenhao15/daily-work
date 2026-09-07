@@ -1,5 +1,8 @@
 ### 2026-09-07
 
+- 19:53:31 | PersonalTracking
+  → Fix Field Row 
+
 - 19:53:02 | PersonalTracking
   → Merge branch 'main' of github.com:nguyenhao15/expensesTracking 
 
