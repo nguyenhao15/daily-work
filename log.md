@@ -1,5 +1,8 @@
 ### 2026-09-07
 
+- 19:53:02 | PersonalTracking
+  → Merge branch 'main' of github.com:nguyenhao15/expensesTracking 
+
 - 19:50:26 | PersonalTracking
   → Fix the contaier 
 
