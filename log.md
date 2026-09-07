@@ -1,5 +1,8 @@
 ### 2026-09-07
 
+- 21:40:10 | PersonalTracking
+  → refactor: remove unused components and implement new FieldWrapper and ScreenWrapper - Deleted DatePickerComponent, InputWithModalComponent, SelectOptionModalComponent, SwitchControl, TagSelectComponent, ToggleInputComponent, and ItemCard components. - Introduced FieldWrapper component for better form field management. - Added ScreenWrapper component to handle safe area views with optional tab bar support. - Updated EmptyPage component to have a default message. - Refactored BaseModal and other view components for improved structure and usability. - Implemented localStore utility for AsyncStorage operations. - Created HomeScreen to aggregate various widgets and components. - Updated AuthStores to include refreshToken management. - Added utility function `cn` for conditional class name management. - Removed deprecated transactionSchema and userSchema validations. 
+
 - 20:11:05 | PersonalTracking
   → Delete the old misstake 
 
