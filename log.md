@@ -1,3 +1,10 @@
+### 2026-09-08
+
+- 21:00:44 | PersonalTracking
+  → feat(transaction): enhance transaction creation form with wallet selection and date picker feat(wallets): add WalletOptions component for wallet selection in forms refactor: improve error handling and loading states in WalletBalance component refactor: streamline form components and remove unused files 
+
+---
+
 ### 2026-09-07
 
 - 22:00:23 | Nguyenhao15
