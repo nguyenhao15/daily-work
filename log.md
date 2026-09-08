@@ -1,5 +1,8 @@
 ### 2026-09-09
 
+- 05:22:37 | PersonalTracking
+  → feat(transaction): implement transaction update functionality with new UpdateTransactionForm and TransactionUpdateScreen; enhance transaction list with item selection 
+
 - 04:36:37 | PersonalTracking
   → feat(transaction): enhance CreateNewTransactionForm with currency and description fields; update transaction payload structure 
 
