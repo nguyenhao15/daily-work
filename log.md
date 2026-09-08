@@ -1,5 +1,8 @@
 ### 2026-09-08
 
+- 21:48:48 | PersonalTracking
+  → feat(transaction): add HeroAmountInput component and integrate it into TransactionFormElements 
+
 - 21:32:58 | PersonalTracking
   → feat(category): implement category management with API actions and hooks feat(transaction): integrate category selection in transaction form fix(SelectOptionsForm): make label and error props optional 
 
