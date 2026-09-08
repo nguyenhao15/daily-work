@@ -1,5 +1,8 @@
 ### 2026-09-08
 
+- 21:32:58 | PersonalTracking
+  → feat(category): implement category management with API actions and hooks feat(transaction): integrate category selection in transaction form fix(SelectOptionsForm): make label and error props optional 
+
 - 21:11:24 | PersonalTracking
   → feat(wallets): add placeholder to WalletOptions and enhance FormRowWrapper with isHasValue prop 
 
