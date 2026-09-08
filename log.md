@@ -1,5 +1,8 @@
 ### 2026-09-08
 
+- 22:27:09 | PersonalTracking
+  → feat(transaction): add TagSelectOptions component and integrate it into TransactionFormElements; enhance CategorySelectOptions with excludedFromReport handling 
+
 - 21:48:48 | PersonalTracking
   → feat(transaction): add HeroAmountInput component and integrate it into TransactionFormElements 
 
