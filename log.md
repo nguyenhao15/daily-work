@@ -1,5 +1,8 @@
 ### 2026-09-08
 
+- 21:11:24 | PersonalTracking
+  → feat(wallets): add placeholder to WalletOptions and enhance FormRowWrapper with isHasValue prop 
+
 - 21:00:44 | PersonalTracking
   → feat(transaction): enhance transaction creation form with wallet selection and date picker feat(wallets): add WalletOptions component for wallet selection in forms refactor: improve error handling and loading states in WalletBalance component refactor: streamline form components and remove unused files 
 
