@@ -1,5 +1,8 @@
 ### 2026-09-08
 
+- 22:43:38 | PersonalTracking
+  → feat(transaction): update TransactionFormElements to use 'inCome' field and enhance submission feedback with success toast 
+
 - 22:27:09 | PersonalTracking
   → feat(transaction): add TagSelectOptions component and integrate it into TransactionFormElements; enhance CategorySelectOptions with excludedFromReport handling 
 
