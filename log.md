@@ -1,3 +1,10 @@
+### 2026-09-09
+
+- 04:36:37 | PersonalTracking
+  → feat(transaction): enhance CreateNewTransactionForm with currency and description fields; update transaction payload structure 
+
+---
+
 ### 2026-09-08
 
 - 22:43:38 | PersonalTracking
