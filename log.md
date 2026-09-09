@@ -1,5 +1,8 @@
 ### 2026-09-09
 
+- 20:07:40 | PersonalTracking
+  → feat(category): update imports to use type syntax for CategoryInput and CreateCategoryInput; enhance category-related components feat(transaction): add wallet update logic in transaction creation; improve transaction handling feat(wallet): filter active wallets in WalletOptions component; enhance wallet selection experience feat(input): refactor BottomSheetSelect and HeroAmountInput for improved accessibility and styling; update FormWrapperField for better text visibility 
+
 - 05:33:44 | PersonalTracking
   → feat(transaction): enhance transaction update process by setting category and wallet; improve success feedback in UpdateTransactionForm 
 
