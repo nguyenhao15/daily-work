@@ -1,3 +1,10 @@
+### 2026-09-10
+
+- 05:23:50 | PersonalTracking
+  → feat(transaction): enhance transaction hooks to support signal for cancellation and improve query invalidation 
+
+---
+
 ### 2026-09-09
 
 - 22:49:22 | PersonalTracking
