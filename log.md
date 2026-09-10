@@ -1,5 +1,8 @@
 ### 2026-09-10
 
+- 21:25:44 | PersonalTracking
+  → feat(debt): enhance debt transaction management with new forms, screens, and hooks 
+
 - 05:23:50 | PersonalTracking
   → feat(transaction): enhance transaction hooks to support signal for cancellation and improve query invalidation 
 
