@@ -1,5 +1,8 @@
 ### 2026-09-10
 
+- 22:43:12 | PersonalTracking
+  → fix(debt): Simplify error handling in debt operations 
+
 - 22:34:47 | PersonalTracking
   → feat(debt): Enhance debt management screens and components - Implement DebtDetailScreen and DebtDetailComponent for detailed debt views. - Create DebtItemCard for displaying individual debt items in a list. - Add utility functions for debt type and status configurations. - Refactor hooks to include fetching debt details by ID. - Update DebtHomeScreen to utilize DebtItemCard and improve UI with action buttons. - Ensure all components adhere to shared component guidelines. - Introduce type safety improvements in loan schema for walletEntity. - Enforce strict import/export rules across modules to prevent circular dependencies. 
 
