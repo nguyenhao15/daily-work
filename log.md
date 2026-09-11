@@ -1,5 +1,8 @@
 ### 2026-09-11
 
+- 21:50:33 | PersonalTracking
+  → feat(wallet): Add update wallet functionality with new screen and form components 
+
 - 21:22:52 | PersonalTracking
   → feat(wallet): Implement CreateWallet feature with form and screen components 
 
