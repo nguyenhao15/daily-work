@@ -1,3 +1,10 @@
+### 2026-09-12
+
+- 06:20:48 | PersonalTracking
+  → feat(habit): implement swipeable habit checkbox card design - Added a new design specification for a swipeable habit checkbox card, detailing interactions, architecture, and component specifications. - Introduced `HabitCheckboxCard`, `HabitCardBackground`, and utility functions for swipe gestures. - Created `HabitHomeScreen` to integrate user profile display. - Established type schemas for habit logs and habits, ensuring type safety with Zod. - Removed outdated API flow and component action utility rules to streamline architecture. - Updated import/export rules to prevent circular dependencies and maintain clean module boundaries. - Enhanced UI components with consistent styling and layout adjustments. 
+
+---
+
 ### 2026-09-11
 
 - 21:54:59 | PersonalTracking
