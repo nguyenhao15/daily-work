@@ -1,5 +1,8 @@
 ### 2026-09-11
 
+- 21:54:59 | PersonalTracking
+  → feat(habit): Implement habit management actions, hooks, and schemas 
+
 - 21:50:33 | PersonalTracking
   → feat(wallet): Add update wallet functionality with new screen and form components 
 
