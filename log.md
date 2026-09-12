@@ -1,5 +1,8 @@
 ### 2026-09-12
 
+- 09:41:16 | PersonalTracking
+  → refactor(habit): update component styles and remove unnecessary imports 
+
 - 07:55:44 | PersonalTracking
   → Fix bug habitlog 
 
