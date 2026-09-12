@@ -1,5 +1,8 @@
 ### 2026-09-12
 
+- 21:45:05 | mindx
+  → feat: add department and position management components and integrate with admin page 
+
 - 19:15:02 | mindx
   → feat: enhance workflow engine with new action configuration fields and update service methods 
 
