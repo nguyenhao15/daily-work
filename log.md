@@ -1,5 +1,8 @@
 ### 2026-09-12
 
+- 07:38:02 | PersonalTracking
+  → feat: Refactor habit management screens and forms - Implement HabitLogHistoryCard for displaying habit log history. - Create HabitManageListView for managing habits with toggle functionality. - Introduce HabitForm for creating and editing habits with validation. - Add HabitFormElements for structured habit input fields. - Develop HabitFrequencySection for selecting habit frequency. - Enhance HabitLogFormElements for logging habits with various input types. - Create HabitNumberConfigSection for setting numeric targets. - Update HabitHomeScreen and HabitDetailScreen to use new view components. - Implement utility functions for habit details and confirmation dialogs. - Refactor HabitCreateScreen and HabitEditScreen to utilize new components. 
+
 - 07:14:09 | PersonalTracking
   → Refactor habit log management: split hooks into queries and mutations, add new screens for habit creation, editing, and details - Moved habit log queries and mutations to separate files for better organization. - Implemented new screens: HabitCreateScreen, HabitEditScreen, HabitDetailScreen, and HabitManageListScreen. - Enhanced HabitHomeScreen to support habit logging and progress tracking. - Added utility functions for habit and habit log management. - Updated shared components and utilities for improved functionality and formatting. 
 
