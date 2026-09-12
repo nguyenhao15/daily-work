@@ -1,5 +1,8 @@
 ### 2026-09-12
 
+- 07:14:09 | PersonalTracking
+  → Refactor habit log management: split hooks into queries and mutations, add new screens for habit creation, editing, and details - Moved habit log queries and mutations to separate files for better organization. - Implemented new screens: HabitCreateScreen, HabitEditScreen, HabitDetailScreen, and HabitManageListScreen. - Enhanced HabitHomeScreen to support habit logging and progress tracking. - Added utility functions for habit and habit log management. - Updated shared components and utilities for improved functionality and formatting. 
+
 - 06:20:48 | PersonalTracking
   → feat(habit): implement swipeable habit checkbox card design - Added a new design specification for a swipeable habit checkbox card, detailing interactions, architecture, and component specifications. - Introduced `HabitCheckboxCard`, `HabitCardBackground`, and utility functions for swipe gestures. - Created `HabitHomeScreen` to integrate user profile display. - Established type schemas for habit logs and habits, ensuring type safety with Zod. - Removed outdated API flow and component action utility rules to streamline architecture. - Updated import/export rules to prevent circular dependencies and maintain clean module boundaries. - Enhanced UI components with consistent styling and layout adjustments. 
 
