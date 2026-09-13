@@ -1,3 +1,10 @@
+### 2026-09-14
+
+- 05:46:02 | mindx
+  → feat: Enhance Workflow Engine with Batch Processing and Versioning - Added batch save, update, and publish version endpoints in WorkflowDefineController. - Introduced WorkflowBatchService for handling batch operations. - Implemented versioning logic in WorkflowDefineService and WorkflowBatchService. - Updated WorkflowNodeService to support syncing nodes in batch. - Enhanced DTOs for WorkflowDefine, WorkflowNode, WfTransition, WfNodeAssignee, and WfNodeActionConfig to accommodate new fields. - Added repository methods for managing soft deletes and fetching active instances. - Updated frontend API to support new batch and versioning functionalities. 
+
+---
+
 ### 2026-09-13
 
 - 21:49:12 | mindx
