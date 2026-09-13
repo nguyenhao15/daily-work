@@ -1,5 +1,8 @@
 ### 2026-09-13
 
+- 11:54:01 | mindx
+  → feat: add workflow summary modal and KPI bar components - Implemented WorkflowSummaryKpiBar to display validation results and KPI statistics. - Created WorkflowSummaryModal for summarizing and validating workflow before saving. - Integrated validation logic for workflow graphs, including checks for start/end nodes, isolated nodes, and action configurations. - Added utility functions to compile workflow graph data into a payload format for backend submission. - Enhanced the workflow editor store to manage node and edge data, including new properties for condition expressions. - Updated WorkflowBuilderPage to include a button for opening the summary modal. 
+
 - 10:51:35 | mindx
   → feat: refactor position management forms and enhance workflow builder page layout 
 
