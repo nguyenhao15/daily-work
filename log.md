@@ -1,5 +1,8 @@
 ### 2026-09-14
 
+- 22:01:03 | mindx
+  → feat: add WorkflowGraphValidator for workflow validation and enhance batch processing with validation checks 
+
 - 21:49:16 | mindx
   → feat: add workflow status management and enhance publish functionality 
 
