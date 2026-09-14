@@ -1,5 +1,8 @@
 ### 2026-09-14
 
+- 22:19:50 | mindx
+  → feat: enhance workflow management by archiving previous versions and improving transition validation 
+
 - 22:08:12 | mindx
   → feat: implement hop count limit to prevent infinite loops in workflow execution 
 
