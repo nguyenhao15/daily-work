@@ -1,5 +1,8 @@
 ### 2026-09-14
 
+- 22:08:12 | mindx
+  → feat: implement hop count limit to prevent infinite loops in workflow execution 
+
 - 22:01:03 | mindx
   → feat: add WorkflowGraphValidator for workflow validation and enhance batch processing with validation checks 
 
