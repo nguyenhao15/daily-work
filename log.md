@@ -1,5 +1,8 @@
 ### 2026-09-14
 
+- 19:53:08 | mindx
+  → feat: restructure workflow engine forms and components for improved organization and functionality 
+
 - 19:41:56 | mindx
   → feat: remove batch processing functionality from Workflow Engine 
 
