@@ -1,5 +1,8 @@
 ### 2026-09-14
 
+- 21:06:03 | mindx
+  → feat: add workflow graph retrieval and enhance batch processing capabilities 
+
 - 19:53:08 | mindx
   → feat: restructure workflow engine forms and components for improved organization and functionality 
 
