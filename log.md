@@ -1,5 +1,8 @@
 ### 2026-09-14
 
+- 21:49:16 | mindx
+  → feat: add workflow status management and enhance publish functionality 
+
 - 21:06:03 | mindx
   → feat: add workflow graph retrieval and enhance batch processing capabilities 
 
