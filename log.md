@@ -1,3 +1,10 @@
+### 2026-09-16
+
+- 22:44:51 | mindx
+  → feat: add WfTaskSubmitHandler interface for task submission handling 
+
+---
+
 ### 2026-09-15
 
 - 21:22:23 | PersonalTracking
