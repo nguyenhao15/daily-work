@@ -1,5 +1,8 @@
 ### 2026-09-19
 
+- 15:47:46 | mindx
+  → feat: Enhance Maintenance Workflow Integration - Removed updateHistory from MaintenanceDetailResponse. - Introduced MaintenanceCreatedEvent to handle maintenance creation events. - Refactored MaintenanceContextBuilder to build context directly from MaintenanceEntity. - Updated MaintenanceServiceEventListener to handle entity creation and deletion events. - Modified MaintenanceServiceImpl to publish MaintenanceCreatedEvent and handle soft deletes. - Added WfEntityCreatedEvent and WfEntityDeletedEvent for workflow task management. - Implemented methods in WfInstanceService and WfTaskService for better task and instance management. - Enhanced WorkflowEngineService to support workflow cancellation and retrieval of ticket workflow info. - Updated repositories to support new query methods for workflow instances and tasks. 
+
 - 11:27:07 | mindx
   → feat: enhance maintenance component with error handling and improved state management 
 
