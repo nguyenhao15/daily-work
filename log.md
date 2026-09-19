@@ -1,5 +1,8 @@
 ### 2026-09-19
 
+- 20:57:31 | mindx
+  → Refactor Workflow Engine Services and Frontend Actions - Updated WorkflowBatchServiceImpl to streamline transition creation and workflow graph retrieval. - Enhanced WorkflowDefineServiceImpl to include workflow ID in version creation. - Modified WorkflowNodeServiceImpl to handle updates for existing nodes and improve entity management. - Improved WorkflowTransitionServiceImpl to manage transitions more effectively, including soft deletes for existing transitions. - Refactored frontend actions for workflow definitions, node action configurations, and node assignees to use updated DTOs and schemas. - Adjusted form components to align with new action and node properties, ensuring consistent naming conventions. - Updated Zod schemas to reflect changes in entity structures and validation requirements. - Enhanced utility functions for compiling and hydrating workflow data to ensure compatibility with new data structures. 
+
 - 17:20:11 | mindx
   → feat: enhance workflow actions and update maintenance detail page with available actions gallery 
 
