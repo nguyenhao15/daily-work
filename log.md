@@ -1,5 +1,8 @@
 ### 2026-09-20
 
+- 09:16:09 | mindx
+  → feat: refactor workflow schemas and enhance validation rules across various entities 
+
 - 08:53:28 | mindx
   → feat: add create draft version endpoint and refactor workflow version handling 
 
