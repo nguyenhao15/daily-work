@@ -1,5 +1,8 @@
 ### 2026-09-20
 
+- 09:20:31 | mindx
+  → feat: add create draft functionality and enhance WorkflowBuilderPage with draft handling 
+
 - 09:16:09 | mindx
   → feat: refactor workflow schemas and enhance validation rules across various entities 
 
