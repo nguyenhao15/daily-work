@@ -1,5 +1,8 @@
 ### 2026-09-20
 
+- 16:16:01 | mindx
+  → feat: enhance workflow management by adding action type handling and improving entity creation logic 
+
 - 09:20:31 | mindx
   → feat: add create draft functionality and enhance WorkflowBuilderPage with draft handling 
 
