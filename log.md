@@ -1,3 +1,10 @@
+### 2026-09-21
+
+- 21:13:44 | mindx
+  → feat: implement WorkflowProcess entity and related DTOs, mappers, and service for workflow management 
+
+---
+
 ### 2026-09-20
 
 - 16:16:01 | mindx
