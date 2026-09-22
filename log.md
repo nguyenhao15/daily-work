@@ -1,5 +1,8 @@
 ### 2026-09-22
 
+- 21:47:00 | mindx
+  → feat: add ProcessAssignConfig entity, DTOs, mappers, and service for process assignment configuration 
+
 - 05:24:27 | mindx
   → Init Process nODE 
 
