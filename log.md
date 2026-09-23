@@ -1,3 +1,10 @@
+### 2026-09-23
+
+- 21:14:51 | mindx
+  → feat: implement DepartmentRouting and ProcessAssignConfig features with DTOs, mappers, and services; update dependencies and configurations 
+
+---
+
 ### 2026-09-22
 
 - 21:47:00 | mindx
