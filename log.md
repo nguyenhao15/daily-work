@@ -1,3 +1,10 @@
+### 2026-09-25
+
+- 04:45:50 | mindx
+  → feat: refactor workflow event DTOs and services; rename packages and update imports for better organization 
+
+---
+
 ### 2026-09-24
 
 - 21:19:01 | mindx
