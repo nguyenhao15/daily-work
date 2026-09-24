@@ -1,5 +1,8 @@
 ### 2026-09-24
 
+- 20:19:00 | PersonalTracking
+  → fix(transaction): improve transaction update logic and handle null values 
+
 - 20:07:33 | mindx
   → feat: add WorkflowProcessInstance entity, DTOs, mapper, service, and repository for workflow process management 
 
