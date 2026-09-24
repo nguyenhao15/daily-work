@@ -1,3 +1,10 @@
+### 2026-09-24
+
+- 20:07:33 | mindx
+  → feat: add WorkflowProcessInstance entity, DTOs, mapper, service, and repository for workflow process management 
+
+---
+
 ### 2026-09-23
 
 - 21:14:51 | mindx
