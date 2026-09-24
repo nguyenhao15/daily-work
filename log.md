@@ -1,5 +1,8 @@
 ### 2026-09-24
 
+- 21:19:01 | mindx
+  → feat: add ProcessTask entity, DTOs, mapper, service, and repository for task management; implement DepartmentRoutingController 
+
 - 20:19:00 | PersonalTracking
   → fix(transaction): improve transaction update logic and handle null values 
 
