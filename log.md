@@ -1,3 +1,10 @@
+### 2026-09-26
+
+- 08:01:13 | mindx
+  → feat: enhance workflow process management; add CriteriaRule to various DTOs and entities, implement new methods in services, and refactor repositories for improved functionality 
+
+---
+
 ### 2026-09-25
 
 - 04:45:50 | mindx
