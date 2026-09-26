@@ -1,5 +1,8 @@
 ### 2026-09-26
 
+- 21:41:23 | mindx
+  → feat: update ProcessAssignConfigInfoDto; remove processNodeId field and clean up AssignTypeEnum; add new routing strategy interfaces and implementations 
+
 - 13:08:34 | mindx
   → feat: Introduce AssignConfigDto and enhance DepartmentRouting with new fields - Added AssignConfigDto to encapsulate assignment configuration details. - Updated DepartmentRoutingInfoDto and DepartmentRoutingRequestDto to include assignType and taskType. - Enhanced DepartmentRoutingRule to store assignType and taskType. - Modified DepartmentRoutingService to retrieve assignment configurations based on department and position. - Implemented CriteriaRuleEvaluator and its implementation for evaluating criteria rules. - Introduced new event classes for workflow orchestration: EventTypeEnum, TaskSubmittingEvent, WfEntityCreatedEvent, WfEntityDeletedEvent, WorkflowCompletedEvent, and WorkflowProcessItemEvent. - Updated WorkflowProcessEngine to handle new workflow logic and context evaluation. - Enhanced repository interfaces to support new query methods for assignment configurations and workflow instances. - Expanded FilterOperator enum to include additional operators for dynamic filtering. - Updated ModuleEnum to include WORKFLOW module. 
 
