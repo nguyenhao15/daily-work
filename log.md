@@ -1,5 +1,8 @@
 ### 2026-09-27
 
+- 17:10:51 | mindx
+  → feat: enhance department routing; add subWorkflow fields to DTOs, implement context builder and event listener for department processes, and refactor event handling 
+
 - 08:45:11 | mindx
   → feat: implement routing strategies for task assignment; add DirectExtract, Internal, and Manual routing strategies, enhance existing classes, and update TaskType enum 
 
