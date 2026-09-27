@@ -1,5 +1,8 @@
 ### 2026-09-27
 
+- 22:34:10 | PersonalTracking
+  → feat(debt): add transactional support to debt operations and enhance date handling in forms 
+
 - 22:11:31 | PersonalTracking
   → feat(debt): update DebtEntity and DebtTransactionEntity to remove cascade option, enhance DebtTransactionService with DebtType, and improve wallet balance updates 
 
