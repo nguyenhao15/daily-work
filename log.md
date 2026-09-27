@@ -1,3 +1,10 @@
+### 2026-09-27
+
+- 08:45:11 | mindx
+  → feat: implement routing strategies for task assignment; add DirectExtract, Internal, and Manual routing strategies, enhance existing classes, and update TaskType enum 
+
+---
+
 ### 2026-09-26
 
 - 21:41:23 | mindx
