@@ -1,5 +1,8 @@
 ### 2026-09-27
 
+- 22:53:08 | PersonalTracking
+  → feat(debt): enhance debt transaction forms with improved data handling and logging 
+
 - 22:34:10 | PersonalTracking
   → feat(debt): add transactional support to debt operations and enhance date handling in forms 
 
