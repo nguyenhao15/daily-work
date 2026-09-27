@@ -1,5 +1,8 @@
 ### 2026-09-27
 
+- 22:11:31 | PersonalTracking
+  → feat(debt): update DebtEntity and DebtTransactionEntity to remove cascade option, enhance DebtTransactionService with DebtType, and improve wallet balance updates 
+
 - 18:46:00 | PersonalTracking
   → fix(debt): update sending payload in CreateDebtForm and format imports in useDebt hook 
 
