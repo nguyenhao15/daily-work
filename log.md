@@ -1,3 +1,10 @@
+### 2026-09-28
+
+- 05:29:31 | mindx
+  → feat: enhance user caching and security; add USER_SECURITY_CACHE configuration, update authorities handling in CustomUserDetails, and implement transactional logout with cache eviction 
+
+---
+
 ### 2026-09-27
 
 - 23:07:29 | mindx
