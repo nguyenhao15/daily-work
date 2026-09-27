@@ -1,5 +1,8 @@
 ### 2026-09-27
 
+- 23:07:29 | mindx
+  → feat: refactor caching mechanism; replace Caffeine with RedisCacheManager, update task handling with AssignTypeEnum, and enhance department service methods 
+
 - 22:57:38 | PersonalTracking
   → feat(debt): add originalAmount to debt transaction payload and improve transaction date formatting 
 
