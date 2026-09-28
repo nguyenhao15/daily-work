@@ -1,5 +1,8 @@
 ### 2026-09-28
 
+- 20:32:20 | mindx
+  → refactor: update ProcessTaskAuthorizationService methods to use ProcessTaskInfoDto and enhance task validation logic 
+
 - 05:29:31 | mindx
   → feat: enhance user caching and security; add USER_SECURITY_CACHE configuration, update authorities handling in CustomUserDetails, and implement transactional logout with cache eviction 
 
