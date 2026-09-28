@@ -1,5 +1,8 @@
 ### 2026-09-28
 
+- 21:42:51 | mindx
+  → feat: enhance task management with new dispatch and submission logic, including event handling for task completion 
+
 - 20:32:20 | mindx
   → refactor: update ProcessTaskAuthorizationService methods to use ProcessTaskInfoDto and enhance task validation logic 
 
