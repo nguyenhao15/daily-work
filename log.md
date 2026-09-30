@@ -1,5 +1,8 @@
 ### 2026-10-01
 
+- 05:21:53 | mindx
+  → feat: refine transition event handling by conditionally setting entity data based on process node type 
+
 - 05:19:06 | mindx
   → feat: enhance workflow transition handling by adding process node ID to task requests and updating transition logic 
 
