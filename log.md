@@ -1,3 +1,10 @@
+### 2026-10-01
+
+- 05:19:06 | mindx
+  → feat: enhance workflow transition handling by adding process node ID to task requests and updating transition logic 
+
+---
+
 ### 2026-09-30
 
 - 22:38:23 | mindx
