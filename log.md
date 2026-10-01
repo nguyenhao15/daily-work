@@ -1,5 +1,8 @@
 ### 2026-10-01
 
+- 21:19:31 | mindx
+  → feat: improve task and workflow handling by refining entity data usage and enhancing method signatures 
+
 - 05:21:53 | mindx
   → feat: refine transition event handling by conditionally setting entity data based on process node type 
 
