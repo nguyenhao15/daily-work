@@ -1,5 +1,8 @@
 ### 2026-10-03
 
+- 09:03:57 | LocalFirstApp
+  → chore: update dependencies and improve code structure - Updated Expo-related packages in package.json to latest versions. - Removed unused imports in Habit component. - Cleaned up CreateNewExpenseScreen by removing console log and unused register function. - Refactored TrafficCamera components to remove unnecessary React import and added cachePolicy to Image components. - Changed traffic camera base URL from HTTP to HTTPS for security. - Replaced inline ListEmptyComponent in SelectOptionModalComponent with a new EmptyComponent for better reusability. - Added EmptyComponent to handle empty states in SelectOptionModalComponent. - Updated wallet schema to include description and isActive fields. 
+
 - 08:34:16 | mindx
   → feat: enhance context data handling by introducing ContextDataDto and updating buildContextJson methods 
 
