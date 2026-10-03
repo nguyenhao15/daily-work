@@ -1,5 +1,8 @@
 ### 2026-10-04
 
+- 06:31:16 | LocalFirstApp
+  → feat: enhance transaction and wallet services with create, update, and soft delete functionalities 
+
 - 05:45:02 | LocalFirstApp
   → feat: implement expense tracking schemas and validation with Zod 
 
