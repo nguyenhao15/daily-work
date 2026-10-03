@@ -1,5 +1,8 @@
 ### 2026-10-03
 
+- 20:52:46 | LocalFirstApp
+  → feat(database): add categories schema, enhance transactions and wallets schemas 
+
 - 13:42:21 | mindx
   → feat: implement UserSecurityDto and UserSecurityCacheService for enhanced user details management 
 
