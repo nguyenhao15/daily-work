@@ -1,3 +1,10 @@
+### 2026-10-03
+
+- 08:34:16 | mindx
+  → feat: enhance context data handling by introducing ContextDataDto and updating buildContextJson methods 
+
+---
+
 ### 2026-10-02
 
 - 05:32:34 | mindx
