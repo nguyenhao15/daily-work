@@ -1,5 +1,8 @@
 ### 2026-10-03
 
+- 10:32:18 | mindx
+  → feat: refactor workflow engine by reorganizing enums and DTOs into WorkflowProcess package, removing unused classes 
+
 - 09:35:26 | mindx
   → feat: implement workflow process controllers with CRUD operations for process, instance, task, and transition management 
 
