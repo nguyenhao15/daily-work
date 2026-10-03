@@ -1,5 +1,8 @@
 ### 2026-10-03
 
+- 13:42:21 | mindx
+  → feat: implement UserSecurityDto and UserSecurityCacheService for enhanced user details management 
+
 - 10:32:18 | mindx
   → feat: refactor workflow engine by reorganizing enums and DTOs into WorkflowProcess package, removing unused classes 
 
