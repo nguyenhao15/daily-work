@@ -1,5 +1,8 @@
 ### 2026-10-03
 
+- 21:32:36 | LocalFirstApp
+  → feat: Initialize mobile and server applications with shared library - Added mobile application structure with components, screens, and utilities. - Implemented ScreenWrapper, EmptyComponent, and FieldRow for UI consistency. - Integrated Axios client for API requests with token management. - Established local storage using AsyncStorage and SecureStore for token management. - Created Supabase client for database interactions. - Set up SQLite database with drizzle-orm for local data management. - Defined schemas for categories, transactions, and wallets in the shared library. - Configured Tailwind CSS for styling in the mobile app. - Established TypeScript configuration for both mobile and server applications. - Created server application to initialize shared contracts and schemas. - Updated package.json for monorepo structure and workspace management. 
+
 - 20:52:46 | LocalFirstApp
   → feat(database): add categories schema, enhance transactions and wallets schemas 
 
