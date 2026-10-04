@@ -1,5 +1,8 @@
 ### 2026-10-04
 
+- 19:08:29 | LocalFirstApp
+  → feat: add wallet form options and bottom sheet modal for date picker component 
+
 - 16:14:37 | LocalFirstApp
   → feat: add chip select form components and update expense form elements 
 
