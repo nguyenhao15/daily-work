@@ -1,5 +1,8 @@
 ### 2026-10-04
 
+- 10:29:23 | LocalFirstApp
+  → feat: implement transaction management screens and components, including wallet creation and transaction listing 
+
 - 09:23:24 | LocalFirstApp
   → feat: implement calculator functionality with custom keypad and quick amount suggestions 
 
