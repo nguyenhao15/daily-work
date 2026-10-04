@@ -1,5 +1,8 @@
 ### 2026-10-04
 
+- 19:34:52 | LocalFirstApp
+  → feat: add headerChildren to BottomSheetSelect and update wallet form components 
+
 - 19:08:29 | LocalFirstApp
   → feat: add wallet form options and bottom sheet modal for date picker component 
 
