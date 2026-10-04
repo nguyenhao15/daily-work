@@ -1,5 +1,8 @@
 ### 2026-10-04
 
+- 16:14:37 | LocalFirstApp
+  → feat: add chip select form components and update expense form elements 
+
 - 15:12:31 | LocalFirstApp
   → refactor: restructure mobile UI components and add formatting utilities 
 
