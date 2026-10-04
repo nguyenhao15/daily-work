@@ -1,5 +1,8 @@
 ### 2026-10-04
 
+- 09:23:24 | LocalFirstApp
+  → feat: implement calculator functionality with custom keypad and quick amount suggestions 
+
 - 06:31:16 | LocalFirstApp
   → feat: enhance transaction and wallet services with create, update, and soft delete functionalities 
 
