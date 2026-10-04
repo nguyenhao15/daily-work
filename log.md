@@ -1,5 +1,8 @@
 ### 2026-10-04
 
+- 21:40:21 | LocalFirstApp
+  → feat(database): add initial database schema and migration setup - Implemented SQL schema for categories, transactions, and wallets in 0000_tidy_namorita.sql. - Created a snapshot file for the database schema in meta/0000_snapshot.json. - Added a journal file for migration tracking in meta/_journal.json. - Configured migrations in migrations.js to utilize the new SQL schema. - Updated metro.config.js to support .sql file imports. - Enhanced _layout.tsx to include migration handling during app startup. - Expanded WalletFormElements and CreateNewWalletScreen to support new wallet properties. - Updated CreateNewExpenseScreen to reset form after submission. - Improved SelectOptionsForm and TextInputComponent for better user experience. - Added eslint rules to enforce strict import boundaries and prevent deep imports. - Included babel-plugin-inline-import as a dev dependency for SQL file imports. - Created drizzle.config.ts for database migration generation. 
+
 - 19:34:52 | LocalFirstApp
   → feat: add headerChildren to BottomSheetSelect and update wallet form components 
 
