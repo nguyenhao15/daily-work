@@ -1,3 +1,10 @@
+### 2026-10-06
+
+- 05:25:19 | LocalFirstApp
+  → Feat: - Update new column icon for category - Add Cateogry Icon component - Enahance error state 
+
+---
+
 ### 2026-10-05
 
 - 22:25:28 | LocalFirstApp
