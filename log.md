@@ -1,3 +1,10 @@
+### 2026-10-05
+
+- 21:24:41 | LocalFirstApp
+  → feat: refactor expense module and add category creation functionality - Remove createWallet screen and related components. - Introduce CategoryFormElements for category creation. - Update CategoryFormOptions to navigate to the new CreateNewCategoryScreen. - Add CreateNewCategoryScreen for handling category creation with form validation. - Enhance categoryServices to include createCategory and updateCategory functions. - Implement updateWalletBalance function in walletService for wallet balance updates. - Introduce categoryIcons and habitIcons constants for icon selection. - Update IconSelector component to support dynamic icon lists. - Modify category schema to include iconName and inCome fields. - Update shared index to export new components and constants. 
+
+---
+
 ### 2026-10-04
 
 - 21:43:50 | LocalFirstApp
