@@ -1,5 +1,8 @@
 ### 2026-10-06
 
+- 21:15:51 | LocalFirstApp
+  → feat(expense): add category management features - Implemented CreateNewCategoryScreen for adding new categories. - Added CategoryList component to display categories in a structured format. - Created category services for handling category creation and retrieval. - Removed unused useTransactions hook and related code. - Updated expense module index to include new category screens and components. - Refactored transaction-related components and services to improve organization. - Introduced transfer management components and services for handling transfers. - Added wallet management features including creation and updating of wallets. 
+
 - 20:49:04 | LocalFirstApp
   → feat(debt): add debt and debt transaction schemas, services, and database migrations 
 
