@@ -1,5 +1,8 @@
 ### 2026-10-06
 
+- 20:49:04 | LocalFirstApp
+  → feat(debt): add debt and debt transaction schemas, services, and database migrations 
+
 - 20:16:08 | LocalFirstApp
   → feat(expense): enhance ExpenseFormElements and related components with income handling and category filtering 
 
