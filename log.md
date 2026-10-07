@@ -1,5 +1,8 @@
 ### 2026-10-07
 
+- 21:26:31 | LocalFirstApp
+  → feat(transaction): add update transaction functionality, including new forms and hooks for transaction management 
+
 - 20:39:30 | LocalFirstApp
   → feat(wallet): implement wallet creation and update functionality, refactor wallet components and services for improved structure 
 
