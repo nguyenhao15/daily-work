@@ -1,5 +1,8 @@
 ### 2026-10-07
 
+- 22:00:42 | LocalFirstApp
+  → feat(wallet): add BalanceCard component and implement wallet balance calculation logic 
+
 - 21:26:31 | LocalFirstApp
   → feat(transaction): add update transaction functionality, including new forms and hooks for transaction management 
 
