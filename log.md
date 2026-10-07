@@ -1,5 +1,8 @@
 ### 2026-10-07
 
+- 19:24:24 | LocalFirstApp
+  → feat(transaction): enhance transaction home screen with wallet filtering and privacy settings, refactor transaction list for improved data handling 
+
 - 19:01:45 | LocalFirstApp
   → feat(transaction): enhance transaction handling with category and wallet references, improve privacy formatting, and refactor components for better structure 
 
