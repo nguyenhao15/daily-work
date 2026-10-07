@@ -1,3 +1,10 @@
+### 2026-10-08
+
+- 05:17:30 | LocalFirstApp
+  → fix(transaction): correct income handling by updating income checks to string comparison 
+
+---
+
 ### 2026-10-07
 
 - 22:00:42 | LocalFirstApp
