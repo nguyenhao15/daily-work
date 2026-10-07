@@ -1,5 +1,8 @@
 ### 2026-10-07
 
+- 19:01:45 | LocalFirstApp
+  → feat(transaction): enhance transaction handling with category and wallet references, improve privacy formatting, and refactor components for better structure 
+
 - 05:25:56 | LocalFirstApp
   → feat(transfer): add transfer date and fee handling, update TransferElementForm and CreateTransferForm components 
 
