@@ -1,5 +1,8 @@
 ### 2026-10-08
 
+- 05:20:13 | LocalFirstApp
+  → feat(category): refactor CategoryList and CategoryNewFormOptions to improve category creation handling and UI structure 
+
 - 05:17:30 | LocalFirstApp
   → fix(transaction): correct income handling by updating income checks to string comparison 
 
