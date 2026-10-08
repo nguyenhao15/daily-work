@@ -1,5 +1,8 @@
 ### 2026-10-08
 
+- 22:02:40 | LocalFirstApp
+  → feat(date-filter): add DateFilter and DurationFilter components for improved date selection 
+
 - 20:20:49 | LocalFirstApp
   → feat(transaction): implement filter functionality for transactions and update related components 
 
