@@ -1,5 +1,8 @@
 ### 2026-10-08
 
+- 20:20:49 | LocalFirstApp
+  → feat(transaction): implement filter functionality for transactions and update related components 
+
 - 05:20:13 | LocalFirstApp
   → feat(category): refactor CategoryList and CategoryNewFormOptions to improve category creation handling and UI structure 
 
