@@ -1,3 +1,10 @@
+### 2026-10-09
+
+- 04:48:36 | LocalFirstApp
+  → feat(date-picker): enhance modal toggle logic and add disabled state to button 
+
+---
+
 ### 2026-10-08
 
 - 22:02:40 | LocalFirstApp
