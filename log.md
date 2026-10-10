@@ -1,5 +1,8 @@
 ### 2026-10-10
 
+- 23:34:10 | LocalFirstApp
+  → feat(debt): implement debt creation and transaction services, enhance debt schema 
+
 - 23:00:39 | LocalFirstApp
   → feat(sync): implement local-first sync engine and state management architecture 
 
