@@ -1,5 +1,8 @@
 ### 2026-10-10
 
+- 11:29:16 | LocalFirstApp
+  → feat(auth): implement authentication context and hooks; add auth store and user schemas 
+
 - 10:21:03 | LocalFirstApp
   → feat(transfer): add delete transfer functionality and enhance transfer forms; refactor related components and hooks 
 
