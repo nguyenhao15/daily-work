@@ -1,5 +1,8 @@
 ### 2026-10-10
 
+- 17:26:54 | LocalFirstApp
+  → feat: add user and category schemas, implement sync service for data pulling - Introduced a new snapshot JSON file (0007_snapshot.json) defining the database schema for users, categories, debts, transactions, and wallets. - Updated the migration journal to include the new migration (0007_crazy_the_hood). - Added a sync service to handle initial data pulling from the server, including transactions, categories, and wallets. - Modified the UserProfile component to trigger data synchronization on press. - Enhanced the categories schema to use integer types for boolean fields. - Added logging for debugging purposes in category hooks and lists. 
+
 - 15:50:22 | LocalFirstApp
   → feat(migrations): add new wallet schema migration and update related files - Created a new SQL migration file `0006_illegal_frog_thor.sql` to introduce a new wallet schema. - Updated the migration journal to include the new migration. - Modified `migrations.js` to import and register the new migration. - Refactored `UserProfile.tsx` to remove unused imports and clean up code. - Updated `transactions.ts` schema to change `excludedFromReports` and `inCome` fields to boolean types. - Adjusted `wallet.ts` schema to set default values for `walletType` and added a new `priority` field. - Enhanced `walletSchema.ts` to include additional wallet types and updated wallet type options for UI. 
 
