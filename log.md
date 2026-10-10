@@ -1,5 +1,8 @@
 ### 2026-10-10
 
+- 12:21:47 | LocalFirstApp
+  → feat(auth): enhance login functionality with user profile upsert and refactor LoginForm 
+
 - 11:55:59 | LocalFirstApp
   → feat(auth): implement login and logout functionality with user schema validation - Added login and logout actions in authAction.ts. - Created authApi for handling API requests related to authentication. - Developed LoginForm component for user login with validation using zod. - Introduced useAuthentication hook for managing login state and errors. - Updated useAuth hook to handle login and logout actions. - Created LoginScreen component to render the login form. - Added user schema and login schema in userSchema.ts for validation. - Updated shared module exports to include new auth schemas. - Added migration for new database entries related to authentication. 
 
