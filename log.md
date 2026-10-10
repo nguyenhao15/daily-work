@@ -1,5 +1,8 @@
 ### 2026-10-10
 
+- 15:50:22 | LocalFirstApp
+  → feat(migrations): add new wallet schema migration and update related files - Created a new SQL migration file `0006_illegal_frog_thor.sql` to introduce a new wallet schema. - Updated the migration journal to include the new migration. - Modified `migrations.js` to import and register the new migration. - Refactored `UserProfile.tsx` to remove unused imports and clean up code. - Updated `transactions.ts` schema to change `excludedFromReports` and `inCome` fields to boolean types. - Adjusted `wallet.ts` schema to set default values for `walletType` and added a new `priority` field. - Enhanced `walletSchema.ts` to include additional wallet types and updated wallet type options for UI. 
+
 - 14:34:56 | LocalFirstApp
   → feat(auth): refactor authentication flow and enhance user profile handling 
 
