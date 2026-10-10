@@ -1,5 +1,8 @@
 ### 2026-10-10
 
+- 23:00:23 | PersonalTracking
+  → feat(sync): implement synchronization features with new SyncController and SyncService, add unsynced data retrieval methods 
+
 - 21:59:53 | LocalFirstApp
   → feat(category): enhance CategoryItemCard and CategoryList rendering logic 
 
