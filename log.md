@@ -1,5 +1,8 @@
 ### 2026-10-10
 
+- 14:34:56 | LocalFirstApp
+  → feat(auth): refactor authentication flow and enhance user profile handling 
+
 - 12:21:47 | LocalFirstApp
   → feat(auth): enhance login functionality with user profile upsert and refactor LoginForm 
 
