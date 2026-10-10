@@ -1,5 +1,8 @@
 ### 2026-10-10
 
+- 21:21:27 | LocalFirstApp
+  → feat: add new migration and update category selection UI - Added migration for "cuddly_old_lace" and updated journal with new entry. - Refactored CategoryNewFormOptions to use BottomSheetModalContainer for improved UI. - Updated CategoryList to utilize BottomSheetSectionList for better performance and layout. - Enhanced BottomSheetSelect styling for better user experience. - Created BottomSheetModalContainer for consistent modal behavior across the app. - Updated syncServices to handle new wallet data during synchronization. 
+
 - 17:26:54 | LocalFirstApp
   → feat: add user and category schemas, implement sync service for data pulling - Introduced a new snapshot JSON file (0007_snapshot.json) defining the database schema for users, categories, debts, transactions, and wallets. - Updated the migration journal to include the new migration (0007_crazy_the_hood). - Added a sync service to handle initial data pulling from the server, including transactions, categories, and wallets. - Modified the UserProfile component to trigger data synchronization on press. - Enhanced the categories schema to use integer types for boolean fields. - Added logging for debugging purposes in category hooks and lists. 
 
