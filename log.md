@@ -1,5 +1,8 @@
 ### 2026-10-10
 
+- 10:21:03 | LocalFirstApp
+  → feat(transfer): add delete transfer functionality and enhance transfer forms; refactor related components and hooks 
+
 - 09:55:48 | LocalFirstApp
   → feat(transfer): implement update transfer functionality with new forms and screens; refactor transfer components and services 
 
