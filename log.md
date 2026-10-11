@@ -1,5 +1,8 @@
 ### 2026-10-11
 
+- 10:08:18 | LocalFirstApp
+  → feat(debt): add DebtTransactionCard and DebtTransactionList components, enhance debt transaction handling 
+
 - 10:01:04 | LocalFirstApp
   → feat(debt): enhance debt management features with detailed views and improved forms 
 
