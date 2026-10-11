@@ -1,5 +1,8 @@
 ### 2026-10-11
 
+- 10:01:04 | LocalFirstApp
+  → feat(debt): enhance debt management features with detailed views and improved forms 
+
 - 08:51:10 | LocalFirstApp
   → feat(debt): implement debt creation and update forms, enhance debt management features 
 
