@@ -1,5 +1,8 @@
 ### 2026-10-11
 
+- 11:26:53 | LocalFirstApp
+  → feat(debt): add create and update debt transaction functionality - Introduced CreateDebtTransaction and UpdateDebtTransaction forms for managing debt transactions. - Implemented CreateDebtTransactionScreen to handle both creation and updating of transactions based on the presence of an ID. - Added DebtOptionsForm for selecting debts and WalletFormOptions for selecting wallets within the transaction forms. - Enhanced debt transaction services to support updating transactions, including wallet balance adjustments. - Updated schemas to include description fields and removed unnecessary fields from base columns. - Refactored DebtTransactionCard and DebtTransactionList components to accommodate new data structures. - Added new hooks for managing debt transactions and fetching debt details. - Updated journal and migrations to include new transaction types. 
+
 - 10:08:18 | LocalFirstApp
   → feat(debt): add DebtTransactionCard and DebtTransactionList components, enhance debt transaction handling 
 
