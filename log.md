@@ -1,5 +1,8 @@
 ### 2026-10-11
 
+- 20:37:16 | PersonalTracking
+  → feat(sync): implement unsynced data retrieval for debts, transactions, and categories with lastSyncTime parameter 
+
 - 19:55:57 | PersonalTracking
   → feat(sync): enhance synchronization process with lastSyncTime parameter and add support for unsynced debts, transfers, and transactions 
 
