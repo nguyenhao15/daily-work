@@ -1,5 +1,8 @@
 ### 2026-10-11
 
+- 19:55:57 | PersonalTracking
+  → feat(sync): enhance synchronization process with lastSyncTime parameter and add support for unsynced debts, transfers, and transactions 
+
 - 15:45:52 | LocalFirstApp
   → feat(debt): enhance debt transaction forms and handling with new features and improvements 
 
