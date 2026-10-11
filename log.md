@@ -1,3 +1,10 @@
+### 2026-10-11
+
+- 07:41:05 | LocalFirstApp
+  → feat(debt): add new debt entry and refactor debt services - Added a new debt entry for "gifted_scorpion" in the journal. - Updated migrations to include the new debt SQL file. - Refactored debt-related hooks to utilize a consolidated debt service. - Enhanced error handling in the create debt hook. - Improved debt transaction service to follow the new service structure. - Updated transaction services to handle income and expense logic more accurately. - Adjusted transaction schema to ensure proper data handling and defaults. 
+
+---
+
 ### 2026-10-10
 
 - 23:34:10 | LocalFirstApp
