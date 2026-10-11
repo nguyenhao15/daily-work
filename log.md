@@ -1,5 +1,8 @@
 ### 2026-10-11
 
+- 21:29:13 | LocalFirstApp
+  → feat(sync): enhance sync service with detailed debt and transaction handling, remove debug logs 
+
 - 20:37:16 | PersonalTracking
   → feat(sync): implement unsynced data retrieval for debts, transactions, and categories with lastSyncTime parameter 
 
