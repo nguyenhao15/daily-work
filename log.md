@@ -1,5 +1,8 @@
 ### 2026-10-11
 
+- 21:30:53 | PersonalTracking
+  → feat(audit): add auditDto to various mappers and entities for enhanced tracking 
+
 - 21:29:13 | LocalFirstApp
   → feat(sync): enhance sync service with detailed debt and transaction handling, remove debug logs 
 
