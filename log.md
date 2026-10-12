@@ -1,5 +1,8 @@
 ### 2026-10-12
 
+- 20:46:27 | LocalFirstApp
+  → feat(env): update .gitignore to include local env files and remove deprecated .env file feat(transfer): enhance transfer service to include ownerId, deletedAt, and userId in transfer details 
+
 - 20:41:01 | PersonalTracking
   → feat(sync): enhance synchronization with new SyncResponseDto and support for habits and habit logs 
 
