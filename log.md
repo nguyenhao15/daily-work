@@ -1,5 +1,8 @@
 ### 2026-10-12
 
+- 22:14:58 | LocalFirstApp
+  → feat(auth): refactor authentication context and hooks; update login form with branding image 
+
 - 21:34:58 | LocalFirstApp
   → feat(database): add habits and habit_logs tables with necessary fields and constraints; update migration and journal files 
 
