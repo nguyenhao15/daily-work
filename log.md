@@ -1,5 +1,8 @@
 ### 2026-10-12
 
+- 21:34:58 | LocalFirstApp
+  → feat(database): add habits and habit_logs tables with necessary fields and constraints; update migration and journal files 
+
 - 21:10:00 | LocalFirstApp
   → feat(habit): add habit and habit log schemas with validation and transformation functions 
 
