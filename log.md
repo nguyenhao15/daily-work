@@ -1,3 +1,10 @@
+### 2026-10-12
+
+- 20:41:01 | PersonalTracking
+  → feat(sync): enhance synchronization with new SyncResponseDto and support for habits and habit logs 
+
+---
+
 ### 2026-10-11
 
 - 22:04:17 | LocalFirstApp
