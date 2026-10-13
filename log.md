@@ -1,5 +1,8 @@
 ### 2026-10-13
 
+- 20:28:05 | PersonalTracking
+  → feat(habit): update habit entity to use Boolean for isActive and adjust related services 
+
 - 19:59:48 | PersonalTracking
   → feat(database): migrate ID fields from Long to UUID across multiple entities and DTOs 
 
