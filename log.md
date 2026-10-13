@@ -1,5 +1,8 @@
 ### 2026-10-13
 
+- 18:16:29 | PersonalTracking
+  → feat(sync): comment out habit and habit log synchronization in SyncServiceImpl 
+
 - 18:04:59 | LocalFirstApp
   → feat(sync): add types for server data models and remove unused interfaces 
 
