@@ -1,5 +1,8 @@
 ### 2026-10-13
 
+- 20:30:30 | LocalFirstApp
+  → feat(sync): refactor sync services and add new types for habit management feat(uuid): replace UUID generation with uuidv7 library refactor(weather): remove debug log from HourlyForecastList component 
+
 - 20:28:05 | PersonalTracking
   → feat(habit): update habit entity to use Boolean for isActive and adjust related services 
 
