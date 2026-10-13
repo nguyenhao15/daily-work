@@ -1,5 +1,8 @@
 ### 2026-10-13
 
+- 21:50:46 | LocalFirstApp
+  → feat(sync): enhance pushData to include categories and wallets in sync 
+
 - 21:06:51 | LocalFirstApp
   → feat(sync): refactor services to use consolidated service methods and enhance push functionality 
 
