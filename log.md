@@ -1,5 +1,8 @@
 ### 2026-10-13
 
+- 22:04:06 | PersonalTracking
+  → feat(sync): comment out unused fields and methods in SyncRequestDto and SyncServiceImpl 
+
 - 21:50:46 | LocalFirstApp
   → feat(sync): enhance pushData to include categories and wallets in sync 
 
