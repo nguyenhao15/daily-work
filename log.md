@@ -1,5 +1,8 @@
 ### 2026-10-13
 
+- 19:59:48 | PersonalTracking
+  → feat(database): migrate ID fields from Long to UUID across multiple entities and DTOs 
+
 - 18:16:29 | PersonalTracking
   → feat(sync): comment out habit and habit log synchronization in SyncServiceImpl 
 
