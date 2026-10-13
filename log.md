@@ -1,3 +1,10 @@
+### 2026-10-13
+
+- 18:04:59 | LocalFirstApp
+  → feat(sync): add types for server data models and remove unused interfaces 
+
+---
+
 ### 2026-10-12
 
 - 22:34:19 | LocalFirstApp
