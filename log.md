@@ -1,3 +1,10 @@
+### 2026-10-14
+
+- 04:56:16 | LocalFirstApp
+  → feat(sync): update sync services to include habits and habit logs, and modify transaction push type 
+
+---
+
 ### 2026-10-13
 
 - 22:04:06 | PersonalTracking
