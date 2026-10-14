@@ -1,3 +1,10 @@
+### 2026-10-15
+
+- 05:34:52 | PersonalTracking
+  → feat(sync): remove habit and habit log limits in SyncServiceImpl and add auditDto to HabitInfoRecord and HabitLogInfoRecord 
+
+---
+
 ### 2026-10-14
 
 - 22:17:42 | LocalFirstApp
