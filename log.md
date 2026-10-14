@@ -1,5 +1,8 @@
 ### 2026-10-14
 
+- 22:17:42 | LocalFirstApp
+  → feat(habit): add CompletedCard component and update HabitList to support ListHeaderComponent 
+
 - 21:40:03 | LocalFirstApp
   → feat(habit): implement habit management components and services, including HabitCheckboxButton, HabitIconBadge, HabitList, and HabitLogCard 
 
