@@ -1,5 +1,8 @@
 ### 2026-10-15
 
+- 21:21:26 | LocalFirstApp
+  → feat: Refactor habit management screens and components - Implemented HabitDetailScreen to display detailed information about a habit. - Updated HabitHomeScreen to utilize HabitLogList for better organization of habit logs. - Added FrenquencyCard component to show habit frequency details. - Enhanced HabitCardInfomation to include habit details and frequency. - Introduced new hooks for fetching habits and habit logs by ID. - Updated habit log service to filter logs by date range. - Added utility functions for habit type and frequency label retrieval. - Removed unused DurationFilter component from shared components. - Improved navigation and data handling across habit-related screens. 
+
 - 20:14:23 | LocalFirstApp
   → feat(habit): enhance habit management with new components and hooks; implement habit overview and list features, improve date handling in queries, and refactor existing components for better UI and functionality 
 
