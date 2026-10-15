@@ -1,5 +1,8 @@
 ### 2026-10-15
 
+- 20:14:23 | LocalFirstApp
+  → feat(habit): enhance habit management with new components and hooks; implement habit overview and list features, improve date handling in queries, and refactor existing components for better UI and functionality 
+
 - 05:34:52 | PersonalTracking
   → feat(sync): remove habit and habit log limits in SyncServiceImpl and add auditDto to HabitInfoRecord and HabitLogInfoRecord 
 
