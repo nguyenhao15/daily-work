@@ -1,5 +1,8 @@
 ### 2026-10-15
 
+- 22:14:07 | PersonalTracking
+  → feat(sync): remove habit and habit log limits in SyncServiceImpl and add auditDto to HabitInfoRecord and HabitLogInfoRecord 
+
 - 21:58:33 | LocalFirstApp
   → feat(chart): add BarChart and CompletedCard components; integrate them into HabitDetailScreen for visual progress representation 
 
