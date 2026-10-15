@@ -1,5 +1,8 @@
 ### 2026-10-15
 
+- 22:33:10 | LocalFirstApp
+  → feat(sync): integrate wallet syncing into syncService and update SyncCard component 
+
 - 22:26:20 | PersonalTracking
   → feat(sync): remove habit and habit log limits in SyncServiceImpl and add auditDto to HabitInfoRecord and HabitLogInfoRecord 
 
