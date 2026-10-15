@@ -1,5 +1,8 @@
 ### 2026-10-16
 
+- 05:26:21 | PersonalTracking
+  → debug: Fix the way to create new habit log 
+
 - 05:24:49 | LocalFirstApp
   → feat(sync): enhance sync functionality with full reload option and UI updates in SyncCard 
 
