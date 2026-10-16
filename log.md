@@ -1,5 +1,8 @@
 ### 2026-10-16
 
+- 21:31:16 | LocalFirstApp
+  → feat(expense): add unsynced debts and transactions retrieval, enhance habit and transfer services with unsynced data methods 
+
 - 05:26:21 | PersonalTracking
   → debug: Fix the way to create new habit log 
 
