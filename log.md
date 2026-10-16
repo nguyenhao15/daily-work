@@ -1,3 +1,10 @@
+### 2026-10-17
+
+- 05:44:01 | LocalFirstApp
+  → feat(date): refactor formatDate function and add toLocalDateString utility; update logDate format in HabitLogPush interface 
+
+---
+
 ### 2026-10-16
 
 - 22:14:15 | LocalFirstApp
