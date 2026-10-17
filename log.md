@@ -1,5 +1,8 @@
 ### 2026-10-17
 
+- 22:48:00 | LocalFirstApp
+  → fix(expense): correct enum value for transaction type feat(sync): add logging for unsynced data in push service 
+
 - 21:08:00 | LocalFirstApp
   → feat(sync): enhance sync error handling and success notifications 
 
