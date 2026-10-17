@@ -1,5 +1,8 @@
 ### 2026-10-17
 
+- 11:14:22 | LocalFirstApp
+  → feat(formatting): integrate formatPrice utility for consistent currency formatting across transaction and wallet components 
+
 - 10:54:17 | LocalFirstApp
   → feat(debt): add DebtFilterInput component and integrate filtering functionality; update debt services and schema for status filtering 
 
