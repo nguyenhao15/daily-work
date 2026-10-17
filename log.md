@@ -1,5 +1,8 @@
 ### 2026-10-18
 
+- 05:21:00 | LocalFirstApp
+  → fix(expense): correct enum value from 'NOT_NECESSARY' to 'NO_NECESSARY' 
+
 - 05:16:12 | PersonalTracking
   → refactor: use getAllActiveHabits in HabitLogServiceImpl to generate daily logs for all active habits 
 
