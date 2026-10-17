@@ -1,5 +1,8 @@
 ### 2026-10-17
 
+- 10:54:17 | LocalFirstApp
+  → feat(debt): add DebtFilterInput component and integrate filtering functionality; update debt services and schema for status filtering 
+
 - 08:58:14 | LocalFirstApp
   → feat(eslint): enhance import restrictions and add module-specific rules for relative paths 
 
