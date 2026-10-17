@@ -1,5 +1,8 @@
 ### 2026-10-17
 
+- 12:04:03 | LocalFirstApp
+  → feat(sync): enhance auto-sync functionality with improved connection handling and trigger conditions 
+
 - 11:14:22 | LocalFirstApp
   → feat(formatting): integrate formatPrice utility for consistent currency formatting across transaction and wallet components 
 
