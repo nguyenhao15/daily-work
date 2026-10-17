@@ -1,5 +1,8 @@
 ### 2026-10-17
 
+- 08:58:14 | LocalFirstApp
+  → feat(eslint): enhance import restrictions and add module-specific rules for relative paths 
+
 - 08:02:03 | LocalFirstApp
   → feat(sync): implement auto-sync functionality and add sync engine; enhance habit and expense services with sync triggers 
 
