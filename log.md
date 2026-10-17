@@ -1,5 +1,8 @@
 ### 2026-10-17
 
+- 14:11:16 | LocalFirstApp
+  → feat(habit): implement CreateHabitForm and UpdateHabitForm components with form handling and validation; enhance UpdateCreateHabitScreen for habit updates 
+
 - 12:04:03 | LocalFirstApp
   → feat(sync): enhance auto-sync functionality with improved connection handling and trigger conditions 
 
