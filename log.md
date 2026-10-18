@@ -1,5 +1,8 @@
 ### 2026-10-18
 
+- 21:25:04 | LocalFirstApp
+  → feat(category): add type prop to CategoryIcon and update usage in TransactionItemRows feat(sync): implement buildConflictUpdateColumns utility for sync conflict resolution fix(expense): adjust placeholder text in ExpenseFormElements fix(UpdateExpenseForm): add console log for item details during form update 
+
 - 14:34:48 | PersonalTracking
   → debug: Add iconName in payload 
 
