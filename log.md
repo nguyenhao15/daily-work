@@ -1,5 +1,8 @@
 ### 2026-10-18
 
+- 14:10:04 | LocalFirstApp
+  → feat(category): update category handling to include iconName and improve UI interactions 
+
 - 09:25:44 | LocalFirstApp
   → feat(expense): add delete transaction functionality and update button component 
 
