@@ -1,5 +1,8 @@
 ### 2026-10-18
 
+- 09:25:44 | LocalFirstApp
+  → feat(expense): add delete transaction functionality and update button component 
+
 - 05:21:00 | LocalFirstApp
   → fix(expense): correct enum value from 'NOT_NECESSARY' to 'NO_NECESSARY' 
 
