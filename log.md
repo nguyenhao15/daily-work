@@ -1,5 +1,8 @@
 ### 2026-10-18
 
+- 14:34:48 | PersonalTracking
+  → debug: Add iconName in payload 
+
 - 14:10:04 | LocalFirstApp
   → feat(category): update category handling to include iconName and improve UI interactions 
 
