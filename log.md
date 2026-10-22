@@ -1,5 +1,8 @@
 ### 2026-10-22
 
+- 21:28:17 | PersonalTracking
+  → feat: Add investmnet mapper 
+
 - 21:05:23 | LocalFirstApp
   → feat: add database schemas and types for asset management module 
 
