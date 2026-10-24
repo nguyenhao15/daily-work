@@ -1,5 +1,8 @@
 ### 2026-10-24
 
+- 22:05:05 | LocalFirstApp
+  → feat: add update asset screen and update transaction form submission UI 
+
 - 21:04:41 | LocalFirstApp
   → refactor: remove local storage security badges and update privacy text in asset screens and forms 
 
