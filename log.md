@@ -1,5 +1,8 @@
 ### 2026-10-24
 
+- 21:03:24 | LocalFirstApp
+  → refactor: relocate AssetHomeScreen and update styling and footer text 
+
 - 20:55:23 | LocalFirstApp
   → refactor: refactor habit form values handling and update mobile UI styling and database schema 
 
