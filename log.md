@@ -1,5 +1,8 @@
 ### 2026-10-24
 
+- 09:08:45 | LocalFirstApp
+  → feat: add description field to assets and integrate with investment creation service 
+
 - 08:57:27 | LocalFirstApp
   → feat: implement asset module with navigation, services, hooks, and UI views 
 
