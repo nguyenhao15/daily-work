@@ -1,5 +1,8 @@
 ### 2026-10-24
 
+- 21:04:41 | LocalFirstApp
+  → refactor: remove local storage security badges and update privacy text in asset screens and forms 
+
 - 21:03:24 | LocalFirstApp
   → refactor: relocate AssetHomeScreen and update styling and footer text 
 
