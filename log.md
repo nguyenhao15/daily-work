@@ -1,5 +1,8 @@
 ### 2026-10-24
 
+- 10:18:35 | LocalFirstApp
+  → feat: add investment and asset transaction services with schema updates 
+
 - 09:08:45 | LocalFirstApp
   → feat: add description field to assets and integrate with investment creation service 
 
