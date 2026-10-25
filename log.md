@@ -1,5 +1,8 @@
 ### 2026-10-25
 
+- 13:12:05 | LocalFirstApp
+  → feat: add update asset transaction screen and refactor asset transaction service logic 
+
 - 11:04:42 | LocalFirstApp
   → feat: add UpdateTransactionScreen and wire up transaction navigation and form updates 
 
