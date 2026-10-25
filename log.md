@@ -1,5 +1,8 @@
 ### 2026-10-25
 
+- 10:34:14 | LocalFirstApp
+  → feat: add update screen and form components for saving assets 
+
 - 09:16:24 | LocalFirstApp
   → feat: add support for editing investments and assets with new screens and hooks 
 
