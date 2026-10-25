@@ -1,5 +1,8 @@
 ### 2026-10-25
 
+- 21:48:07 | LocalFirstApp
+  → refactor: update saving form inputs, date pickers, category card details, and eas config 
+
 - 16:23:48 | LocalFirstApp
   → fix(ios): enable UIScene lifecycle support for iOS 27 SDK 
 
