@@ -1,5 +1,8 @@
 ### 2026-10-25
 
+- 15:25:30 | LocalFirstApp
+  → fix: update SQLite migration script for table schema adjustments and foreign key ordering 
+
 - 13:12:05 | LocalFirstApp
   → feat: add update asset transaction screen and refactor asset transaction service logic 
 
