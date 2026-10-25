@@ -1,3 +1,10 @@
+### 2026-10-25
+
+- 09:16:24 | LocalFirstApp
+  → feat: add support for editing investments and assets with new screens and hooks 
+
+---
+
 ### 2026-10-24
 
 - 22:05:05 | LocalFirstApp
