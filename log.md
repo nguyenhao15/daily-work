@@ -1,5 +1,8 @@
 ### 2026-10-25
 
+- 11:04:42 | LocalFirstApp
+  → feat: add UpdateTransactionScreen and wire up transaction navigation and form updates 
+
 - 10:34:14 | LocalFirstApp
   → feat: add update screen and form components for saving assets 
 
