@@ -1,5 +1,8 @@
 ### 2026-10-25
 
+- 16:23:48 | LocalFirstApp
+  → fix(ios): enable UIScene lifecycle support for iOS 27 SDK 
+
 - 15:25:30 | LocalFirstApp
   → fix: update SQLite migration script for table schema adjustments and foreign key ordering 
 
