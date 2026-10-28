@@ -1,5 +1,8 @@
 ### 2026-10-28
 
+- 22:29:32 | LocalFirstApp
+  → feat: add app.json configuration and update package dependencies for Expo and React 
+
 - 20:50:01 | LocalFirstApp
   → feat: enhance investment and saving forms with improved state management and error handling 
 
