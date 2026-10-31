@@ -1,5 +1,8 @@
 ### 2026-10-31
 
+- 14:47:00 | LocalFirstApp
+  → feat(subscription): add new subscription features and components - Added new subscription migration for "steep bulldozer". - Removed old SubscriptionCard and SubscriptionList components. - Introduced new PreviewSubscriptions component to display current month subscriptions. - Created SubscriptionCard and SubscriptionList components for rendering subscription details. - Enhanced subscription hooks with CRUD operations for subscriptions. - Updated HomeScreen to utilize the new PreviewSubscriptions component. - Modified subscription schema to ensure categoryId is not null. - Updated subscription types to include category information. 
+
 - 13:43:03 | LocalFirstApp
   → feat: implement subscription management with create, read, and update functionalities 
 
