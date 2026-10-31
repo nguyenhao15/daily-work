@@ -1,3 +1,10 @@
+### 2026-10-31
+
+- 13:43:03 | LocalFirstApp
+  → feat: implement subscription management with create, read, and update functionalities 
+
+---
+
 ### 2026-10-28
 
 - 22:29:32 | LocalFirstApp
