@@ -1,3 +1,10 @@
+### 2026-11-02
+
+- 05:19:17 | LocalFirstApp
+  → feat(expense): add getEveryDayExpenses service and hook for daily expense tracking 
+
+---
+
 ### 2026-11-01
 
 - 22:22:04 | LocalFirstApp
