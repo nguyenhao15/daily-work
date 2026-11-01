@@ -1,5 +1,8 @@
 ### 2026-11-01
 
+- 22:22:04 | LocalFirstApp
+  → chore: remove dependencies from package.json 
+
 - 08:47:09 | LocalFirstApp
   → feat: refactor HomeScreen and UserProfile components, add HabitListToday and OverView, and update SubscriptionList styles 
 
