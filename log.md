@@ -1,3 +1,10 @@
+### 2026-11-01
+
+- 08:47:09 | LocalFirstApp
+  → feat: refactor HomeScreen and UserProfile components, add HabitListToday and OverView, and update SubscriptionList styles 
+
+---
+
 ### 2026-10-31
 
 - 14:47:00 | LocalFirstApp
