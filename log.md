@@ -1,3 +1,10 @@
+### 2026-11-05
+
+- 05:00:28 | LocalFirstApp
+  → feat(expense): add DailyStatCard and ExpenseStatCard components, update OverView to include daily expense stats 
+
+---
+
 ### 2026-11-04
 
 - 20:57:46 | LocalFirstApp
