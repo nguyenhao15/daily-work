@@ -1,3 +1,10 @@
+### 2026-11-04
+
+- 20:57:46 | LocalFirstApp
+  → feat(habit): enhance HabitListToday with header component and completion tracking feat(overview): refactor OverView to use FlatList for sections and integrate HabitListToday 
+
+---
+
 ### 2026-11-02
 
 - 05:19:17 | LocalFirstApp
