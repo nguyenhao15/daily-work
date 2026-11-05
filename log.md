@@ -1,5 +1,8 @@
 ### 2026-11-05
 
+- 21:21:03 | PersonalTracking
+  → feat: add WalletOverviewList and CurrentTransactionList components; enhance WalletHomeScreen and TransactionList functionality 
+
 - 21:01:15 | PersonalTracking
   → feat: update various components for improved layout and functionality 
 
