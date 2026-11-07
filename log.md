@@ -1,5 +1,8 @@
 ### 2026-11-07
 
+- 21:01:34 | PersonalTracking
+  → refactor: improve mobile layout and input components 
+
 - 19:59:44 | PersonalTracking
   → refactor: improve transaction handling and balance updates in debt and transfer services 
 
