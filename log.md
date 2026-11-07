@@ -1,5 +1,8 @@
 ### 2026-11-07
 
+- 16:15:02 | PersonalTracking
+  → fix: prevent multiple navigation clicks on subscription card and improve list tap handling 
+
 - 16:08:43 | PersonalTracking
   → refactor: update subscription components and add filter bar and overview actions 
 
