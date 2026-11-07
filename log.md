@@ -1,5 +1,8 @@
 ### 2026-11-07
 
+- 14:02:53 | PersonalTracking
+  → feat: implement expense handling features including fill info retrieval and transaction creation 
+
 - 11:45:10 | PersonalTracking
   → feat: add FrenquencyTransactionList component and integrate into overview 
 
