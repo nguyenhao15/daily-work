@@ -1,5 +1,8 @@
 ### 2026-11-07
 
+- 16:08:43 | PersonalTracking
+  → refactor: update subscription components and add filter bar and overview actions 
+
 - 15:31:40 | PersonalTracking
   → feat: enhance subscription management with frequency picker and category handling - Added SubscriptionFrequencyPicker component for selecting subscription frequencies. - Updated CreateSubscription and UpdateCategoryForm to handle subscription data. - Enhanced category services to support subscription creation and updates. - Introduced SubscriptionTypeSelector for better subscription configuration. - Improved UI components for subscription cards and lists, including delete functionality. - Refactored form elements for subscriptions to streamline user input. - Added utility functions for subscription frequency management. - Updated schemas to include subscription-related fields and validation. 
 
