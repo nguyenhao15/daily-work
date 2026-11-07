@@ -1,5 +1,8 @@
 ### 2026-11-07
 
+- 19:59:44 | PersonalTracking
+  → refactor: improve transaction handling and balance updates in debt and transfer services 
+
 - 19:52:09 | PersonalTracking
   → refactor: use SQL template literals for atomic balance updates and pass transaction contexts in services 
 
