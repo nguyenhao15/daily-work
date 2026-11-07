@@ -1,5 +1,8 @@
 ### 2026-11-07
 
+- 17:29:28 | PersonalTracking
+  → refactor: clean up console logs and improve error handling across modules 
+
 - 17:26:12 | PersonalTracking
   → fix: add flex-1 to title and use nullish coalescing for value in StatCard 
 
