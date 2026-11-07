@@ -1,5 +1,8 @@
 ### 2026-11-07
 
+- 14:38:47 | PersonalTracking
+  → feat(subscription): add subscription management features - Added subscription creation and overview components. - Implemented hooks for managing subscriptions (create, read, update, delete). - Integrated subscription services with the database. - Updated schemas to include description for subscriptions. - Enhanced UI with subscription lists and forms. - Refactored existing code to accommodate new subscription module. 
+
 - 14:02:53 | PersonalTracking
   → feat: implement expense handling features including fill info retrieval and transaction creation 
 
