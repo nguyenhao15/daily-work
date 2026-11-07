@@ -1,3 +1,10 @@
+### 2026-11-07
+
+- 11:45:10 | PersonalTracking
+  → feat: add FrenquencyTransactionList component and integrate into overview 
+
+---
+
 ### 2026-11-06
 
 - 05:34:39 | PersonalTracking
