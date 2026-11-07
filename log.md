@@ -1,5 +1,8 @@
 ### 2026-11-07
 
+- 17:34:53 | PersonalTracking
+  → refactor: remove unused tabs configuration from transaction screen 
+
 - 17:32:21 | PersonalTracking
   → refactor: adjust padding and layout in transaction screens 
 
