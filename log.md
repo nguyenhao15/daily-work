@@ -1,5 +1,8 @@
 ### 2026-11-07
 
+- 17:26:12 | PersonalTracking
+  → fix: add flex-1 to title and use nullish coalescing for value in StatCard 
+
 - 17:22:59 | PersonalTracking
   → refactor: update UI components and improve layout styling across mobile screens 
 
