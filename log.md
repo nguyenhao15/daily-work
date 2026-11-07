@@ -1,5 +1,8 @@
 ### 2026-11-07
 
+- 17:03:57 | PersonalTracking
+  → refactor: refactor expense suggestion logic and improve error handling in transaction forms 
+
 - 16:58:58 | PersonalTracking
   → feat: add expense suggestion screen and stat card components 
 
