@@ -1,5 +1,8 @@
 ### 2026-11-07
 
+- 19:52:09 | PersonalTracking
+  → refactor: use SQL template literals for atomic balance updates and pass transaction contexts in services 
+
 - 17:34:53 | PersonalTracking
   → refactor: remove unused tabs configuration from transaction screen 
 
