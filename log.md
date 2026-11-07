@@ -1,5 +1,8 @@
 ### 2026-11-07
 
+- 16:58:58 | PersonalTracking
+  → feat: add expense suggestion screen and stat card components 
+
 - 16:15:02 | PersonalTracking
   → fix: prevent multiple navigation clicks on subscription card and improve list tap handling 
 
