@@ -1,5 +1,8 @@
 ### 2026-11-07
 
+- 15:31:40 | PersonalTracking
+  → feat: enhance subscription management with frequency picker and category handling - Added SubscriptionFrequencyPicker component for selecting subscription frequencies. - Updated CreateSubscription and UpdateCategoryForm to handle subscription data. - Enhanced category services to support subscription creation and updates. - Introduced SubscriptionTypeSelector for better subscription configuration. - Improved UI components for subscription cards and lists, including delete functionality. - Refactored form elements for subscriptions to streamline user input. - Added utility functions for subscription frequency management. - Updated schemas to include subscription-related fields and validation. 
+
 - 14:38:47 | PersonalTracking
   → feat(subscription): add subscription management features - Added subscription creation and overview components. - Implemented hooks for managing subscriptions (create, read, update, delete). - Integrated subscription services with the database. - Updated schemas to include description for subscriptions. - Enhanced UI with subscription lists and forms. - Refactored existing code to accommodate new subscription module. 
 
