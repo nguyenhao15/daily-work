@@ -1,5 +1,8 @@
 ### 2026-11-08
 
+- 12:39:50 | PersonalTracking
+  → fix: filter out deleted transactions in expense query 
+
 - 12:12:22 | PersonalTracking
   → refactor: improve expense suggestion evaluation and date calculation logic 
 
