@@ -1,5 +1,8 @@
 ### 2026-11-09
 
+- 20:23:45 | PersonalTracking
+  → refactor: extract expense estimation logic into a custom hook and update overview date ranges 
+
 - 05:19:40 | PersonalTracking
   → refactor: update transaction UI components and remove unused card view 
 
