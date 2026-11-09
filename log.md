@@ -1,5 +1,8 @@
 ### 2026-11-09
 
+- 21:22:24 | PersonalTracking
+  → feat: add expense estimate screen and enhance estimate item card component 
+
 - 20:46:00 | PersonalTracking
   → feat: add TotalEstimateExpense component and update expense estimation utility 
 
