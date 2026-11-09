@@ -1,5 +1,8 @@
 ### 2026-11-09
 
+- 20:46:00 | PersonalTracking
+  → feat: add TotalEstimateExpense component and update expense estimation utility 
+
 - 20:23:45 | PersonalTracking
   → refactor: extract expense estimation logic into a custom hook and update overview date ranges 
 
