@@ -1,5 +1,8 @@
 ### 2026-11-09
 
+- 21:23:49 | PersonalTracking
+  → feat: add navigation and update title in TotalEstimateExpense component 
+
 - 21:22:24 | PersonalTracking
   → feat: add expense estimate screen and enhance estimate item card component 
 
