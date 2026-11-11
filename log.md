@@ -1,3 +1,10 @@
+### 2026-11-11
+
+- 21:12:12 | PersonalTracking
+  → feat: add debt cancellation handling and update debt UI labels 
+
+---
+
 ### 2026-11-10
 
 - 05:29:00 | PersonalTracking
