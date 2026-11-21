@@ -1,5 +1,8 @@
 ### 2026-11-21
 
+- 15:21:12 | mindx
+  → feat: link room units to business units and introduce RoomUnitMapper - Associate RoomUnitEntity with BusinessUnitEntity via business technical code and remove redundant buId from BaseAuditExtendAndBusinessCodeModel - Update RoomUnitInfoDto and RoomUnitNestObject to include nested business unit data - Add RoomUnitMapper for request and entity mapping - Update BusinessUnitService to retrieve BusinessUnitNestObject by business code instead of ID 
+
 - 14:35:18 | mindx
   → feat: enhance maintenance item management; add new endpoints for retrieving and updating maintenance items, and implement delete functionality 
 
