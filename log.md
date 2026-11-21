@@ -1,5 +1,8 @@
 ### 2026-11-21
 
+- 17:58:38 | mindx
+  → feat: introduce DTOs for facility maintenance requests and categories - Add request, info, and nested object DTOs for facility maintenance categories and subcategories - Introduce FacilityMaintenanceRequest and FacilityMaintenanceInfoDto - Remove reWork field from FacilityMaintenanceRequestsEntity 
+
 - 17:15:49 | mindx
   → feat: introduce RoomUnitController and implement facility maintenance categories - Introduce RoomUnitController with endpoints to create and retrieve room units - Add endpoints to BusinessUnitController for code lookup, listing, pagination, and deletion - Add FacilityMaintenanceCategoryEntity, FacilityMaintenanceSubCategoryEntity, and their repositories - Update FacilityMaintenanceRequestsEntity with relationships to business unit, category, and subcategory entities - Add FacilityMaintenanceRequestRepository 
 
