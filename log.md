@@ -1,5 +1,8 @@
 ### 2026-11-21
 
+- 17:15:49 | mindx
+  → feat: introduce RoomUnitController and implement facility maintenance categories - Introduce RoomUnitController with endpoints to create and retrieve room units - Add endpoints to BusinessUnitController for code lookup, listing, pagination, and deletion - Add FacilityMaintenanceCategoryEntity, FacilityMaintenanceSubCategoryEntity, and their repositories - Update FacilityMaintenanceRequestsEntity with relationships to business unit, category, and subcategory entities - Add FacilityMaintenanceRequestRepository 
+
 - 16:52:22 | mindx
   → feat: implement room unit management and introduce BusinessUnitController - Add BusinessUnitController with endpoints to create, update, and retrieve business units - Implement RoomUnitService, RoomUnitServiceImpl, and RoomUnitRepository for room unit CRUD operations - Update RoomUnitEntity to reference BusinessUnitEntity by ID and add indexes for room unit name and type - Extend RoomUnitMapper with entity-to-DTO and update mappings - Update room unit DTOs with validation constraints, enum types, and field adjustments - Remove obsolete BusinessUnitLookupService 
 
