@@ -1,5 +1,8 @@
 ### 2026-11-21
 
+- 16:52:22 | mindx
+  → feat: implement room unit management and introduce BusinessUnitController - Add BusinessUnitController with endpoints to create, update, and retrieve business units - Implement RoomUnitService, RoomUnitServiceImpl, and RoomUnitRepository for room unit CRUD operations - Update RoomUnitEntity to reference BusinessUnitEntity by ID and add indexes for room unit name and type - Extend RoomUnitMapper with entity-to-DTO and update mappings - Update room unit DTOs with validation constraints, enum types, and field adjustments - Remove obsolete BusinessUnitLookupService 
+
 - 15:21:12 | mindx
   → feat: link room units to business units and introduce RoomUnitMapper - Associate RoomUnitEntity with BusinessUnitEntity via business technical code and remove redundant buId from BaseAuditExtendAndBusinessCodeModel - Update RoomUnitInfoDto and RoomUnitNestObject to include nested business unit data - Add RoomUnitMapper for request and entity mapping - Update BusinessUnitService to retrieve BusinessUnitNestObject by business code instead of ID 
 
