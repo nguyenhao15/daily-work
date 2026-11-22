@@ -1,3 +1,10 @@
+### 2026-11-22
+
+- 08:25:37 | mindx
+  → feat: introduce facility maintenance mappers and update entity indexes - Add FacilityMaintenanceCategoryMapper, FacilityMaintenanceSubCategoryMapper, and FacilityMaintenanceRequestMapper - Introduce FacilityMaintenanceSubCategoryNestObject DTO - Change openingDate type to LocalDate in BusinessUnitRequest - Update index definitions in RoomUnitEntity and FacilityMaintenanceRequestsEntity 
+
+---
+
 ### 2026-11-21
 
 - 17:58:38 | mindx
