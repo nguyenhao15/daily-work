@@ -1,5 +1,8 @@
 ### 2026-11-22
 
+- 18:56:56 | mindx
+  → feat: implement soft delete functionality for facility maintenance categories and requests 
+
 - 18:19:02 | mindx
   → feat: introduce facility maintenance category and subcategory controllers - Add FacilityMaintenanceCategoryController with endpoints to create, retrieve, list, and update categories - Add FacilityMaintenanceSubCategoryController with endpoints to create, retrieve, list, and update subcategories 
 
