@@ -1,5 +1,8 @@
 ### 2026-11-22
 
+- 14:48:09 | mindx
+  → feat: implement facility maintenance request queries and introduce query utils - Implement retrieval, pagination, update, and deletion methods in FacilityMaintenanceRequestServiceImpl and interface - Introduce FacilityMaintenanceQueryUtils for building maintenance request specifications - Extend FacilityMaintenanceRequestRepository with JpaSpecificationExecutor - Rename BASEMENT to BRANCH in ScopeView and StaticSpecs - Simplify filter handling in DynamicSpecificationBuilder 
+
 - 10:08:44 | mindx
   → feat: implement facility maintenance services and update mappers and repositories - Implement FacilityMaintenanceCategoryService, FacilityMaintenanceSubCategoryService, and FacilityMaintenanceRequestService with implementations - Rename FacilityMaintenanceSubCategory to FacilityMaintenanceSubCategoryRepository and add active query methods - Add findByActiveTrue method to FacilityMaintenanceCategoryRepository - Update FacilityMaintenanceRequestMapper and FacilityMaintenanceSubCategoryMapper to accept request DTOs - Add nested category and subcategory objects to FacilityMaintenanceInfoDto 
 
