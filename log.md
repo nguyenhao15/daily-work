@@ -1,5 +1,8 @@
 ### 2026-11-22
 
+- 10:08:44 | mindx
+  → feat: implement facility maintenance services and update mappers and repositories - Implement FacilityMaintenanceCategoryService, FacilityMaintenanceSubCategoryService, and FacilityMaintenanceRequestService with implementations - Rename FacilityMaintenanceSubCategory to FacilityMaintenanceSubCategoryRepository and add active query methods - Add findByActiveTrue method to FacilityMaintenanceCategoryRepository - Update FacilityMaintenanceRequestMapper and FacilityMaintenanceSubCategoryMapper to accept request DTOs - Add nested category and subcategory objects to FacilityMaintenanceInfoDto 
+
 - 08:25:37 | mindx
   → feat: introduce facility maintenance mappers and update entity indexes - Add FacilityMaintenanceCategoryMapper, FacilityMaintenanceSubCategoryMapper, and FacilityMaintenanceRequestMapper - Introduce FacilityMaintenanceSubCategoryNestObject DTO - Change openingDate type to LocalDate in BusinessUnitRequest - Update index definitions in RoomUnitEntity and FacilityMaintenanceRequestsEntity 
 
