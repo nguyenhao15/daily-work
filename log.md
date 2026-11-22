@@ -1,5 +1,8 @@
 ### 2026-11-22
 
+- 18:19:02 | mindx
+  → feat: introduce facility maintenance category and subcategory controllers - Add FacilityMaintenanceCategoryController with endpoints to create, retrieve, list, and update categories - Add FacilityMaintenanceSubCategoryController with endpoints to create, retrieve, list, and update subcategories 
+
 - 14:48:09 | mindx
   → feat: implement facility maintenance request queries and introduce query utils - Implement retrieval, pagination, update, and deletion methods in FacilityMaintenanceRequestServiceImpl and interface - Introduce FacilityMaintenanceQueryUtils for building maintenance request specifications - Extend FacilityMaintenanceRequestRepository with JpaSpecificationExecutor - Rename BASEMENT to BRANCH in ScopeView and StaticSpecs - Simplify filter handling in DynamicSpecificationBuilder 
 
