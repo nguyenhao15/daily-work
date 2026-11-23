@@ -1,3 +1,10 @@
+### 2026-11-23
+
+- 22:10:55 | PersonalTracking
+  → feat: implement sync actions and handle deleted records migration 
+
+---
+
 ### 2026-11-22
 
 - 18:56:56 | mindx
