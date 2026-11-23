@@ -1,5 +1,8 @@
 ### 2026-11-23
 
+- 22:20:25 | PersonalTracking
+  → test: update HabitLogRequest constructor calls in HabitLogServiceImplTest 
+
 - 22:10:55 | PersonalTracking
   → feat: implement sync actions and handle deleted records migration 
 
