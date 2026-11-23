@@ -1,5 +1,8 @@
 ### 2026-11-24
 
+- 05:31:44 | PersonalTracking
+  → fix: include id in update payloads for various services to ensure correct record updates 
+
 - 05:03:33 | PersonalTracking
   → feat: implement Trash functionality with TrashScreen, TrashItemCard, and trashService 
 
