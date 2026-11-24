@@ -1,5 +1,8 @@
 ### 2026-11-24
 
+- 17:49:51 | mindx
+  → feat: update API versioning for facility maintenance endpoints and add new API constants 
+
 - 05:36:27 | PersonalTracking
   → feat: enhance updateTransfer to use SQL expressions for ownerId and handle missing transfers 
 
